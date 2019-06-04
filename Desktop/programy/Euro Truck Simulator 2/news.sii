@@ -1,0 +1,1813 @@
+SiiNunit
+{
+news_messages : _nameless.1c3.0732.f580 {
+ update_timestamp: 1556743525
+ for_version: "1.34.0.17s"
+ content_id: ""
+ lang_id: pl_pl
+ latest_version: "1.34.0.34s"
+ latest_version_url: "https://eurotrucksimulator2.com/update.php"
+ messages: 180
+ messages[0]: _nameless.1c3.0555.0210
+ messages[1]: _nameless.1c3.0555.0720
+ messages[2]: _nameless.1c3.0554.e710
+ messages[3]: _nameless.1c3.0555.1fe0
+ messages[4]: _nameless.1c3.0555.11d0
+ messages[5]: _nameless.1c3.0555.12f0
+ messages[6]: _nameless.1c3.0555.1d10
+ messages[7]: _nameless.1c3.0555.1da0
+ messages[8]: _nameless.1c3.0555.2070
+ messages[9]: _nameless.1c3.0555.0cc0
+ messages[10]: _nameless.1c3.0555.0a80
+ messages[11]: _nameless.1c3.0555.14a0
+ messages[12]: _nameless.1c3.0555.2220
+ messages[13]: _nameless.1c3.0555.1380
+ messages[14]: _nameless.1c3.0555.2100
+ messages[15]: _nameless.1c3.0555.23d0
+ messages[16]: _nameless.1c3.0555.1770
+ messages[17]: _nameless.1c3.0555.28e0
+ messages[18]: _nameless.1c3.0555.1410
+ messages[19]: _nameless.1c3.0555.1530
+ messages[20]: _nameless.1c3.0555.16e0
+ messages[21]: _nameless.1c3.0555.2580
+ messages[22]: _nameless.1c3.0555.1650
+ messages[23]: _nameless.1c3.0555.2460
+ messages[24]: _nameless.1c3.0555.2730
+ messages[25]: _nameless.1c3.0555.2970
+ messages[26]: _nameless.1c3.0555.1890
+ messages[27]: _nameless.1c3.0555.1800
+ messages[28]: _nameless.1c3.0555.5040
+ messages[29]: _nameless.1c3.0555.4230
+ messages[30]: _nameless.1c3.0555.43e0
+ messages[31]: _nameless.1c3.0555.4500
+ messages[32]: _nameless.1c3.0555.4e90
+ messages[33]: _nameless.1c3.0555.3c00
+ messages[34]: _nameless.1c3.0555.3390
+ messages[35]: _nameless.1c3.0555.3420
+ messages[36]: _nameless.1c3.0555.3c90
+ messages[37]: _nameless.1c3.0555.2fa0
+ messages[38]: _nameless.1c3.0555.4590
+ messages[39]: _nameless.1c3.0555.3150
+ messages[40]: _nameless.1c3.0555.3e40
+ messages[41]: _nameless.1c3.0555.4860
+ messages[42]: _nameless.1c3.0555.4b30
+ messages[43]: _nameless.1c3.0555.4620
+ messages[44]: _nameless.1c3.0555.3540
+ messages[45]: _nameless.1c3.0555.36f0
+ messages[46]: _nameless.1c3.0555.3810
+ messages[47]: _nameless.1c3.0555.4bc0
+ messages[48]: _nameless.1c3.0555.4f20
+ messages[49]: _nameless.1c3.0555.38a0
+ messages[50]: _nameless.1c3.0555.7f80
+ messages[51]: _nameless.1c3.0555.90f0
+ messages[52]: _nameless.1c3.0555.8f40
+ messages[53]: _nameless.1c3.0555.77a0
+ messages[54]: _nameless.1c3.0555.8a30
+ messages[55]: _nameless.1c3.0555.9180
+ messages[56]: _nameless.1c3.0555.74d0
+ messages[57]: _nameless.1c3.0555.9210
+ messages[58]: _nameless.1c3.0555.7830
+ messages[59]: _nameless.1c3.0555.93c0
+ messages[60]: _nameless.1c3.0555.92a0
+ messages[61]: _nameless.1c3.0555.7950
+ messages[62]: _nameless.1c3.0555.9330
+ messages[63]: _nameless.1c3.0555.85b0
+ messages[64]: _nameless.1c3.0555.8130
+ messages[65]: _nameless.1c3.0555.9570
+ messages[66]: _nameless.1c3.0555.8250
+ messages[67]: _nameless.1c3.0555.79e0
+ messages[68]: _nameless.1c3.0555.82e0
+ messages[69]: _nameless.1c3.0555.94e0
+ messages[70]: _nameless.1c3.0555.7b90
+ messages[71]: _nameless.1c3.0555.9600
+ messages[72]: _nameless.1c3.0555.9690
+ messages[73]: _nameless.1c3.0555.7c20
+ messages[74]: _nameless.1c3.0555.7560
+ messages[75]: _nameless.1c3.0555.8640
+ messages[76]: _nameless.1c3.0555.8400
+ messages[77]: _nameless.1c3.0555.7d40
+ messages[78]: _nameless.1c3.0555.8ac0
+ messages[79]: _nameless.1c3.0555.8490
+ messages[80]: _nameless.1c3.0555.8520
+ messages[81]: _nameless.1c3.0555.86d0
+ messages[82]: _nameless.1c3.0555.8b50
+ messages[83]: _nameless.1c3.0555.87f0
+ messages[84]: _nameless.1c3.0555.8910
+ messages[85]: _nameless.1c3.0555.8c70
+ messages[86]: _nameless.1c3.0555.8d00
+ messages[87]: _nameless.1c3.0555.aad0
+ messages[88]: _nameless.1c3.0555.abf0
+ messages[89]: _nameless.1c3.0555.9f90
+ messages[90]: _nameless.1c3.0555.9c30
+ messages[91]: _nameless.1c3.0555.ae30
+ messages[92]: _nameless.1c3.0555.a770
+ messages[93]: _nameless.1c3.0555.a410
+ messages[94]: _nameless.1c3.0555.a9b0
+ messages[95]: _nameless.1c3.0555.b7c0
+ messages[96]: _nameless.1c3.0555.a380
+ messages[97]: _nameless.1c3.0555.ad10
+ messages[98]: _nameless.1c3.0555.9a80
+ messages[99]: _nameless.1c3.0555.a0b0
+ messages[100]: _nameless.1c3.0555.ada0
+ messages[101]: _nameless.1c3.0555.a890
+ messages[102]: _nameless.1c3.0555.a920
+ messages[103]: _nameless.1c3.0555.a4a0
+ messages[104]: _nameless.1c3.0555.9ba0
+ messages[105]: _nameless.1c3.0555.a5c0
+ messages[106]: _nameless.1c3.0555.b2b0
+ messages[107]: _nameless.1c3.0555.a6e0
+ messages[108]: _nameless.1c3.0555.b610
+ messages[109]: _nameless.1c3.0555.ac80
+ messages[110]: _nameless.1c3.0555.a800
+ messages[111]: _nameless.1c3.0555.aec0
+ messages[112]: _nameless.1c3.0555.aa40
+ messages[113]: _nameless.1c3.0555.a650
+ messages[114]: _nameless.1c3.0555.9cc0
+ messages[115]: _nameless.1c3.0555.af50
+ messages[116]: _nameless.1c3.0555.a2f0
+ messages[117]: _nameless.1c3.0555.b580
+ messages[118]: _nameless.1c3.0555.b8e0
+ messages[119]: _nameless.1c3.0555.afe0
+ messages[120]: _nameless.1c3.0555.a020
+ messages[121]: _nameless.1c3.0555.b850
+ messages[122]: _nameless.1c3.0555.b730
+ messages[123]: _nameless.1c3.0555.b220
+ messages[124]: _nameless.1c3.0555.a140
+ messages[125]: _nameless.1c3.0555.b6a0
+ messages[126]: _nameless.1c3.0555.9b10
+ messages[127]: _nameless.1c3.0555.b970
+ messages[128]: _nameless.1c3.0555.b460
+ messages[129]: _nameless.1c3.0555.9d50
+ messages[130]: _nameless.1c3.0555.b340
+ messages[131]: _nameless.1c3.0555.ab60
+ messages[132]: _nameless.1c3.0555.a260
+ messages[133]: _nameless.1c3.0555.ba00
+ messages[134]: _nameless.1c3.0555.b190
+ messages[135]: _nameless.1c3.0555.b3d0
+ messages[136]: _nameless.1c3.0555.b4f0
+ messages[137]: _nameless.1c3.0555.9f00
+ messages[138]: _nameless.1c3.0555.ba90
+ messages[139]: _nameless.1c3.0555.bbb0
+ messages[140]: _nameless.1c3.0555.99f0
+ messages[141]: _nameless.1c3.0555.bc40
+ messages[142]: _nameless.1c3.0555.98d0
+ messages[143]: _nameless.1c3.0555.c540
+ messages[144]: _nameless.1c3.0555.d230
+ messages[145]: _nameless.1c3.0555.c780
+ messages[146]: _nameless.1c3.0555.d470
+ messages[147]: _nameless.1c3.0555.bcd0
+ messages[148]: _nameless.1c3.0555.cb70
+ messages[149]: _nameless.1c3.0555.c810
+ messages[150]: _nameless.1c3.0555.cdb0
+ messages[151]: _nameless.1c3.0555.dbc0
+ messages[152]: _nameless.1c3.0555.c930
+ messages[153]: _nameless.1c3.0555.d110
+ messages[154]: _nameless.1c3.0555.d7d0
+ messages[155]: _nameless.1c3.0555.da10
+ messages[156]: _nameless.1c3.0555.c9c0
+ messages[157]: _nameless.1c3.0555.dc50
+ messages[158]: _nameless.1c3.0555.de00
+ messages[159]: _nameless.1c3.0555.ca50
+ messages[160]: _nameless.1c3.0555.c270
+ messages[161]: _nameless.1c3.0555.d6b0
+ messages[162]: _nameless.1c3.0555.c390
+ messages[163]: _nameless.1c3.0555.c300
+ messages[164]: _nameless.1c3.0555.db30
+ messages[165]: _nameless.1c3.0555.c0c0
+ messages[166]: _nameless.1c3.0555.bdf0
+ messages[167]: _nameless.1c3.0555.cae0
+ messages[168]: _nameless.1c3.0555.c5d0
+ messages[169]: _nameless.1c3.0555.c420
+ messages[170]: _nameless.1c3.0555.cc90
+ messages[171]: _nameless.1c3.0555.ce40
+ messages[172]: _nameless.1c3.0555.ced0
+ messages[173]: _nameless.1c3.0555.d500
+ messages[174]: _nameless.1c3.0555.cf60
+ messages[175]: _nameless.1c3.0555.d2c0
+ messages[176]: _nameless.1c3.0555.d080
+ messages[177]: _nameless.1c3.0555.dce0
+ messages[178]: _nameless.1c3.0555.de90
+ messages[179]: _nameless.1c3.0555.d1a0
+}
+
+news_message : _nameless.1c3.0555.0210 {
+ timestamp: 1556031600
+ type: news
+ title: "Revisiting Germany Vol. 2"
+ image_hash: FA6564592F328592F6169A3E37DFABE25FC87CD3554929C22E4B8C73E703F0C4
+ url: "https://blog.scssoft.com/2019/04/germany-revisited-2.html"
+ text: "Another part of the Germany rebuild is arriving in this update! This time, our map design team has been focusing on east and south-east areas of Germany. Check out the change list!"
+}
+
+news_message : _nameless.1c3.0555.0720 {
+ timestamp: 1555596000
+ type: news
+ title: Sardinia
+ image_hash: ACA2F6730B6D9D67DE51181D1FCBE5B7102EF8C5F2EE47547BDC6EA4A2BED79C
+ url: "https://blog.scssoft.com/2019/04/sardinia.html"
+ text: "The island of Sardinia with three cities will be added in the upcoming update 1.35 as a free addition for the Italia map expansion. Take a ferry and discover this region soon!"
+}
+
+news_message : _nameless.1c3.0554.e710 {
+ timestamp: 1555341300
+ type: news
+ title: "New Road Connections"
+ image_hash: C0436A42E623E372F8CAA2C5CE8029A86F09A53D9A353D0E2BB391035C0500B4
+ url: "https://blog.scssoft.com/2019/04/new-road-connection.html"
+ text: "Today we'd like to present another appetizer of the approaching update 1.35. Players of both American Truck Simulator and Euro Truck Simulator 2 can look forward to some (a lot, actually) new tarmac!"
+}
+
+news_message : _nameless.1c3.0555.1fe0 {
+ timestamp: 1554739201
+ type: news
+ title: "New trailer types in update 1.35"
+ image_hash: C7249E1510F2D4E012972EADF02858888EB19158698E2B4513AEFA11E1E0C3E7
+ url: "https://blog.scssoft.com/2019/04/trailer-news-part-2-euro-truck.html"
+ text: "We are excited to show you many new trailer types and combinations which you will be able to haul in the next update of Euro Truck Simulator 2. Take a look!"
+}
+
+news_message : _nameless.1c3.0555.11d0 {
+ timestamp: 1554390001
+ type: news
+ title: "ETS2 Teasing"
+ image_hash: FB139578AA8EEBCBF0F7A963656FBB9595F72E85FFCBD3AF3223B0AA092375E5
+ url: "https://blog.scssoft.com/2019/04/ets2-teasing.html"
+ text: "Which countries can be explored in an upcoming map expansion? Where will the roads lead? Only time will tell..."
+}
+
+news_message : _nameless.1c3.0555.12f0 {
+ timestamp: 1553252401
+ type: news
+ title: "One Truck Family Event"
+ image_hash: 8713EE7CF5998C10767BCA96937D6B6C895B951A06816FCC2EBCB30210FCF932
+ url: "https://blog.scssoft.com/2019/03/one-truck-family-event.html"
+ text: "The new season of the European Truck Racing Championship is coming. Before the 2019 season starts, the teams have a long list of places, shows, and events to show off their fast and agile beasts. Begin your deliveries on World of Trucks!"
+}
+
+news_message : _nameless.1c3.0555.1d10 {
+ timestamp: 1552914001
+ type: news
+ title: "A Road to Somewhere New"
+ image_hash: 18ADEBFB68318F2E1EA60B4739A3CBC6D0F8F14A5A5CFEE6B42B0C3A377E051B
+ url: "https://blog.scssoft.com/2019/03/a-road-to-somewhere-new.html"
+ text: "Our ETS2 map team has been busy building a new major map expansion for quite a while already. Research and pre-production have actually started over half a year before the Beyond the Baltic Sea DLC was released. Watch the teaser!"
+}
+
+news_message : _nameless.1c3.0555.1da0 {
+ timestamp: 1550840401
+ type: news
+ title: "Estonian Birthday"
+ image_hash: DF12518573CE8F025D53D4555C650E5BC290C0DBA6E9B25D15BC869CEBF150B7
+ url: "https://blog.scssoft.com/2019/02/estonian-birthday.html"
+ text: "To mark the special occasion of Estonia's 101st birthday, we have updated the Estonian Paint Jobs Pack for ETS2 with an additional national truck cabin design to wear with pride when driving across Europe."
+}
+
+news_message : _nameless.1c3.0555.2070 {
+ timestamp: 1549630801
+ type: news
+ title: "ETS2 Update 1.34"
+ image_hash: F0F447200259A11573163B03847C6510CEF3B33E7DB478979D4E653573978494
+ url: "https://blog.scssoft.com/2019/02/ats-and-ets2-update-134.html"
+ text: "This update brings a very long awaited truck into the game - the Man TGX Euro 6! It comes with 3 cabin and 6 chassis variants, all the way up to the 8x4 and thanks to the unique MAN design, all three cabins are compatible with the heavy-duty chassis!"
+}
+
+news_message : _nameless.1c3.0555.0cc0 {
+ timestamp: 1547834401
+ type: news
+ title: "Conclusion of Christmas event"
+ image_hash: 10C79A57ECE0024A819D7033487C3E25ED8112BA651145B8F2F414B464D57066
+ url: "https://blog.scssoft.com/2019/01/conclusion-of-christmas-event.html"
+ text: "The International Gift Delivery event on World of Trucks saw the community unite to bring much needed assistance to the North Pole and deliver gifts on both sides of Atlantic. Check out stats from the event!"
+}
+
+news_message : _nameless.1c3.0555.0a80 {
+ timestamp: 1547215200
+ type: news
+ title: "Baltic Video Contest Results"
+ image_hash: 8EAB9B7322BCA6F1C003DDC5BA7CFDA66A03CB47A8596F0617C93A86EB979D59
+ url: "https://blog.scssoft.com/2019/01/baltic-video-contest-results.html"
+ text: "We have received a large number of submissions for the Beyond the Baltic Sea video contest. We have been impressed with so many cool ideas, novel camera angles, and a lot of places in the new map portrayed there. Click to view the winning videos!"
+}
+
+news_message : _nameless.1c3.0555.14a0 {
+ timestamp: 1545300001
+ type: news
+ title: "ETS2 - Steam Awards 2018 Voting!"
+ image_hash: DA9B4E47102E16E0CDACD05062B25E7A1C9CEA7ED52B4826C0BCEE2E59BA1B2A
+ url: "https://blog.scssoft.com/2018/12/euro-truck-simulator-2-steam-awards-2018.html"
+ text: "We would like to express our sincere thanks to our fans, the nomination is a true sign of the power of the fan community! Now that the voting starts, we would like to once again rely on your kind support. Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.2220 {
+ timestamp: 1545040801
+ type: news
+ title: "International Christmas Gifts Delivery Event"
+ image_hash: 32B7353C2600E8021D995F6EF9CF5D8A815B401079F87835942CD1C0105E6418
+ url: "https://blog.scssoft.com/2018/12/xmas-event-2018.html"
+ text: "It is that time of year again!... Logistic companies across both continents are putting out the call to all drivers to aid in this huge effort to ship large amounts of holiday gifts across the USA and Europe. Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.1380 {
+ timestamp: 1544807340
+ type: news
+ title: "Calling all video makers!"
+ image_hash: 81877B45AF139E1E781C7589ACB6880C20CE07067859F9CF4B91A0133625D9C7
+ url: "https://blog.scssoft.com/2018/12/calling-all-video-makers.html"
+ text: "We thought that we would try something new with community videos. To celebrate the release of Beyond the Baltic Sea, we decided to hold a video contest... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.2100 {
+ timestamp: 1543523762
+ type: dlc
+ title: "Beyond the Baltic Sea"
+ image_hash: 63B86564CBEB22388B46A1F3EFBCAB7DC6F4379D0DD50A2F96C4B9C992B7C77C
+ url: "http://store.steampowered.com/app/925580/"
+ text: "Beyond the Baltic Sea DLC brings to Euro Truck Simulator 2 the countries of Lithuania, Latvia and Estonia, parts of western Russia, and the south of Finland..."
+}
+
+news_message : _nameless.1c3.0555.23d0 {
+ timestamp: 1543494962
+ type: dlc
+ title: "Lithuanian Paint Jobs Pack"
+ image_hash: 55D76B635F37A670BE196E56DC9BDFB581BEE7B0C680373484BB9C995B7181AE
+ url: "http://store.steampowered.com/app/980592/"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.1c3.0555.1770 {
+ timestamp: 1543494961
+ type: dlc
+ title: "Latvian Paint Jobs Pack"
+ image_hash: 0378DC6638B801D41A3FF3D953D1ADFD6EF961C74246DD75B568C470649EE5B1
+ url: "http://store.steampowered.com/app/980591/"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.1c3.0555.28e0 {
+ timestamp: 1543494960
+ type: dlc
+ title: "Estonian Paint Jobs Pack"
+ image_hash: 85B676233E51EF7D6FCAD23AEAB00CE98065B89A862AC1C38B672922A4563E41
+ url: "http://store.steampowered.com/app/980590/"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.1c3.0555.1410 {
+ timestamp: 1543428360
+ type: news
+ title: "Baltic National Colors"
+ image_hash: 9E521911D76251E64F1A7E2FF0403BCABA9BB61D1020443C3B97592499B22218
+ url: "http://blog.scssoft.com/2018/11/baltic-national-colors.html"
+ text: "Together with the upcoming map expansion, we have prepared national paint job packs for each of the three countries... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.1530 {
+ timestamp: 1543249440
+ type: news
+ title: "ETS2 Update 1.33"
+ image_hash: 76A1FAB61EF9ED68E5088591611A6038ACE0828E2B82572DDEA2191171110BEA
+ url: "http://blog.scssoft.com/2018/11/euro-truck-simulator-2-update-133.html"
+ text: "1.33 is here for ETS2! It may not be as large as previous updates, but it brings a lot of highly requested features from the community! See for yourself!"
+}
+
+news_message : _nameless.1c3.0555.16e0 {
+ timestamp: 1542817440
+ type: news
+ title: "Beyond the Baltic Sea Release Date"
+ image_hash: 8210F18400CCE5AC1CF652C32A57B49C2779EF9BA15A722DB359AD8F782A64E3
+ url: "http://blog.scssoft.com/2018/11/beyond-baltic-sea-releasing-on-november.html"
+ text: "The release of the Beyond the Baltic Sea map expansion is knocking on the hood! The results of the latest testing are in and are so positive that we can establish a firm release date and show you the official trailer!"
+}
+
+news_message : _nameless.1c3.0555.2580 {
+ timestamp: 1542817440
+ type: news
+ title: "Baltic Ports"
+ image_hash: 31442FCD18A457B99DADFE2CF2D933351852FF2A4258E275875FB06DB6ACBD4C
+ url: "http://blog.scssoft.com/2018/11/baltic-ports.html"
+ text: "The Baltic Sea connects the countries of the upcoming Beyond the Baltic Sea map expansion for Euro Truck Simulator 2, it is even the basis for the name of the DLC. Seaports are a key part of freight and logistics of the region. Check out our blog for more info!"
+}
+
+news_message : _nameless.1c3.0555.1650 {
+ timestamp: 1542295440
+ type: news
+ title: "ETS2 1.33 Update Open Beta"
+ image_hash: C77D420DB2B93C2074D845BDB8D4EF44A45A8B9EA92FC97D3AEDD23C8C69AE37
+ url: "http://blog.scssoft.com/2018/11/euro-truck-simulator-2-update-133-open.html"
+ text: "Thanks to everyone involved in the experimental beta, we are now able to launch the ETS2 Update 1.33 Open Beta sooner than anticipated! Check out our blog for more info!"
+}
+
+news_message : _nameless.1c3.0555.2460 {
+ timestamp: 1542036240
+ type: news
+ title: "Event: Trade Connections - Germany Summary"
+ image_hash: A869EC029D808F7BE02405C6004E5C6A590225A579424888DC23223BF9385192
+ url: "http://blog.scssoft.com/2018/11/event-trade-connections-germany-summary.html"
+ text: "The job is done, Trade connectios \xe2\x80\x93 Germany event community goal was reached. However, those of you in need of a few jobs still have a chance. Event system will keep running until until November 15th, 00:00 UTC."
+}
+
+news_message : _nameless.1c3.0555.2730 {
+ timestamp: 1541505000
+ type: news
+ title: "Beyond the Baltic Sea: Towns and Cities"
+ image_hash: CD82D6CB7440CF63E6875E4A721ED978F80D77284DC2C7AC1BB8E1127DD6B2AC
+ url: "http://blog.scssoft.com/2018/11/towns-and-cities.html"
+ text: " Over 85 million people live around the Baltic Sea, who all come from many different backgrounds, cultures, and nationalities. Today we want to focus on the cities, towns, and villages that inhabit the countries in the upcoming DLC. .... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.2970 {
+ timestamp: 1540986600
+ type: news
+ title: "Event: TC - Germany Recomputing"
+ image_hash: 54C52CA2976B8FBA240F590A8B6606597BFB62D0B7BD0DBA9976D8716120B5E5
+ url: "http://blog.scssoft.com/2018/10/trade-connections-germany-recomputing.html"
+ text: "We are re-scaling Trade Connections: Germany event community goal. The new goal is 15 million tons of cargo. A huge task on its own, and a lot of work is still left to do, but we feel that we are back with our feet on the ground.... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.1890 {
+ timestamp: 1539690600
+ type: news
+ title: "Saint Petersburg - Western Diameter"
+ image_hash: CD8A620D175904642CB34D2AEC62419FE9988F132E7D85AB403DD802E9D31B68
+ url: "http://blog.scssoft.com/2018/10/saint-petersburg-western-diameter.html"
+ text: "A lot of work has been invested into St. Petersburg and specifically also into Western High-Speed Diameter in the upcoming Beyond the Baltic Sea map expansion. We have shown you a few screenshots already, but today we would like to show you even more..."
+}
+
+news_message : _nameless.1c3.0555.1800 {
+ timestamp: 1537962600
+ type: news
+ title: "SCS On The Road: ETRC Le Mans"
+ image_hash: 6F825A316399CF74CC0146D366C1234738676C6E3B173D1FAA66DB931942B973
+ url: "http://blog.scssoft.com/2018/09/scs-on-road-etrc-le-mans.html"
+ text: "Our On The Road crew will need to set a new destination on their GPS advisor. The next stop is the 7th round of the FIA ETRC season at Le Mans, France!... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.5040 {
+ timestamp: 1537530600
+ type: news
+ title: "Saint Petersburg - \xd0\xa1\xd0\xb0\xd0\xbd\xd0\xba\xd1\x82-\xd0\x9f\xd0\xb5\xd1\x82\xd0\xb5\xd1\x80\xd0\xb1\xd1\x83\xd1\x80\xd0\xb3"
+ image_hash: 7F44A94D7758F73AD448EF8665B94690C8AE3E8A6924FC2F36B8341B289B52D4
+ url: "http://blog.scssoft.com/2018/09/saint-petersburg.html"
+ text: "Today we'd like to focus on the biggest city in the upcoming ETS2 game expansion Beyond the Baltic Sea. Saint Petersburg is the second largest city in Russia... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.4230 {
+ timestamp: 1537187760
+ type: dlc
+ title: "Krone Trailer Pack"
+ image_hash: 3AC80EE6738D99E7A3DB0AAF546280CD742E7B339FFD7CB839BF592588E247AF
+ url: "https://store.steampowered.com/app/933610/"
+ text: "Deliver with Krone trailers! Enjoy the benefits of trailer ownership with great new trailers ready for tuning and alternate paintjobs...."
+}
+
+news_message : _nameless.1c3.0555.43e0 {
+ timestamp: 1537175640
+ type: news
+ title: "ATS and ETS2 Update 1.32"
+ image_hash: 8D99CB7602AE4D0AB0499CA0EC5A0C70051CDEC1994C9E72A514E87CEDAC85B3
+ url: "http://blog.scssoft.com/2018/09/ats-and-ets2-update-132.html"
+ text: "It's on! We have taken quite a while with the open beta - testing and tuning the new version was a very extensive task, as this is one of the biggest game updates we have ever produced... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.4500 {
+ timestamp: 1537002840
+ type: news
+ title: "Big Monday Coming"
+ image_hash: DDC53FFBFBAE200D4C5678C1FFD9E1E6CE41ADFD3464A9E172CE76BE8896D06F
+ url: "http://blog.scssoft.com/2018/09/big-monday-coming.html"
+ text: "We are getting ready for a really exciting week ahead. Many things need to fall into place just right, we are stretched quite thin to pull it all off, but the outlook is positive... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.4e90 {
+ timestamp: 1536338640
+ type: news
+ title: "Baltic Landmarks"
+ image_hash: AEF88782529CA2673CA80A6C2A4052E38717E2A92D2B70137C2B37D321FFE6A5
+ url: "http://blog.scssoft.com/2018/09/baltic-landmarks.html"
+ text: "Today, we are bringing you a sampling of various landmarks and recognizable places from the upcoming ETS2 Beyond the Baltic Sea map expansion. Unique landmark models... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.3c00 {
+ timestamp: 1535978160
+ type: dlc
+ title: "Space Paint Jobs Pack"
+ image_hash: 1D387454C20C258A94F4F131D18AD420629094356BE154CF342D9F5F19E91193
+ url: "https://store.steampowered.com/app/925650/"
+ text: "Raise your eyes to the sky and marvel at the night sky - this pack brings a touch of extra-terrestrial experience to the game. We have created 6 spacy paint jobs to decorate..."
+}
+
+news_message : _nameless.1c3.0555.3390 {
+ timestamp: 1534336560
+ type: news
+ title: "Beyond the Baltic Sea: Nature"
+ image_hash: DA43F38775A8B255E007AF4C2B9455C99954D69E22AFC908BFAF1DD02D3DC317
+ url: "http://blog.scssoft.com/2018/08/countryside-and-nature.html"
+ text: " Today, we would like to contrast it by looking at calmer and more relaxing sights along the road, like smaller villages and nature of the countryside... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.3420 {
+ timestamp: 1534163760
+ type: dlc
+ title: "Dragon Truck Design Pack"
+ image_hash: 31623C83E97B5B86EC25F0B00032FDAF3BB37A4D6CE6B1199AFC2DD9410F8383
+ url: "https://store.steampowered.com/app/558240/"
+ text: "Tune up your diesel beast in the dragon motifs and accessories contained in this unique pack which was originally designed as a reward for Christmas event in 2016..."
+}
+
+news_message : _nameless.1c3.0555.3c90 {
+ timestamp: 1533904560
+ type: news
+ title: "ETS2 Update 1.32 Open Beta"
+ image_hash: 9A94A69D9AF9AFAE934D3FED0E7A7E699B1D24B906623CB62C6174D8F747D7A1
+ url: "http://blog.scssoft.com/2018/08/euro-truck-simulator-2-update-132-open.html"
+ text: "Open Beta of Euro Truck Simulator 2 Update 1.32 is now available as a preview of things to come. The first major addition is trailer ownership... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.2fa0 {
+ timestamp: 1533213360
+ type: news
+ title: "Update 1.32 Appetizer: Trailer Ownership"
+ image_hash: A18AC887086D63E6D40E635967ECF1157AF8245ED14C89B7D486505632397B78
+ url: "http://blog.scssoft.com/2018/08/update-132-appetizer-trailer-ownership.html"
+ text: "Trailer ownership has been requested for years, and it is coming at last, as a major part of the upcoming 1.32 update both for Euro Truck Simulator 2 and American Truck Simulator. Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.4590 {
+ timestamp: 1532608560
+ type: dlc
+ title: "Dutch Paint Jobs Pack"
+ image_hash: 1597FEC4FEA6442B9C066E1C2C5F8803A2993E3CD7DBA3E206E069151F850908
+ url: "http://store.steampowered.com/app/909640/"
+ text: "The citizens of the Netherlands and all others who like this beautiful country now have a way how to let the world around them know their allegiance with the Dutch paint..."
+}
+
+news_message : _nameless.1c3.0555.3150 {
+ timestamp: 1530534960
+ type: news
+ title: "Revisiting Germany Video Coverage"
+ image_hash: DF9E538E45A59CF2AA6109CF978C0F1C1C6565E35B30B26318E58D2E647B18F3
+ url: "http://blog.scssoft.com/2018/06/revisiting-germany-video-coverage.html"
+ text: "We'd like to share with you some in-game footage we've recently created for an experimental live developer stream. For those of you who did not join in to see the stream, here is your chance to catch up... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.3e40 {
+ timestamp: 1529930160
+ type: news
+ title: "ATS: Operation Big Sur Starting!"
+ image_hash: 74A3E14EC037DD11722FE457DF2F90342B9120159CB6AB0EBD8C936C375EA597
+ url: "http://blog.scssoft.com/2018/06/operation-big-sur-starting.html"
+ text: "Here we are with a World of Trucks event dedicated solely to American Truck Simulator! Join the community in restoring California Highway 1!... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.4860 {
+ timestamp: 1529427900
+ type: news
+ title: "Beyond the Baltic Sea New Industries 2"
+ image_hash: 2BA105644D0C1A55202C659951EBDA0C9CF3B1A9FDA3910EE54CF04212F99933
+ url: "http://blog.scssoft.com/2018/06/beyond-baltic-sea-new-industries-2.html"
+ text: "We would like to share more insights into the variety of industrial installations that you will encounter while on deliveries; these are just some.. Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.4b30 {
+ timestamp: 1528461360
+ type: dlc
+ title: "Portuguese Paint Jobs Pack"
+ image_hash: 405FD028098C83068865E15B34DD3313C3B0BADBEED0CA71ED6C297E5B86916D
+ url: "http://store.steampowered.com/app/876980/"
+ text: "The citizens of Portugal and all others who like this beautiful country now have a way how to let the world around them know their allegiance with the Portuguese paint..."
+}
+
+news_message : _nameless.1c3.0555.4620 {
+ timestamp: 1527095100
+ type: news
+ title: "Revisiting Germany!"
+ image_hash: 979B07BF439DB190E5B73C6869CDC87B75975DE793B533E71CCC046A2049C356
+ url: "http://blog.scssoft.com/2018/05/revisiting-germany.html"
+ text: "The oldest regions we built years ago need the most care, so our choice of where to start was clear: Germany. Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.3540 {
+ timestamp: 1526387760
+ type: news
+ title: "1.31 Update: New Scania 8x4"
+ image_hash: 5B85A0568944F09D03638ABA2B2D2DB57A0428E34DE6FF37358EFACE594D87D4
+ url: "http://blog.scssoft.com/2018/05/ets2-update-131-heavy-duty.html"
+ text: "As already mentioned in the Euro Truck Simulator 2 Update 1.31 feature list, and no doubt witnessed by most of the players who have updated... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.36f0 {
+ timestamp: 1526301360
+ type: news
+ title: "Update 1.31 Now Available"
+ image_hash: E817396B2507FCC597684A4587F2E478F9AAA3055C08A26C679A141BAE78AA6F
+ url: "http://blog.scssoft.com/2018/05/ats-and-ets2-update-131-out-now.html"
+ text: "We are happy to give you official new updates for both our flagship truck sims, at last. Testing of this update wave took us longer than we had hoped... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.3810 {
+ timestamp: 1525437360
+ type: news
+ title: "Beyond Baltic Sea: New Depots"
+ image_hash: D89ABB16741CCEBD48FD9FA9AB85218F44F9517965C8A1431B4F2024B2F41A15
+ url: "http://blog.scssoft.com/2018/05/beyond-baltic-sea-new-industries.html"
+ text: "We showed you various border crossing buildings both at the internal and external borders of the European Union in the previous blog. This time we are going deeper inside the... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.4bc0 {
+ timestamp: 1525091760
+ type: news
+ title: "Trade Connection - Sweden: Event Results"
+ image_hash: C93F03405212A66B4D0B3E2380C7D331CFBAD80D0C90F58393B1D20EF291F570
+ url: "http://blog.scssoft.com/2018/04/trade-connections-sweden-summary.html"
+ text: "The latest World of Trucks event has ended and we think it would be interesting to bring some short summary about how many of our virtual truckers participated... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.4f20 {
+ timestamp: 1524227760
+ type: news
+ title: "1.31 Update Open Beta"
+ image_hash: 3C92523C63D16C6EDBFF67B8A9BD03D927E79D9965EAACF9ABDB4DDC184EE5B9
+ url: "http://blog.scssoft.com/2018/04/euro-truck-simulator-2-update-131-open.html"
+ text: "Update 1.31 for Euro Truck Simulator 2 shares all the new functionality with the same-generation update of ATS, but there are some differences too, and it took... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.38a0 {
+ timestamp: 1523882160
+ type: news
+ title: "Special Transport DLC revisited"
+ image_hash: D02D5B994F856E3FEA3305E241CD0C8C0EC6F208A4923F4F0487B8AA83C30D66
+ url: "http://blog.scssoft.com/2018/04/ets2-special-transport-revisited.html"
+ text: "We are happy to reveal that along with the upcoming ETS2 1.31 Update, the Special Transport DLC will also be updated with new jobs... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.7f80 {
+ timestamp: 1523450160
+ type: news
+ title: "SCS at EGX Rezzed 2018"
+ image_hash: FE051617D4769E3AF082D193C4A60F3BC31C2EFFA9E719F200DD53D18F7FA68E
+ url: "http://blog.scssoft.com/2018/04/scs-at-egx-rezzed-2018.html"
+ text: "EGX Rezzed is the biggest game event held in London, UK. This years session will take place April 13-15 at the Tobacco Dock. As every year... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.90f0 {
+ timestamp: 1523104560
+ type: news
+ title: "Baltic: Border Crossing Prefabs"
+ image_hash: F0A721E0A401439468C682976450F80C5A853B1A16B599E6958A532EB449AEC3
+ url: "http://blog.scssoft.com/2018/04/ets2-baltic-border-crossing-prefabs.html"
+ text: "Beyond the Baltic Sea, the new DLC for Euro Truck Simulator 2 that we are working on now, will be one of the largest and most complex expansion regions. The area... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.8f40 {
+ timestamp: 1522326960
+ type: news
+ title: Cables
+ image_hash: 37C732017778832A5D32933E234CB4DC69A7CCF7A947BB170FF06813893DBD00
+ url: "http://blog.scssoft.com/2018/03/cables.html"
+ text: "There is so much that we would like to add to our games eventually! The input and feedback from you, the truck sim fan community, is a tremendous source... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.77a0 {
+ timestamp: 1522067760
+ type: news
+ title: "Event: Trade Connections - Sweden"
+ image_hash: B78250456A060B7DC3C97B1113E941B4DAF64F430AFCC555D29BF9757AE9AF79
+ url: "http://blog.scssoft.com/2018/03/event-trade-connections-sweden.html"
+ text: "Let us invite you to join a new World of Trucks event. This time, we are looking north!... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.8a30 {
+ timestamp: 1520010000
+ type: news
+ title: "Beyond the Baltic Sea"
+ image_hash: B3C7A53E26E3C43B383D523BD237DA57F83EA3D22A2044CDCF3D667D0F4A0906
+ url: "http://blog.scssoft.com/2018/03/beyond-baltic-sea.html"
+ text: "After our recent teaser post with screenshots, we have seen a lot of speculation and wild guessing initially. Very quickly though, the majority opinion has settled... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.9180 {
+ timestamp: 1518714000
+ type: news
+ title: "The Year of the Dog"
+ image_hash: 34D0A8048945C6CD4BB25AFBEA07DC15DFB3A98C7744D24216E6B75E9D8AE9CA
+ url: "http://blog.scssoft.com/2018/02/the-year-of-dog.html"
+ text: "Traditional Chinese astrology rotates on the 12-year cycle and 2018 is the Year of the Dog. To celebrate accordingly we have updated the ETS2 Chinese Paint Job pack with... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.74d0 {
+ timestamp: 1518109200
+ type: news
+ title: "KRONE trailers are coming to ETS2!"
+ image_hash: AD03290C594070215AC0475E014BBEBC72CFB5F804241B476635C4D2E8BC0816
+ url: "http://blog.scssoft.com/2018/02/krone-trailers-coming-to-euro-truck.html"
+ text: "We are happy to confirm that the negotiations have been successfully concluded and that we have shaken hands on bringing a selection of KRONE trailers as a new DLC... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.9210 {
+ timestamp: 1517920560
+ type: news
+ title: "Something is cooking!"
+ image_hash: A0CB252BA65762A44E85FDAEAD400048BAEC59EF1A8669FD958B53B651A41FEC
+ url: "http://blog.scssoft.com/2018/02/something-else-is-cooking.html"
+ text: "After our last \"chef\xe2\x80\x99s\" post and all the wild guesses, we thought you deserve another look under the lid. Moreover, we can not resist the urge to show you... Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.7830 {
+ timestamp: 1516624560
+ type: news
+ title: "Grand Gift Delivery Results!"
+ image_hash: 4304E861026EB9619448B2F586EBFFD8D8E41DB95C290E594A52FAD96EAA70CE
+ url: "http://blog.scssoft.com/2018/01/grand-gift-delivery-event-results.html"
+ text: "The Grand Gift Delivery event has ended and after our summarizations we can say that you did it! You helped to save Christmas once again! Where would Santa be without all your.. Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.93c0 {
+ timestamp: 1513946160
+ type: news
+ title: "All the Best in the Year 2018!"
+ image_hash: 223469F84B042875F27B33D831BF2EB897706770E282B336B7441984D3D212DA
+ url: "http://blog.scssoft.com/2017/12/all-best-in-year-2018.html"
+ text: "We want to wish you all the best in 2018. Party hard, celebrate and make a New Year\xe2\x80\x99s wish. Have a healthy and prosperous New Year! Happy Trucking! Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.92a0 {
+ timestamp: 1513773360
+ type: news
+ title: "New Event: Grand Gift Delivery 2017"
+ image_hash: 5CA061C83EBBCBBE44A95F52D09F8724CA7C8561B18ABB00101A8E6784CBCA9B
+ url: "http://blog.scssoft.com/2017/12/new-event-grand-gift-delivery-2017.html"
+ text: "We're running two events in parallel - you can choose between American Truck Simulator and Euro Truck Simulator 2, or participate in both events to earn the most goodies! Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.7950 {
+ timestamp: 1513168560
+ type: dlc
+ title: "Special Transport Available Now!"
+ image_hash: E95543644EA6EB531BB1C04696150578AFF373902D6C2AFDCD561100BA8E37AD
+ url: "http://store.steampowered.com/app/558245/"
+ text: "We are proud to bring you the final major release of 2017 - Special Transport DLC. It has been a very busy year for SCS Software, a year of major studio growth, and also..."
+}
+
+news_message : _nameless.1c3.0555.9330 {
+ timestamp: 1512477360
+ type: dlc
+ title: "Italia Available Now!"
+ image_hash: A5E2B4A04015F3E0F4741593D9D442678FE02D4DA7377A75E88DDB8041F31562
+ url: "http://store.steampowered.com/app/558244/"
+ text: "Italia map DLC expands ETS2 with our rendition of the beautiful European country Italy with its rich history, modern industry, traditional architecture, and diverse natural environments."
+}
+
+news_message : _nameless.1c3.0555.85b0 {
+ timestamp: 1512131760
+ type: news
+ title: "ETS2: 1.30 Update Available Now"
+ image_hash: 45182C39AB2627EE6C520696078E7A354C71F9E29AD2AC0145724001C4458278
+ url: "http://blog.scssoft.com/2017/12/euro-truck-simulator-2-update-130.html"
+ text: "Paving the way for next week's major map expansion release, here is the official Update 1.30 for ETS2. We would like to thank everyone for participation in the Open Beta, your support was awesome as always! Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.8130 {
+ timestamp: 1512045360
+ type: news
+ title: "ETS 2: Italia Coming Next Week!"
+ image_hash: A9C48500921DFB3BF4F83F4C4F6D2EC1C8FC80D25630882A227958F291401754
+ url: "http://blog.scssoft.com/2017/11/ets-2-italia-coming-next-week.html"
+ text: "The roads are stretched. The trees are planted. The buildings and landmarks are in place. You can hear a deep hum of engines from the garage. Italia DLC will be available on December 5th, 2017. Click to read more..."
+}
+
+news_message : _nameless.1c3.0555.9570 {
+ timestamp: 1511526960
+ type: news
+ title: "Steam Awards 2017 Nominations"
+ image_hash: 4D634A509149E0CD58E75E7B5DEA4062509697FD5C7E52594A14BF381957EF89
+ url: "http://blog.scssoft.com/2017/11/steam-awards-2017-nominations.html"
+ text: "Valve has announced this years categories for the 2017 Steam Awards. We wonder - can our fantastic community bring us another nomination?... Click to read more."
+}
+
+news_message : _nameless.1c3.0555.8250 {
+ timestamp: 1511181360
+ type: news
+ title: "SCS Merchandise Black Friday!"
+ image_hash: D11C3BEFC48F02D740B22E641482383A525E100B6C1964BF1BBCA00305C825D4
+ url: "https://eshop.scssoft.com"
+ text: "Black Friday on our eshop is here! Get a piece of a unique ETS2 or ATS apparel with huge discount by using \"SCSBLACKFRIDAY35\" code!... Click to visit."
+}
+
+news_message : _nameless.1c3.0555.79e0 {
+ timestamp: 1511181360
+ type: news
+ title: Sicily
+ image_hash: EFB83788372EB85166C0A1DB71CDBC8E802172CB132F35DF8D992BBF9116A078
+ url: "http://blog.scssoft.com/2017/11/sicily.html"
+ text: "The island of Sicily lies in the south on the very tip of Italy \"shoe\". Our version of the island contains three coastal... Click to read more."
+}
+
+news_message : _nameless.1c3.0555.82e0 {
+ timestamp: 1510835760
+ type: news
+ title: "ETS2: Update 1.30 Open Beta"
+ image_hash: B2437428D7BE8E6F5A7628A263D7642A840D0F1F9ECAE14D28FD3A52C065E6F1
+ url: "http://blog.scssoft.com/2017/11/euro-truck-simulator-2-update-130-open.html"
+ text: "Open Beta of Euro Truck Simulator 2 Update 1.30 is ready for you to try! How come we have skipped a version number?... Click to read more."
+}
+
+news_message : _nameless.1c3.0555.94e0 {
+ timestamp: 1509062400
+ type: news
+ title: "BIG Announcement"
+ image_hash: 490ED8985565FB417B82FB946C8A1E42F2F60003671B6EA44E05C0FFC67ED00E
+ url: "http://blog.scssoft.com/2017/10/big-announcement.html"
+ text: "Today, we would like to provide you with a quite detailed look at a project that has been underway for well over a year ... Click to read more."
+}
+
+news_message : _nameless.1c3.0555.7b90 {
+ timestamp: 1508976000
+ type: news
+ title: "Italia: Core Map Enhancements"
+ image_hash: 47108F10F875890B1E5CFE56F4C973F919A480C69E992199F99C32CB6DD6850F
+ url: "http://blog.scssoft.com/2017/10/italia-core-map-enhancements.html"
+ text: "As we were working on our Italia map expansion DLC for Euro Truck Simulator 2, we also reserved some time for... Click to read more."
+}
+
+news_message : _nameless.1c3.0555.9600 {
+ timestamp: 1507852800
+ type: news
+ title: "New WoTr Event: Double-trailer Logistics"
+ image_hash: 2A1EB8558E502F7D5F8735D6BAD03242CEAA4933581D3E0A22E21A76BC7A7084
+ url: "http://blog.scssoft.com/2017/10/new-world-of-trucks-event-double.html"
+ text: "American Truck Simulator players deserve their own dedicated event on World of Trucks, and we are launching one just now... Click to read it's rules and rewards!"
+}
+
+news_message : _nameless.1c3.0555.9690 {
+ timestamp: 1507248000
+ type: news
+ title: "Italia: New Industries"
+ image_hash: 1F9E45ADAB654C3FC6699B8AC1E59781D28632B4D27AB6BBC6E5F90B419F3D8B
+ url: "http://blog.scssoft.com/2017/10/italia-new-industries.html"
+ text: "Industries are the backbone of the economy and the main engine of transport business in our simulators because cargo transportation is the most important basic task we put on our players... Click to read more."
+}
+
+news_message : _nameless.1c3.0555.7c20 {
+ timestamp: 1505001600
+ type: news
+ title: "Italia: Architecture"
+ image_hash: C2DBBF4A6FCD84D6AECF62A5F3C6BD60C13020CC375069FAF44C12AB50C775DA
+ url: "http://blog.scssoft.com/2017/09/italia-architecture.html"
+ text: "It is always an interesting experience for our map designers to research... Click to read more."
+}
+
+news_message : _nameless.1c3.0555.7560 {
+ timestamp: 1503014400
+ type: dlc
+ title: "DAF Tuning Pack"
+ image_hash: FEE19E6FECB392C14C4404BB2842A9D1203A37AF1962824845074ADD4E246B31
+ url: "http://store.steampowered.com/app/461249"
+ text: "Truck tuning is something that is close to the heart of all truckers.  Tons of chrome, expensive hand-made parts, lights and paints - they can turn a regular truck into the work of art! Trick up your New DAF XF and DAF XF 105..."
+}
+
+news_message : _nameless.1c3.0555.8640 {
+ timestamp: 1502928000
+ type: news
+ title: "1.28 Update Has Arrived"
+ image_hash: 937A58D3F8F505EF363B8C3FE1500D24F5D67A32EB397B1A00D6057D994F89F9
+ url: "http://blog.scssoft.com/2017/08/ets2-and-ats-update-128-has-arrived.html"
+ text: "After several weeks of thorough testing and bug fixing, the open beta is finally over today, and we are here to release... Click to read more"
+}
+
+news_message : _nameless.1c3.0555.8400 {
+ timestamp: 1502668800
+ type: news
+ title: "Bella Italia"
+ image_hash: F50BD0EBA617E5FD7288B87D76F3AC8D9DE2EF47855A6F87F5FB239E5C65972E
+ url: "http://blog.scssoft.com/2017/08/bella-italia.html"
+ text: "We are proud to announce the \"Euro Truck Simulator 2: Italia\" map expansion. Our ETS2 map design team... Click to read more"
+}
+
+news_message : _nameless.1c3.0555.7d40 {
+ timestamp: 1498694400
+ type: news
+ title: "Better light flares for vehicles"
+ image_hash: FA9D015F737AE16792701FC73C9801C3F84A84B32FF7B1121B4D5EC796173E22
+ url: "http://blog.scssoft.com/2017/06/better-light-flares-for-vehicles.html"
+ text: "One little visual improvement that we are planning to introduce as a part of the next game update will be better looking vehicle lights... Click to read more"
+}
+
+news_message : _nameless.1c3.0555.8ac0 {
+ timestamp: 1494460800
+ type: dlc
+ title: "Heavy Cargo Pack"
+ image_hash: 2BF11BFD615F44D824A2BC575DAE0A60A45C07DB1D93B6CF377B3C8B7B873C7A
+ url: "http://store.steampowered.com/app/531131"
+ text: "Test your driving skills with these brand news and really heavy cargoes on a new trailers with steering axles... Click to view on Steam."
+}
+
+news_message : _nameless.1c3.0555.8490 {
+ timestamp: 1493942400
+ type: news
+ title: Doubles
+ image_hash: B7998DD3A9A0200A2ABE34E4CE4F3F80CBE6942AEC8B5F268BAA773FB15EDCD6
+ url: "http://blog.scssoft.com/2017/05/doubles.html"
+ text: "Today we have an announcement that should make many of our fans happy...We are polishing double trailers for inclusion in the next major updates for ETS2 as well as for ATS... Click to read more"
+}
+
+news_message : _nameless.1c3.0555.8520 {
+ timestamp: 1492041600
+ type: news
+ title: "Heavyweight Cargoes Coming to ETS2!"
+ image_hash: F6255E173297CBC8E9CFE5EDE8FE49D8500A123D15F7707B599803CEA2900374
+ url: "http://blog.scssoft.com/2017/04/heavyweights-to-enter-ring-soon.html"
+ text: "We have been spending considerable time during the recent year fine-tuning truck & trailer physics and improving power train simulation... Click to read more"
+}
+
+news_message : _nameless.1c3.0555.86d0 {
+ timestamp: 1490227200
+ type: news
+ title: "Game Update Arrives Today!"
+ image_hash: 8B328896C72E02BACD941AE60704BCAA202DB6BD4C6B140441504746898ADB46
+ url: "http://blog.scssoft.com/2017/03/game-updates-arrive-today.html"
+ text: "The wait for the final version of the 1.6 update for American Truck Simulator and 1.27 update for Euro Truck Simulator 2 is over... Click to read more"
+}
+
+news_message : _nameless.1c3.0555.8b50 {
+ timestamp: 1489708800
+ type: news
+ title: "St. Patrick's Day"
+ image_hash: BB46A3CF0E7C202A1F244AD824DA060FB100D8FA05244E267E4C68E05A55EAFE
+ url: "http://blog.scssoft.com/2017/03/st-patricks-day.html"
+ text: "Today is a special day for our fans with Irish descent. Occassionally, we update older content in our games, and we decided to revisit the Irish Paint Jobs Pack... Click to read more"
+}
+
+news_message : _nameless.1c3.0555.87f0 {
+ timestamp: 1488844800
+ type: news
+ title: "1.27 Open Beta is now live!"
+ image_hash: 44BF54B7799C68B8FFAC4A818E9E01CAE00800B25E50A343667F84DE0D8D3B67
+ url: "http://blog.scssoft.com/2017/03/euro-truck-simulator-2-update-127-open.html"
+ text: "Today is the day to start 1.27 Update Open Beta. It took us a bit more time than we anticipated to get the release prepared; we have been... Click to read more"
+}
+
+news_message : _nameless.1c3.0555.8910 {
+ timestamp: 1488153600
+ type: dlc
+ title: "Raven Truck Design Pack"
+ image_hash: 4F259240EB3EF173679987C8A4B990DA46351775B2EA678132100C0DBF6E24E6
+ url: "http://store.steampowered.com/app/318521"
+ text: "Long-term desired and popular Raven Truck Design Pack is now available for everyone! Tune up your truck, wheels and cabin in the legendary Raven motifs... Click to view on Steam."
+}
+
+news_message : _nameless.1c3.0555.8c70 {
+ timestamp: 1486684800
+ type: dlc
+ title: "Valentine's Paint Jobs Pack"
+ image_hash: 6603A9C00D6B270F39B08B3947DBD49630B35B7AC467D41DDF75E736F217E47A
+ url: "http://store.steampowered.com/app/558243"
+ text: "Love is in the air and now you can customize your trucks with these new paint jobs to show your feelings or passion. We have also added small bonus in the form of a cabin accessory..."
+}
+
+news_message : _nameless.1c3.0555.8d00 {
+ timestamp: 1484784000
+ type: dlc
+ title: "Romanian Paint Jobs Pack"
+ image_hash: AE47E6FA116EC895F6E9F21BC440CAE2174D7AF3F44514C1D9890217DA6A2DBC
+ url: "http://store.steampowered.com/app/558241"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.1c3.0555.aad0 {
+ timestamp: 1484784000
+ type: dlc
+ title: "Australian Paint Jobs Pack"
+ image_hash: B88445080432EEB7853F017BFC25115B07933D349151A65C1F04DD8B1D70D764
+ url: "http://store.steampowered.com/app/558242"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.1c3.0555.abf0 {
+ timestamp: 1484092800
+ type: news
+ title: "New Scania R and S"
+ image_hash: E5C5BF14623B5EC1AA64B5565F8DC2C1F7BFF2F42C410E159C990E5C0135D105
+ url: "http://blog.scssoft.com/2017/01/new-scania-s-and-r.html"
+ text: "Several weeks ago, we have posted a brief tweet with a couple of photographs documenting the work of a small crew sent by SCS Software to Scania..."
+}
+
+news_message : _nameless.1c3.0555.9f90 {
+ timestamp: 1484006400
+ type: dlc
+ title: "Michelin Fan Pack"
+ image_hash: 99470BDE0EAF1990779FE6F0AB556D568AC8A4CF0DA566A3DB43C1A9EFAD373A
+ url: "http://store.steampowered.com/app/388471/"
+ text: "We are proud to introduce a new set of truck tyres and truck accessories, officially licensed from Michelin to Euro Truck Simulator 2..."
+}
+
+news_message : _nameless.1c3.0555.9c30 {
+ timestamp: 1483401600
+ type: news
+ title: "ETS2 is a 2016 Steam Awards Winner"
+ image_hash: 5865AA8BBBE83A40D58B53E4650A9BFDB8E6EC7D9424A68B2A78742AAC43F9B9
+ url: "http://blog.scssoft.com/2017/01/steam-powered-fireworks-launched-new.html"
+ text: "Thanks to our awesome community the Euro Truck Simulator 2 has won the first Steam Awards ever and even in both of the nominated categories..."
+}
+
+news_message : _nameless.1c3.0555.ae30 {
+ timestamp: 1482451200
+ type: news
+ title: "Merry Christmas and Happy New Year 2017"
+ image_hash: B9DCEC0AEE6CCA121142E46AA96800104779A00ED6F378ACB6757A88B00E107E
+ url: "http://blog.scssoft.com/2016/12/merry-christmas-and-happy-new-year-2017"
+ text: "Merry Christmas and Happy New Year 2017! We are so proud we have an awesome community like you are and we would like to say thank you for everything..."
+}
+
+news_message : _nameless.1c3.0555.a770 {
+ timestamp: 1481846400
+ type: news
+ title: "Christmas Paint Job Pack Updated"
+ image_hash: 37DF8DE3C8F308A5575F158F3520097AEEA78DD6E5BD3459B21D66283490DA5A
+ url: "http://blog.scssoft.com/2016/12/trucking-christmas.html"
+ text: "It is Christmas time again, and everything around us is being tuned and decorated in colors and motifs related to this special part of the year..."
+}
+
+news_message : _nameless.1c3.0555.a410 {
+ timestamp: 1481241600
+ type: news
+ title: "Belgian Paintjobs: The Value Of Feedback"
+ image_hash: 328F2E68D05953A8D71DF10F9FEC4EA874C4D3572F34BC6F65006963ED9C62EB
+ url: "http://blog.scssoft.com/2016/12/belgian-paintjobs-value-of-feedback.html"
+ text: "We have invested our time and energy into their national signs and colors, but unfortunately we have made some imperfections...."
+}
+
+news_message : _nameless.1c3.0555.a9b0 {
+ timestamp: 1481155200
+ type: news
+ title: "SCS On The Road: Transport Expo 2016"
+ image_hash: A673C6C39460AE8EDEF84101A74B98C525E6DAFC7FDD3FFC8D4BC76ED37C890C
+ url: "http://blog.scssoft.com/2016/12/scs-on-road-transport-expo-2016.html"
+ text: "At the end of November, SCS Software was showing our games at Transport Expo 2016, a new transportation show in Prague. This is not a gaming show..."
+}
+
+news_message : _nameless.1c3.0555.b7c0 {
+ timestamp: 1480896000
+ type: dlc
+ title: "Vive la France ! Available Now"
+ image_hash: 1741218D7B54208843993BA5C7DD6507E5A4C2B7D35D6555E1543257C38DEB7A
+ url: "http://store.steampowered.com/app/531130/"
+ text: "Make your way through broad boulevards of industrial cities and narrow streets of rural hamlets. Enjoy French outdoors with its diverse looks and..."
+}
+
+news_message : _nameless.1c3.0555.a380 {
+ timestamp: 1480636800
+ type: dlc
+ title: "Belgian Paint Jobs Pack"
+ image_hash: 301E3B4A7182DEEACC510AB1A77B4FC99B7D5C81D8B8D706DCEDEC8BE9F7ADB9
+ url: "http://store.steampowered.com/app/540721"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.1c3.0555.ad10 {
+ timestamp: 1480550400
+ type: dlc
+ title: "Finnish Paint Jobs Pack"
+ image_hash: CCAB401F9459FF27CF53240BDA0CD0C162199FB34AFA35D8BD7B593C640C79E4
+ url: "http://store.steampowered.com/app/540720"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation... "
+}
+
+news_message : _nameless.1c3.0555.9a80 {
+ timestamp: 1479081600
+ type: news
+ title: "Blender Tools Update"
+ image_hash: B1DD03ABF2F58ED110DAAEB9056CBA93A3C911CB4F4D2635720CF37EE5C5B17A
+ url: "http://blog.scssoft.com/2016/11/blender-tools-update.html"
+ text: "Most mods require tons of time and hard work to create, and after that, yet more attention and patience is needed to maintain them so that they are compatible with new updates of our games..."
+}
+
+news_message : _nameless.1c3.0555.a0b0 {
+ timestamp: 1478563200
+ type: news
+ title: "Open Beta for ETS 2 Update 1.26"
+ image_hash: C7CEDC8513C1D2F6D0AC63C3289312B41176F4B22D821ECDD6C6024044F1E7E5
+ url: "http://blog.scssoft.com/2016/11/ets-126-beta-update.html"
+ text: "The next major update for Euro Truck Simulator 2 will pave the way for the release of Vive la France! DLC. The plan is to get the new official game update out simultaneously with the new map expansion..."
+}
+
+news_message : _nameless.1c3.0555.ada0 {
+ timestamp: 1478563200
+ type: news
+ title: "Game Developer Session 2016"
+ image_hash: 83815674D86A42DA4C6C3E34AE07E012DE885342573B1552F9843C674B0855E3
+ url: "http://blog.scssoft.com/2016/11/scs-on-game-developer-session-2016.html"
+ text: "Last week, our company participated on Game Developers Session 2016. This is a local game developer scene event similar to GDC, with two days of presentations and a small expo area to show the games..."
+}
+
+news_message : _nameless.1c3.0555.a890 {
+ timestamp: 1477958400
+ type: news
+ title: "Peterbilt 389"
+ image_hash: AD973A1AC5923B80EAF480A57111F8D438C638E7FB41858DC6576565557FD3DE
+ url: "http://blog.scssoft.com/2016/11/peterbilt-389-release.html"
+ text: "A new addition to the ATS family of trucks is here at last! The title of this post already gave it away - finally our rendition of Pete 389 is coming to American Truck Simulator..."
+}
+
+news_message : _nameless.1c3.0555.a920 {
+ timestamp: 1477958400
+ type: news
+ title: "SCS on Instagram"
+ image_hash: 5DF57EB543F70735CBD175E57282242ED9B3C2E8647B6A835E0311707B8EF465
+ url: "http://blog.scssoft.com/2016/11/scs-on-instagram.html"
+ text: "Starting today we are joining another popular social site / sharing application in addition to our current social channels like this Blog, our Facebook, Youtube and Twitter channels..."
+}
+
+news_message : _nameless.1c3.0555.a4a0 {
+ timestamp: 1477872000
+ type: news
+ title: "SCS on the Road: PGA 2016"
+ image_hash: 5FEEFB87A85F14F6D64530FC39187A702C59A926F6C5C3139DDD0BA1EED0C36E
+ url: "http://blog.scssoft.com/2016/10/scs-on-road-pga-2016.html"
+ text: "Last weekend, the visitors of Pozna\xc5\x84 Game Arena 2016, a gaming expo taking place in the beautiful Polish city, had a unique chance to enjoy the very first gameplay of our upcoming Euro Truck Simulator 2 DLC - Vive La France..."
+}
+
+news_message : _nameless.1c3.0555.9ba0 {
+ timestamp: 1477353600
+ type: news
+ title: "World of Trucks - New Achievements To Hunt"
+ image_hash: 195493C2F40F5FEE02F6FC8819A040381BBB48AB191A3141C3367B078DE98A5B
+ url: "http://blog.scssoft.com/2016/10/world-of-trucks-new-achievements-to-hunt.html"
+ text: "Today we would like to pay some attention to all of our beloved truckers who are interested in being a part of the World of Trucks community. We know that truckers like to show off their accomplishments, their statistics, their driven distances..."
+}
+
+news_message : _nameless.1c3.0555.a5c0 {
+ timestamp: 1477267200
+ type: news
+ title: "Halloween Giveaway"
+ image_hash: 51C79BD9CABFC34CF684E0B6BBC12476EE7E1E871DCFD7A2EB3DF83C53892257
+ url: "http://blog.scssoft.com/2016/10/halloween-giveaway.html"
+ text: "While our multiple teams are working on updates and improvements for our games, we want to say thanks to you all for your patience and for this we are offering all players of ATS to grab a free Steam key for our upcoming new Halloween Paintjobs Pack for ATS..."
+}
+
+news_message : _nameless.1c3.0555.b2b0 {
+ timestamp: 1476835200
+ type: news
+ title: "SCS On The Road"
+ image_hash: 83D3083C590431AB3ADA0A9345464FAC90B315F8ED9FDF45D068D04B904FDC25
+ url: "http://blog.scssoft.com/2016/10/scs-on-road.html"
+ text: "The life of a game developer is not all just about basking in the glow of a computer screen. We need to get out too - to perform \"business networking\" - and it's especially true in case of SCS Software..."
+}
+
+news_message : _nameless.1c3.0555.a6e0 {
+ timestamp: 1476403200
+ type: news
+ title: "Truckers.FM Is Turning ONE!"
+ image_hash: 1B76CF5A06247B64A854FC9FB93CDE1087244359B8C4EB44F8FEEF79ADD870E0
+ url: "http://blog.scssoft.com/2016/10/truckersfm-is-turning-one.html"
+ text: "The following blog post that we are bringing you on behalf of Truckers.FM. The phenomenon of fan community radio stations is something very special to our truck simulators..."
+}
+
+news_message : _nameless.1c3.0555.b610 {
+ timestamp: 1476230400
+ type: news
+ title: "Under The Hood"
+ image_hash: D9F147796FB39D34F7345FA17FBD554258732F4265585F32769B2C2EED3C5AD8
+ url: "http://blog.scssoft.com/2016/10/under-hood.html"
+ text: "We have decided that we would like to do, from time to time, some special and dedicated blog-posts for all of you who ever wondered how things are going behind the scenes of our games...."
+}
+
+news_message : _nameless.1c3.0555.ac80 {
+ timestamp: 1475798400
+ type: news
+ title: "The lights of Paris are on the horizon"
+ image_hash: 63809DE1938A5F6BF150D9DA6A1E9E2D35CE90F6047EAB2A77AC144969FD75C5
+ url: "http://blog.scssoft.com/2016/10/the-lights-of-paris-are-on-horizon.html"
+ text: "We are doing our best to try to show France as it really is through the eyes of a truck driver. We hope that you will enjoy driving through \"our\" France as much as we do creating it...."
+}
+
+news_message : _nameless.1c3.0555.a800 {
+ timestamp: 1474243200
+ type: dlc
+ title: "Pirate Paint Jobs Pack"
+ image_hash: FFF6074044CF8A4319F84F46B81602D939339D084B0CDDF9EA6274CE7E8D7B65
+ url: "http://store.steampowered.com/app/461248/"
+ text: "Paint yer truck wi' a choice o' 8 gentleman o' fortune themed paint jobs an' decorate yer truck cabin wi' toys!"
+}
+
+news_message : _nameless.1c3.0555.aec0 {
+ timestamp: 1473984000
+ type: dlc
+ title: "Schwarzm\xc3\xbcller Trailer Pack"
+ image_hash: D41840CF3E94A78BD44E4C661D79A3D67963A20CB19DC3044F0126CF061415DE
+ url: "http://store.steampowered.com/app/388477/"
+ text: "Five highly detailed trailer models officially licensed from The Schwarzm\xc3\xbcller Group to Euro Truck Simulator 2. The Schwarzm\xc3\xbcller Group develops, builds and services commercial vehicles that are ideal for highly competitive and demanding businesses..."
+}
+
+news_message : _nameless.1c3.0555.aa40 {
+ timestamp: 1473206400
+ type: news
+ title: "ETS2 - 1.25 Patch"
+ image_hash: E54A9C2A6987EF738F54BBB539505CEB6728C6AD61D9DDB59B536B3341AD0A40
+ url: "http://blog.scssoft.com/2016/09/the-day-of-updates.html"
+ text: "We are happy to announce that the final version of 1.25 update for Euro Truck Simulator 2 is now available via Steam. Big thanks to all of you who have contributed..."
+}
+
+news_message : _nameless.1c3.0555.a650 {
+ timestamp: 1473033600
+ type: news
+ title: "ATS Rescale Screenshots #2"
+ image_hash: 46AEA3D049993698E6FD069137F6CC771325DB79B12A6EF864998E184347007F
+ url: "http://blog.scssoft.com/2016/09/american-truck-simulator-rescale.html"
+ text: "It is high time for the next batch of screenshots from the ATS Map Rescale project! We are very happy with our progress on the project. We are finishing work faster than we initially anticipated. It is safe to say..."
+}
+
+news_message : _nameless.1c3.0555.9cc0 {
+ timestamp: 1472601600
+ type: news
+ title: "French bridges"
+ image_hash: 21052736D0489E59CF9E1ACA9221D87C96ACC299FD948FCF82424E23F5520F2B
+ url: "http://blog.scssoft.com/2016/08/french-bridges.html"
+ text: "Today we are turning our attention to an undeniably important set of landmarks - bridges. We are re-introducing some of France most famous bridges in the upcoming Vive la France! DLC map expansion..."
+}
+
+news_message : _nameless.1c3.0555.af50 {
+ timestamp: 1472169600
+ type: news
+ title: "Steering Knobs"
+ image_hash: E227EBD4B64E3F845D3B9A266D7EEE9C22543BA65AA2DD85AE5CE3FDFB4BF818
+ url: "http://blog.scssoft.com/2016/08/steering-knobs_26.html"
+ text: "We are, introducing a new little game feature - streering knobs. We have included six different steering knobs in each game; you will be able to install them at four possible locations on a steering wheel..."
+}
+
+news_message : _nameless.1c3.0555.a2f0 {
+ timestamp: 1472083200
+ type: news
+ title: "ETS2 1.25 Open Beta"
+ image_hash: 4EE9F7F9CC890C6065FD8EC3D665740216A38D57BEB06EB866293AEAF0475745
+ url: "http://blog.scssoft.com/2016/08/ets2-125-open-beta.html"
+ text: "Euro Truck Simulator 2 and American Truck Simulator use the same game engine, so they share the fruits of our labor when we add any new features to the source code. Their common ground allows us to, at least in part, test technical updates..."
+}
+
+news_message : _nameless.1c3.0555.b580 {
+ timestamp: 1471824000
+ type: news
+ title: "ETS2 Company Paintjobs"
+ image_hash: CB347AB505258CBD18733826A0227E54FD7E7FEFD7AE89B78667EABD52DC934B
+ url: "http://blog.scssoft.com/2016/08/euro-truck-simulator-2-company-paintjobs.html"
+ text: "hen we originally released Euro Truck Simulator 2, we gave the players a chance to pick a logo for their company, but never really worked with the visual idenity beyond a tiny rectangle in a widget in the game s main menu..."
+}
+
+news_message : _nameless.1c3.0555.b8e0 {
+ timestamp: 1471305600
+ type: news
+ title: "Cab Improvements"
+ image_hash: 31F2F5F7374A117710F1C8DC82D86BC23F8D3F998CC38366F7E9673FAA87E185
+ url: "http://blog.scssoft.com/2016/08/cab-improvements.html"
+ text: "Adjustable steering wheels are not the only in-cabin feature we are going to include in the upcoming update coming for ETS2 and ATS. We are also going to deliver two new features..."
+}
+
+news_message : _nameless.1c3.0555.afe0 {
+ timestamp: 1470787200
+ type: news
+ title: "ATS Rescale Screenshots"
+ image_hash: 32DE07C421BDA3A4C98335CF9C8AAE067745E797CF23B2A3B9DDBB0838AE84B6
+ url: "http://blog.scssoft.com/2016/08/american-truck-simulator-rescale.html"
+ text: "Since announcing the ATS map rescale project, we have received overwhelmingly positive feedback. It was a confirmation that rescaling the map was the right decision! We would like to share a couple of screenshots showcasing..."
+}
+
+news_message : _nameless.1c3.0555.a020 {
+ timestamp: 1470182400
+ type: news
+ title: "Updated DAF XF 105 is coming "
+ image_hash: 27C97022FC693C91AB53D44A17A5792DFBCA9A759B1BF71BB61F55BC3D34E1A1
+ url: "http://blog.scssoft.com/2016/08/updated-daf-xf-105-is-coming.html"
+ text: "We have revisited an existing truck model in ETS2 - the DAF XF. The revision  available soon in 1.25 update, is not just a simple merging of the mod that is  already available to you, but is even further improvement with additional textures rework and remodeling..."
+}
+
+news_message : _nameless.1c3.0555.b850 {
+ timestamp: 1469664000
+ type: news
+ title: "Images from La Rochelle"
+ image_hash: 4D8944CE7540FDD0A3F887965F7A641421EAC6D6BC13E8D9337319DDD520EA19
+ url: "http://blog.scssoft.com/2016/07/images-from-la-rochelle.html"
+ text: "It is our pleasure to introduce you to La Rochelle - one of new cities which provide the chance to taste the natural beauty and variety of French cities and countryside. You will no longer be restricted to entering industrial zones via..."
+}
+
+news_message : _nameless.1c3.0555.b730 {
+ timestamp: 1469145600
+ type: news
+ title: "Adjustable Steering Wheels"
+ image_hash: 56ACA246305ECF07A873552C8E69E291A6A1A9D8E196FB6C2BFDE988F4DF4818
+ url: "http://blog.scssoft.com/2016/08/updated-daf-xf-105-is-coming.html"
+ text: "In the following game updates, we are going to add a small new feature: adjusting the steering wheel column position. With this feature you will be allowed to modify both the height and the angle of the steering wheel..."
+}
+
+news_message : _nameless.1c3.0555.b220 {
+ timestamp: 1468540800
+ type: dlc
+ title: "Swiss Paint Jobs Pack"
+ image_hash: C580C07C8CC2487121B1B1E8C4B8373D17991440DC927E133DC47C143F86B2E8
+ url: "http://store.steampowered.com/app/461246?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Swiss%20Paintjobs%20Pack"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.a140 {
+ timestamp: 1468540800
+ type: dlc
+ title: "Austrian Paint Jobs Pack"
+ image_hash: B49655A2335A65288FED2E6960016403C7F495D44DBB63ED985877713679BB74
+ url: "http://store.steampowered.com/app/461243?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Austrian%20Paintjobs%20Pack"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.b6a0 {
+ timestamp: 1468368000
+ type: news
+ title: "PACCAR Research Center visit"
+ image_hash: 99AC1660C5ED7A46D9BD24AA857A9927FD9BD431A3DBF047C3436BE81214EAFD
+ url: "http://blog.scssoft.com/2016/07/glimpses-from-our-paccar-research.html"
+ text: "We have finally managed to create a short video from the second leg of our trip to the USA this spring. A small expedition team from SCS Software received a kind invitation to spend three days at the PACCAR Technical Center in Mount Vernon, Washington, USA..."
+}
+
+news_message : _nameless.1c3.0555.9b10 {
+ timestamp: 1468281600
+ type: news
+ title: "Do you ever abandon WOTR contracts?"
+ image_hash: 3FED8854EC685D5E25EDDE6877CBE5460C0EA8F72079A6F675E4865F4D12E751
+ url: "http://blog.scssoft.com/2016/07/do-you-ever-abandon-world-of-trucks.html"
+ text: "We have noticed that almost 1/5th of all World of Trucks jobs ends up getting aborted. We are wondering why is that? It is possible that there is something going on that we do not know about but should..."
+}
+
+news_message : _nameless.1c3.0555.b970 {
+ timestamp: 1467849600
+ type: news
+ title: "Vive la (Tour de) France"
+ image_hash: 1FE6A3D164FA6DBD24DC660DDDAC2A651008EF9AF25863F8AE261CAC37ACD224
+ url: "http://blog.scssoft.com/2016/07/vive-la-tour-de-france.html"
+ text: "The 103rd edition of Tour de France is here now! We can show you a comparison between a real place and an the same location in the game. Behold windmill Gu\xc3\xa9 Sainte Marie near commune Les Trois-Moutiers..."
+}
+
+news_message : _nameless.1c3.0555.b460 {
+ timestamp: 1467331200
+ type: news
+ title: "Mid-America Trucking Show Impressions"
+ image_hash: 97EDF77E15C8490D73EEBF7BF1658426D0B1DF1B566CCCE4AFDC088B13ACB781
+ url: "http://blog.scssoft.com/2016/06/mid-america-trucking-show-impressions.html"
+ text: "If you follow this blog or SCS Software's Twitter closely, you may remember that back in April we mentioned that a bunch of guys from SCS Software were going to visit the Mid-America Trucking Show in Luisville, Kentucky..."
+}
+
+news_message : _nameless.1c3.0555.9d50 {
+ timestamp: 1467158400
+ type: dlc
+ title: "Mighty Griffin Tuning Pack"
+ image_hash: 529E43CC12118F605B062C5817501ADCC116E5E488EBBB48949A56EB1D52D03F
+ url: "http://store.steampowered.com/app/461244?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Chinese%20Paintjobs%20Pack"
+ text: "Truck tuning is something that is close to the heart of all truckers.  Tons of chrome, expensive hand-made parts, lights and paints - they can turn a regular truck into the work of art! Trick up your Scania R and Scania Streamline..."
+}
+
+news_message : _nameless.1c3.0555.b340 {
+ timestamp: 1466985600
+ type: news
+ title: "National Flags Event Wrap Up"
+ image_hash: 7EF3D68CC1972963260A8E725EF0330DBA9D26C31A3147572DE7FA7860AE627D
+ url: "http://blog.scssoft.com/2016/06/national-flags-event-wrap-up.html"
+ text: "We were really happy to see the level of interest that you guys and girls showed.  Now that the event has come to a close, we'd like to share with you a few statistics that we have compiled from it..."
+}
+
+news_message : _nameless.1c3.0555.ab60 {
+ timestamp: 1466640000
+ type: news
+ title: "ATS Map rescale"
+ image_hash: 9B7C0EDB42A5BAB90E068991E34090F918A16F0684FA1870801A412AD7A65E82
+ url: "http://blog.scssoft.com/2016/06/the-rescale.html?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=ATS%20Map%20Rescale"
+ text: "American Truck Simulator will get significantly larger map. We are going to change the scale from 1:35 to 1:20, equivalent to ETS2 one. And yes, we will do it for free!..."
+}
+
+news_message : _nameless.1c3.0555.a260 {
+ timestamp: 1466467200
+ type: dlc
+ title: "Chinese Paint Jobs Pack"
+ image_hash: F3AC8A2E1DA05AAD4C25F28BA24255B90D51D3441E67DC6B54608C48FB96F003
+ url: "http://store.steampowered.com/app/461247?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Chinese%20Paintjobs%20Pack"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.ba00 {
+ timestamp: 1466467200
+ type: dlc
+ title: "South Korean Paint Jobs Pack"
+ image_hash: B58A89B5B8903C3312CBFC139B19DFD776C18E41527CBCF637EC9D4D3296EB18
+ url: "http://store.steampowered.com/app/461245?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Korean%20Paint%20Jobs"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.b190 {
+ timestamp: 1465948800
+ type: news
+ title: "World of Trucks event prolonged!"
+ image_hash: A2863321DA283B72E3713B4F6CB1B70D7AF8ACE250277775D22E319C85A7FDA0
+ url: "http://blog.scssoft.com/2016/06/world-of-trucks-event-prolonged.html?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Wotr%20Event%20Prolonged"
+ text: "For those of you who found out late about our event where you can get the DLC for free, do not worry so much. Due to multiple requests and a high level of interest, we decided to prolong the event! The new end date is June 22nd, at 23:59 CET..."
+}
+
+news_message : _nameless.1c3.0555.b3d0 {
+ timestamp: 1465776000
+ type: news
+ title: "Cool roundabouts in France"
+ image_hash: 61A7FDD58252AADFF07FD71BF1F6FBD099816309A321F9CDAA26E8FCAB370A3B
+ url: "http://blog.scssoft.com/2016/06/cool-roundabouts-in-france.html?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Cool%20Roundabouts%20France"
+ text: "We would like to show you a few more screen shots from the upcoming Vive La France DLC that is under construction. The map team is paying a tremendous amount of attention to detail to the road network, and it shows..."
+}
+
+news_message : _nameless.1c3.0555.b4f0 {
+ timestamp: 1465344000
+ type: dlc
+ title: "National Window Flags"
+ image_hash: A2863321DA283B72E3713B4F6CB1B70D7AF8ACE250277775D22E319C85A7FDA0
+ url: "http://blog.scssoft.com/2016/06/national-window-flags.html?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=National%20Window%20Flags"
+ text: "Represent your country while on the road! National Window Flags DLC allows you to put up flag poles on your truck, featuring hundreds of country flags. Get it for free on WorldofTrucks.com!..."
+}
+
+news_message : _nameless.1c3.0555.9f00 {
+ timestamp: 1465171200
+ type: news
+ title: "Arizona map expansion for ATS released!"
+ image_hash: 9317D896CAC27439E01CCB02F9036210B4239205353E9C056927A4E9287CC281
+ url: "http://blog.scssoft.com/2016/06/arizona-map-expansion-for-american.html?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Arizona%20Released"
+ text: "We are happy to announce that we are releasing Arizona DLC for American Truck Simulator today. Discover 15 new cities, admire Colorado River with The Grand Canyon, and explore a section of the famous Route 66!..."
+}
+
+news_message : _nameless.1c3.0555.ba90 {
+ timestamp: 1464739200
+ type: dlc
+ title: "Spanish Paint Jobs Pack"
+ image_hash: A8E06CC9BDBA8E0BA706A516013AFBD4022C38AC7CE879A2F59367BE35372ED0
+ url: "http://store.steampowered.com/app/461241?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Spanish%20Paint%20Jobs"
+ text: "Customize your truck with your country flag! A choice of five unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.bbb0 {
+ timestamp: 1464220800
+ type: news
+ title: "ATS Update 1.3 going into Open Beta"
+ image_hash: 7A75C79015AD5B9AADCD8FC9373DC007A39995722EFE1D4FF72ED9E66DD87C95
+ url: "http://blog.scssoft.com/2016/05/american-truck-simulator-update-13.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=ATS%20Beta%2013"
+ text: "The Open Beta of Update 1.3 for American Truck Simulator is available on Steam. And yes, if you are keen to explore it even before the update is officially released for everybody, the testing version contains the much anticipated Arizona DLC!..."
+}
+
+news_message : _nameless.1c3.0555.99f0 {
+ timestamp: 1464048000
+ type: news
+ title: "ETS2 Update 1.24 in Open Beta"
+ image_hash: 31E5A66A6DDCCEFDD21D1D48178D53E039E38A82E03088E2B447BC96A3CE8E28
+ url: "http://blog.scssoft.com/2016/05/euro-truck-simulator-2-124-open-beta.html=ets2_game&utm_medium=banner&utm_campaign=Advanced%20Trailer%20Coupling"
+ text: "A new wave of game updates is almost here. We are going to do a staged release for Open Betas of our truck sim twins; the first in line is Update 1.24 for Euro Truck Simulator 2. As with every major game update, there are hundreds of changes and tweaks..."
+}
+
+news_message : _nameless.1c3.0555.bc40 {
+ timestamp: 1463529600
+ type: news
+ title: "Advanced Trailer Coupling"
+ image_hash: 9F0B13EFCD5B8CFC9AFA79807D7B397AFC344F2768446AB9D4B5186B70F1E7A6
+ url: "http://blog.scssoft.com/2016/05/advanced-trailer-coupling.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Advanced%20Trailer%20Coupling"
+ text: "The upcoming open betas for the new game updates of Euro Truck Simulator 2 and American Truck Simulator are coming with a new feature: advanced trailer coupling. The standard trailer coupling allowed for quite some room in the relative positions..."
+}
+
+news_message : _nameless.1c3.0555.98d0 {
+ timestamp: 1463097600
+ type: news
+ title: "Arizona Panoramas"
+ image_hash: A2222269EFA00CEE9C75A611F5EB815EA87D7BB6E68E3B88D8954BD604B0693F
+ url: "http://blog.scssoft.com/2016/05/arizona-panoramas.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Arizona%20Panoramas"
+ text: "We are hard at work putting finishing touches on Arizona DLC for American Truck Simulator now. Very soon we should enter first a closed beta and hopefully soon after an open beta phase..."
+}
+
+news_message : _nameless.1c3.0555.c540 {
+ timestamp: 1462838400
+ type: news
+ title: "New types of industries in France"
+ image_hash: B650AFD6AD541FC80E5B09F7C359269684E17F061FFBE975A0D6FE4A21E51D61
+ url: "http://blog.scssoft.com/2016/05/new-types-of-industries-in-france.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=New%20Industries%20In%20France"
+ text: "With each map expansion for our games, we try to come up with new types of places to go. Not just new geography, but also new delivery terminals, bringing new challenges for manoeuvring the truck and trailer..."
+}
+
+news_message : _nameless.1c3.0555.d230 {
+ timestamp: 1462492800
+ type: news
+ title: "Coming soon to World of Trucks"
+ image_hash: D88984210B351338075B0EFD97D0A6B3CFB533A128F77FB3144AC06E59C0093C
+ url: "http://blog.scssoft.com/2016/05/coming-soon-to-world-of-trucks.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Coming%20Soon%20To%20WOTR"
+ text: "The upcoming major Update releases for Euro Truck Simulator 2 and American Truck Simulator will contain a host of improvements. The biggest overhaul is hiding under the hood..."
+}
+
+news_message : _nameless.1c3.0555.c780 {
+ timestamp: 1462320000
+ type: dlc
+ title: "Slovak Paint Jobs Pack"
+ image_hash: FEE8A0F87B1C6965A9449D0ABEBD12F75E562A701DD556C5E58C3B4429FC4E87
+ url: "http://store.steampowered.com/app/461240?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Slovak%20Paint%20Jobs"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.d470 {
+ timestamp: 1462233600
+ type: dlc
+ title: "Italian Paint Jobs Pack"
+ image_hash: 3015549ED0B7C2F2024937E0F6639BC0E8ACC9B2FAD0EF17D6D6219E142E878C
+ url: "http://store.steampowered.com/app/388476?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Italian%20Paint%20Jobs"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.bcd0 {
+ timestamp: 1461888000
+ type: news
+ title: "Arizona road network"
+ image_hash: A95ADAA37D628B4833E8A5E9A3194D7190CCCD9C5B624796345B068B6D14AB17
+ url: "http://blog.scssoft.com/2016/04/arizona-road-network.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Arizona%20Road%20Network"
+ text: "Arizona is not just more of the same. Our tool-chain has matured considerably with the ETS2 team work on Scandinavia and Vive la France, and for Arizona, the ATS team is using the power of the new modular system to put the road network together..."
+}
+
+news_message : _nameless.1c3.0555.cb70 {
+ timestamp: 1461628800
+ type: news
+ title: "A touch of Rocket League in ETS 2"
+ image_hash: 3D360961F8B46B850EB7870BAD77047EA6DBBA88FE1DEFD138F39F84B0E98566
+ url: "http://blog.scssoft.com/2016/04/a-touch-of-rocket-league-in-euro-truck.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Grand%20canyon%20state"
+ text: "A lot of truck driving players are not locked into just the sim niche. Looking at RL and ETS2, you could hardly find two driving games that are more different, and yet, there is quite an overlap between the player bases. People are having fun..."
+}
+
+news_message : _nameless.1c3.0555.c810 {
+ timestamp: 1461369600
+ type: news
+ title: "PAX East show"
+ image_hash: F91ED4AA7C77C65E39C83BB393724F45A7596C38E44C452961B58067371E0597
+ url: "http://blog.scssoft.com/2016/04/blogging-from-pax-east-show-floor.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Pax%20east%20show"
+ text: "The scale of the expo is overwhelming, even though not quite as giant as Germany GamesCom and fortunately not as loud. A tiny team from SCS is on the showfloor as well, manning two demo seats with American Truck Simulator, and definitely not ducking under the pressure as the crowds keep pushing by...."
+}
+
+news_message : _nameless.1c3.0555.cdb0 {
+ timestamp: 1461196800
+ type: news
+ title: "The Grand Canyon State"
+ image_hash: 83921DB72B87F257E80F976A9F2D19C8A3CF42AD12A4EB36ABB568E220C13671
+ url: "http://blog.scssoft.com/2016/04/the-grand-canyon-state.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Grand%20canyon%20state"
+ text: "Arizona gets into shape very visibly now, and we are eager to start internal beta testing in the matter of the next few weeks. We are also ready to commit to take the map expansion through a public open beta test towards the end of the testing period..."
+}
+
+news_message : _nameless.1c3.0555.dbc0 {
+ timestamp: 1461024000
+ type: dlc
+ title: "Hungarian Paint Jobs Pack"
+ image_hash: 885B0D8759E876F9C1B6ACCE9C43A3A5140B23E13041459CDA547A7CD1527A28
+ url: "http://store.steampowered.com/app/388479?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Hungarian%20Paint%20Jobs"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.c930 {
+ timestamp: 1460937600
+ type: dlc
+ title: "Turkish Paint Jobs Pack"
+ image_hash: 424CE032B3A1334EDF3919AEF61DEBF2B9F478634C7754F80D7EA7CAE88836B4
+ url: "http://store.steampowered.com/app/388474?utm_source=ets2_game&utm_medium=dlc%20banner&utm_campaign=Turkish%20Paint%20Jobs"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.d110 {
+ timestamp: 1460851200
+ type: news
+ title: "Expanding Road Infrastructure"
+ image_hash: 497ED42238FC2B2A364BF05A6960A8B9DB5BC45F4FEADF6B13D3AC92635D978C
+ url: "http://blog.scssoft.com/2016/04/expanding-road-infrastructure.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Expanding%20road%20infrastructure"
+ text: "While working on the new Vive la France! map expansion DLC for Euro Truck Simulator 2, the team is creating and putting to use a new set extending the range of the various road types, including new specialized prefabs for making highly detailed junctions..."
+}
+
+news_message : _nameless.1c3.0555.d7d0 {
+ timestamp: 1460505600
+ type: dlc
+ title: "Wheel Tuning Pack"
+ image_hash: 45DAE7EF5BA2B613F01C74C626171D5DFB6422609F6DC5F5201BD82147DE0C5C
+ url: "http://store.steampowered.com/app/388475?utm_source=ets2_game&utm_medium=dlc%20benner&utm_campaign=Wheel%20Tunning%20Pack"
+ text: "Ultimate wheel customization is here! Paint and customize your nuts, discs, hubs and hub covers exactly as you want!<br />Buy this DLC and get the Wheel Tuning Pack for American Truck Simulator with your purchase."
+}
+
+news_message : _nameless.1c3.0555.da10 {
+ timestamp: 1460332800
+ type: news
+ title: "Parallel Game Updates"
+ image_hash: DB7807E1438D51478D6AB84AD76E7F03C75B6F2A55FC99AD52A1E45730AD9974
+ url: "http://blog.scssoft.com/2016/04/parallel-game-update.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Parallel%20game%20update"
+ text: "At last, updates 1.23 for Euro Truck Simulator 2 and 1.2 for American Truck Simulator are live. We have received a huge amount of valuable feedback that made us re-engineer some elements of Steam Workshop support to make it more robust...."
+}
+
+news_message : _nameless.1c3.0555.c9c0 {
+ timestamp: 1459987200
+ type: news
+ title: "PACCAR Technology Center"
+ image_hash: 35A09D5AF6FFEEE9E23FB9263539AE1BF14FAD338C6F5D31D7683233CD5D52F3
+ url: "http://blog.scssoft.com/2016/04/paccar-technology-center.html?utm_source=ets2_game&utm_medium=banner&utm_campaign=Paccar%20center"
+ text: "A small expedition team from SCS Software received a kind invitation to spend three days at the PACCAR Technical Center in Mount Vernon, Washington, USA. It has been a great adventure for us, we have recorded a ton of truck engine sounds..."
+}
+
+news_message : _nameless.1c3.0555.dc50 {
+ timestamp: 1459555200
+ type: news
+ title: "SCS Software is at Mid-America Trucking Show"
+ image_hash: 25070FA8D84D8E47EE98BD13F3843A47003FDC701F23BF342920C5018C0562F7
+ url: "http://blog.scssoft.com/2016/04/scs-software-is-at-mid-america-trucking.html?utm_source=ets2_game&utm_medium=banner&utm_content=Game%20updates%20need%20more%20time%20in%20beta&utm_campaign=CS%20Software%20is%20at%20MATS"
+ text: "We are about to start our third and final day of MATS 2016. We have seen and photographed a ton of things that we hope will help us in further evolution of American Truck Simulator. Let us share a few images..."
+}
+
+news_message : _nameless.1c3.0555.de00 {
+ timestamp: 1459382400
+ type: news
+ title: "Game updates need more time in beta"
+ image_hash: 52B24F2FA35A63B14232FA67A3688EDC5EB4EE0533304CA622FDE1A29B663A23
+ url: "http://blog.scssoft.com/2016/03/game-updates-need-more-time-in-beta.html?utm_source=ets2_game&utm_medium=banner&utm_content=Game%20updates%20need%20more%20time%20in%20beta&utm_campaign=Game%20updates%20need%20more%20time%20in%20beta"
+ text: "Whenever we go for Open Beta of a game update, we always do it hoping that there are no major problems with the update, that the beta process will be just a confirmation that we are in good shape for official release..."
+}
+
+news_message : _nameless.1c3.0555.ca50 {
+ timestamp: 1458691200
+ type: news
+ title: "First days of Steam Workshop"
+ image_hash: 0BB3F3DA9262A0DEF3FFCE4FD9C6F7AD500546C03DC7AEAA402786BF87CD18E7
+ url: "http://blog.scssoft.com/2016/03/the-power-of-community-4-first-days-of.html"
+ text: "Within just a few days of launching current open beta of Steam Workshop for Euro Truck Simulator 2 and American Truck Simulator, both our games got inside Top 200 list of Steam games with the largest Workshops..."
+}
+
+news_message : _nameless.1c3.0555.c270 {
+ timestamp: 1458086400
+ type: news
+ title: "American Truck Simulator 1.2 Open Beta"
+ image_hash: 4F9A56D4EBF4D8C72BECD75D61F5A7B771123396C33171657A312151183FCCB0
+ url: "http://blog.scssoft.com/2016/03/american-truck-simulator-12-open-beta.html"
+ text: "Update 1.2 for American Truck Simulator is entering Open Beta on Steam today. We\xe2\x80\x99re working simultaneously on both ATS and ETS2. The same game engine allows us to make changes to both games in parallel, so some improvements to the game may be..."
+}
+
+news_message : _nameless.1c3.0555.d6b0 {
+ timestamp: 1457913600
+ type: news
+ title: "ETS2 Update 1.23 in Open Beta Now!"
+ image_hash: E077314D0E55AF49AEAA2FD9D973089EE6E9766C6B5692ABEE9E1EFE75A818FC
+ url: "http://blog.scssoft.com/2016/03/euro-truck-simulator-2-update-123-in.html"
+ text: "We are happy to announce that open beta of Update 1.23 for Euro Truck Simulator 2 is now available on Steam. We are bringing a lot of changes in the core game. Let us introduce the major additions with more detail. Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.c390 {
+ timestamp: 1457654400
+ type: news
+ title: "France Sneak Peek"
+ image_hash: A25D13A27CCBC30301F1EF8885A6C5E611EE64A94BB22456C20F688E659CE0E5
+ url: "http://blog.scssoft.com/2016/03/france-sneak-peek.html"
+ text: "Let us show you a little bit of new France that we are working on for ETS2. These are a bit raw screenshots where you still can see some placeholder models, a sort of a peek behind the shoulder of a map designer as he still keeps working on his area. Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.c300 {
+ timestamp: 1456876800
+ type: news
+ title: "Ultimate Wheel Customization"
+ image_hash: 3EAAACEFAE980E3A9103FB1AE610A8180A1D780906E4F6D983854609360903C5
+ url: "http://blog.scssoft.com/2016/03/ultimate-wheel-customization.html"
+ text: "It's not just Steam Workshop support, there is another important feature coming with the next ETS2 and ATS update. There's no other way of putting it: we're going to provide you with ultimate wheel customization! Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.db30 {
+ timestamp: 1456790400
+ type: news
+ title: "Arizona Teasing"
+ image_hash: 564602C2127BF1FD0E50C8F209F686941F0409D66521988C8B22DA8BBC1A4EF7
+ url: "http://blog.scssoft.com/2016/03/arizona-teasing.html"
+ text: "We have been working hard on Arizona DLC for American Truck Simulator already for several weeks before we have shipped the initial release edition of the game. We are making great progress. We thought you may be happy to see a couple of screenshots... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.c0c0 {
+ timestamp: 1456358400
+ type: news
+ title: "Steam Workshop support coming!"
+ image_hash: 10083BA6D6F9061F5A22114CFD33F90A928058D4561AAAD540827D970E0479BE
+ url: "http://blog.scssoft.com/2016/02/steam-workshop-support-coming.html"
+ text: "We are working now on update 1.23 for ETS2, and 1.2 for ATS. One of the major features coming with the updates is support for Steam Workshop... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.bdf0 {
+ timestamp: 1455753600
+ type: news
+ title: "Vive la France!"
+ image_hash: 03F09237FE31A7C06786FDBBD0EA19A0CAB3EB1333766D06FADC955EBBA69B47
+ url: "http://blog.scssoft.com/2016/02/vive-la-france.html"
+ text: "It's time to start showing you more stuff from the various new things we have in the pipeline. We are not a one-project-at-a-time company any more, there are several new cool things under development in our labs now!... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.cae0 {
+ timestamp: 1455494400
+ type: news
+ title: "Get to Drive Kenworth W900 Now!"
+ image_hash: E174EBF0908C67154DF834A3336D997AFEFE7BCD5A39240B375880FA6CC8FDA3
+ url: "http://blog.scssoft.com/2016/02/get-to-drive-kenworth-w900-now.html"
+ text: "We are happy to announce that the legendary Kenworth W900 truck is now a part of American Truck Simulator. Please check out the little movie that we have made to celebrate this event... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.c5d0 {
+ timestamp: 1455062400
+ type: news
+ title: "American Truck Simulator Demo Released"
+ image_hash: 70E28EC40DE256FFF04A1CD2D6780C96C792ADF37C44C149395CBF170ECF0DCF
+ url: "http://blog.scssoft.com/2016/02/american-truck-simulator-demo-released.html"
+ text: "If you are still unsure whether to take the risk and buy the game for fear of technical incompatibility, we are happy to announce the availability of a free American Truck Simulator demo... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.c420 {
+ timestamp: 1454976000
+ type: news
+ title: "Kenworth W900 is Almost Here"
+ image_hash: DE2D7AB76649A381D912AA30A7430177AE6589AB7365A9A8D677F07E8D89805A
+ url: "http://blog.scssoft.com/2016/02/kenworth-w900-is-almost-here.html"
+ text: "The iconic Kenworth W900 truck model should be added to the American Truck Simulator line-up in a few short days; it will be a part of the first small game update that we are finishing now... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.cc90 {
+ timestamp: 1454371200
+ type: news
+ title: "American Truck Simulator Releasing Today"
+ image_hash: D344EA95838812FAA9A95AF487FA8A20CF5CA3A7A62483FC9ECEA72BA4AAC938
+ url: "http://blog.scssoft.com/2016/02/american-truck-simulator-releasing-today.html"
+ text: "We are only hours away from the release of American Truck Simulator!. So here is the plan: We will start the release process this evening already (2nd February, CET time zone)... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.ce40 {
+ timestamp: 1454284800
+ type: news
+ title: "Humbled by so Many Positive Reactions"
+ image_hash: BC5272E3E77301F966BB8A0290CB54ED8AB89E88A1A776A9A7D7A69DCCDB4AA9
+ url: "http://blog.scssoft.com/2016/01/hype-machine.html"
+ text: "The Internet is really waking up to American Truck Simulator, with first in-depth reviews, videos and streams. So far it looks like we are doing great!... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.ced0 {
+ timestamp: 1453939200
+ type: news
+ title: "American Truck Simulator Launch Trailer"
+ image_hash: 913BF12201480EC416471B1A5FBAA3FB03A931C422159D55AC6DD3F25FC098FD
+ url: "http://blog.scssoft.com/2016/01/launch-trailer-for-american-truck.html"
+ text: "We are all living in the world of video, and American Truck Simulator is not an exception for sure. Behold our take at an emotional game launch trailer!... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.d500 {
+ timestamp: 1453680000
+ type: news
+ title: "Truck Licensing Situation Update"
+ image_hash: 8AED23E503B5327691535ECC69416FB19670AF85127C7EF419BF8D956B2DF54A
+ url: "http://blog.scssoft.com/2016/01/truck-licensing-situation-update.html"
+ text: "We still owe you clarification on the initial set of trucks shipping as part of the first release of American Truck Simulator... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.cf60 {
+ timestamp: 1453334400
+ type: news
+ title: "American Trucks & World Of Trucks"
+ image_hash: 8037E542A692072D181BEFA13649DA3DFA84B915DC5590FBB6A8DF0CD445B5AE
+ url: "http://blog.scssoft.com/2016/01/american-truck-simulator-world-of-trucks.html"
+ text: "American Truck Simulator is well on its way to the February 3 release, and we though that it is time to discuss the plans for its integration with World of Trucks universe... Click to view more on our blog..."
+}
+
+news_message : _nameless.1c3.0555.d2c0 {
+ timestamp: 1447027200
+ type: dlc
+ title: "Japanese Paint Jobs Pack"
+ image_hash: A82D13E5292BF82C02D20BE78D51E62169EA7AA8F2D5E0599DE7F878C2F684ED
+ url: "http://store.steampowered.com/app/388472"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+news_message : _nameless.1c3.0555.d080 {
+ timestamp: 1443657600
+ type: dlc
+ title: "Cabin Accessories"
+ image_hash: 0A41C10A664919A51C6D51013AD2B07EAD1684B66B4A086279391044800A3AC6
+ url: "http://store.steampowered.com/app/388470"
+ text: "Decorate the interior of your truck cabin with practical as well as totally impractical accessories and toys! Includes a sat nav unit and a ball compass on the functional side, and a host of useless junk that can help you turn your cabin into a comfortable den. Click to view more..."
+}
+
+news_message : _nameless.1c3.0555.dce0 {
+ timestamp: 1437955200
+ type: dlc
+ title: "Prehistoric Paint Jobs Pack"
+ image_hash: D61D0BCF380C89A2776F8BFE22B17779DF631E58B79E7CBF796E4021411468F9
+ url: "http://store.steampowered.com/app/266931"
+ text: "Paint your truck with a choice of 6 prehistoric themed paint jobs!: Ice Age, Winged Lizard, Sea Monster, Saber Tooth, Apex Predator, Horned Face. Click to view more..."
+}
+
+news_message : _nameless.1c3.0555.de90 {
+ timestamp: 1430956800
+ type: dlc
+ title: "Viking Legends Paint Jobs Pack"
+ image_hash: FE8CF315006AE1A92A896C233E379DEC334EA4FE292553CC6597A812B1972BE2
+ url: "http://store.steampowered.com/app/347212"
+ text: "Free DLC for all early buyers of Scandinavia expansion. Feel like a Viking god with a choice of 6 powerful paint jobs!: Freya's Blessing, Loki's Cunning, Njord's Resilience, Odin's Wisdom, Thor's Fury, Tyr's Wrath. Click to view more..."
+}
+
+news_message : _nameless.1c3.0555.d1a0 {
+ timestamp: 1430870402
+ type: dlc
+ title: "Danish Paint Jobs Pack"
+ image_hash: 47438CAB052512039B24815FA2881BD630830F69CF2D68BE6BA2FF72EEA68FB3
+ url: "http://store.steampowered.com/app/347210"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation. Click view screenshots..."
+}
+
+}

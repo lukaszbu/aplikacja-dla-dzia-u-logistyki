@@ -1,0 +1,1563 @@
+************ : log created on : Wednesday May 01 2019 @ 22:49:35
+00:00:00.000 : [sys] running on x86_64 / Windows 10 x64 (version 10.0)
+00:00:00.000 : [sys] DirectX version : 4.09.00.0904
+00:00:00.000 : [sys] Command line:  D:\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe
+00:00:00.000 : [cpu] CPU0: GenuineIntel [Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz] with 4 cores (8 threads) at ~1992MHz.
+00:00:00.000 : [sys] using 3 worker thread(s)
+00:00:00.000 : [sys] and 3 worker threads for IO.
+00:00:00.000 : [sys] plus 3 real-time worker threads.
+00:00:00.000 : [sys] using QPC / HPET timer, frequency 10000000Hz
+00:00:00.006 : [mem] physical total: 16281M
+00:00:00.006 : [mem] physical avail: 13094M
+00:00:00.006 : [mem] virtual total: 134217727M
+00:00:00.006 : [mem] virtual avail: 134213108M
+00:00:00.006 : [mem] Trying to allocate memory pool (819200K)
+00:00:00.006 : [mem] Allocated 5 temporary loading buffer(s)
+00:00:00.019 : [xinput] Using XInput version 1.4.0
+00:00:00.025 : [hashfs] effect.scs: Mounted, 10066 entries
+00:00:00.077 : [hashfs] base.scs: Mounted and validated, 79038 entries (63AB05F3997AB4442FA1F77475E1C93060EEA47819B96FFA6E6D4FD8C942CE9D)
+00:00:00.078 : [hashfs] core.scs: Mounted and validated, 9 entries (305CC15D66D86A48E3D923889E1281EA469C4AB6B2F670B20C1591E5E94C61E1)
+00:00:00.221 : [hashfs] def.scs: Mounted and validated, 14354 entries (811CACFB7A49238A7B40030EE68A303BA71934BBCB91513478DD23295E841075)
+00:00:00.283 : [hashfs] locale.scs: Mounted and validated, 172 entries (04189A06A0D17605C1C6EBAD3CE076A611A26DEFAFF503F4F7B6FB44D1DF7994)
+00:00:00.284 : [hashfs] base_cfg.scs: Mounted and validated, 1 entries (4EBEA21D9144DB6342CB0C98C78909A06FBD141CDEC5F19A6784BD92BC7D393B)
+00:00:00.284 : [ufs] Home directory: 'C:/Users/butry/Documents/Euro Truck Simulator 2'.
+00:00:01.296 : [hashfs] dlc_balt.scs: Mounted and validated, 13689 entries (843B45851A3F2B3F0340952E0E0E7BA141D059413A4FAE64A3593C18CC85355A)
+00:00:01.296 : [hashfs] dlc_balt.scs: Unmounted.
+00:00:01.312 : [hashfs] dlc_christmas.scs: Mounted and validated, 1588 entries (5642A52DA88D1FAC23D3D3B31E96C6E4DB432457C6B67FB8B357D8313F7E2DB2)
+00:00:01.313 : [hashfs] dlc_christmas.scs: Unmounted.
+00:00:01.352 : [hashfs] dlc_daf_tuning_pack.scs: Mounted and validated, 2061 entries (B9299DF925B54A68684F5774F9C0315D047772BB295FB92C711EB87A7B6C522C)
+00:00:01.352 : [hashfs] dlc_daf_tuning_pack.scs: Unmounted.
+00:00:01.356 : [hashfs] dlc_dragon.scs: Mounted and validated, 405 entries (35018E91874FDBEB2DF1EBF1F27F9ED01CD1EB5737F15F1810A7AA5FEB2EFAAB)
+00:00:01.357 : [hashfs] dlc_dragon.scs: Unmounted.
+00:00:01.456 : [hashfs] dlc_east.scs: Mounted and validated, 925 entries (BF7D9F3E9C880A4F374E49A6EB4DA805D413B54455CE63587BC4BB63DD260DA9)
+00:00:01.456 : [hashfs] dlc_east.scs: Unmounted.
+00:00:01.462 : [hashfs] dlc_fantasy.scs: Mounted and validated, 852 entries (8285D641AD87FC839958F39EDDDD80BF1CD666C4065660B00EB605C1FA75B74E)
+00:00:01.462 : [hashfs] dlc_fantasy.scs: Unmounted.
+00:00:01.466 : [hashfs] dlc_flags_at.scs: Mounted and validated, 578 entries (E507A14DD63956F1866BCBAA089FCEFD9768CAE0D8F47741D34551E1EB1021BE)
+00:00:01.466 : [hashfs] dlc_flags_at.scs: Unmounted.
+00:00:01.470 : [hashfs] dlc_flags_aus.scs: Mounted and validated, 632 entries (AEC8CB4E7FD21BFACF9D1DA3494647EC1A1206E326274D8D952D0C9813971F03)
+00:00:01.470 : [hashfs] dlc_flags_aus.scs: Unmounted.
+00:00:01.475 : [hashfs] dlc_flags_be.scs: Mounted and validated, 683 entries (E6B434E6DE1F23CEB383909DA94D3CB56B520C55B5768AB30BC765A7C9247ADD)
+00:00:01.475 : [hashfs] dlc_flags_be.scs: Unmounted.
+00:00:01.479 : [hashfs] dlc_flags_bz.scs: Mounted and validated, 575 entries (89AAF0DC81D182B48E8BB375BEF9333BFC59FABBBBCB00A18127E59A5CB0B3D0)
+00:00:01.479 : [hashfs] dlc_flags_bz.scs: Unmounted.
+00:00:01.484 : [hashfs] dlc_flags_ca.scs: Mounted and validated, 623 entries (E1C940CF3DE2873E85508DA8A5FACF93F88B4C01D20D244BBC82721EDB546FD1)
+00:00:01.484 : [hashfs] dlc_flags_ca.scs: Unmounted.
+00:00:01.492 : [hashfs] dlc_flags_ch.scs: Mounted and validated, 475 entries (8E3ACC9A455486E44B295E33F4B4D2ABA41059EAC7CAC6936B0C9BE4A9F062D1)
+00:00:01.492 : [hashfs] dlc_flags_ch.scs: Unmounted.
+00:00:01.500 : [hashfs] dlc_flags_cn.scs: Mounted and validated, 1112 entries (CA02086F847B4316AB38DF368804C27BD7ADBB84309259929AD0618AF6187E40)
+00:00:01.500 : [hashfs] dlc_flags_cn.scs: Unmounted.
+00:00:01.504 : [hashfs] dlc_flags_cz.scs: Mounted and validated, 536 entries (B2520FF0416E82846CA707B03E4D499E4C1D81E9C54E6029871DFACD74AF5733)
+00:00:01.504 : [hashfs] dlc_flags_cz.scs: Unmounted.
+00:00:01.508 : [hashfs] dlc_flags_de.scs: Mounted and validated, 586 entries (6CCAF8B3C771A4A6BE0BD958A7CB75EBB385B1F36839F8FC3E8F25D92FCF2E45)
+00:00:01.508 : [hashfs] dlc_flags_de.scs: Unmounted.
+00:00:01.512 : [hashfs] dlc_flags_dk.scs: Mounted and validated, 540 entries (65E20E1CF2B73D2983AFDBD6C094428BFC9CF935CC1CFAD27B8A4D2D568DF544)
+00:00:01.512 : [hashfs] dlc_flags_dk.scs: Unmounted.
+00:00:01.518 : [hashfs] dlc_flags_ee.scs: Mounted and validated, 890 entries (686CF8C4FC0FE83302EB89354E693C9E81887A28EFF660F8A2984E95FE558B90)
+00:00:01.518 : [hashfs] dlc_flags_ee.scs: Unmounted.
+00:00:01.522 : [hashfs] dlc_flags_es.scs: Mounted and validated, 571 entries (7E3CDB63BA83B2571F28FBB2BC13236F84104AB9F7B595924F48CAC4B8848064)
+00:00:01.522 : [hashfs] dlc_flags_es.scs: Unmounted.
+00:00:01.526 : [hashfs] dlc_flags_fi.scs: Mounted and validated, 474 entries (77F9272445BBC985053BA3CDA382634E464983D4D32BAA6AD43AD00E1C644CF6)
+00:00:01.526 : [hashfs] dlc_flags_fi.scs: Unmounted.
+00:00:01.530 : [hashfs] dlc_flags_fr.scs: Mounted and validated, 584 entries (9A813B4F8F90C84EF83A7EB07D639F6372EB61B6BFFC2ED85C3AC1DDC1988081)
+00:00:01.530 : [hashfs] dlc_flags_fr.scs: Unmounted.
+00:00:01.535 : [hashfs] dlc_flags_hu.scs: Mounted and validated, 668 entries (B242D757DE48413D6D341D2CCFC4EFAB13F8C6474A1CB5A09D047879E4C42A4F)
+00:00:01.535 : [hashfs] dlc_flags_hu.scs: Unmounted.
+00:00:01.541 : [hashfs] dlc_flags_ie.scs: Mounted and validated, 625 entries (CF8E7DB35500144B6E660B477B26AAB2BE051F5DA999077CFA82DD2E842AE78A)
+00:00:01.541 : [hashfs] dlc_flags_ie.scs: Unmounted.
+00:00:01.544 : [hashfs] dlc_flags_it.scs: Mounted and validated, 547 entries (FE1865B2FB92FE6DC69FBAAF634F2E21B84201D1CA6BEB58238370B80EE34BA8)
+00:00:01.544 : [hashfs] dlc_flags_it.scs: Unmounted.
+00:00:01.548 : [hashfs] dlc_flags_jp.scs: Mounted and validated, 562 entries (C6751CEF556739E2FE7DC06C8A488F441FFD9EEB523E8B78908949850E896773)
+00:00:01.548 : [hashfs] dlc_flags_jp.scs: Unmounted.
+00:00:01.553 : [hashfs] dlc_flags_kr.scs: Mounted and validated, 632 entries (4E44F9E39714D331B385D8666473943B026DA759D438DA42173627C3AA250940)
+00:00:01.553 : [hashfs] dlc_flags_kr.scs: Unmounted.
+00:00:01.559 : [hashfs] dlc_flags_lt.scs: Mounted and validated, 910 entries (170F0CCE6C918DE16809C93F8A8063BEC33117A86E1EB9DCD8B6D3EE75A05DD4)
+00:00:01.559 : [hashfs] dlc_flags_lt.scs: Unmounted.
+00:00:01.565 : [hashfs] dlc_flags_lv.scs: Mounted and validated, 847 entries (F9735AF5A08593B3E9FDC4508CCC998E8487DF85FB2AA642F9A454AEA47243EB)
+00:00:01.566 : [hashfs] dlc_flags_lv.scs: Unmounted.
+00:00:01.570 : [hashfs] dlc_flags_n.scs: Mounted and validated, 534 entries (FA7084B9AC20E20673FF95D607AA80A66A1F75EFB7F88B28887E8708CDA1A3CB)
+00:00:01.570 : [hashfs] dlc_flags_n.scs: Unmounted.
+00:00:01.577 : [hashfs] dlc_flags_nl.scs: Mounted and validated, 892 entries (1A63A1E0A5EF4A765401DFE65F0DA117CA2836C4040DBE400AF0F73C131F080B)
+00:00:01.577 : [hashfs] dlc_flags_nl.scs: Unmounted.
+00:00:01.580 : [hashfs] dlc_flags_pl.scs: Mounted and validated, 461 entries (1C5B05DEB2F264DBEFD8AB90E1DBEB82D6A8CCAC5F5D063B13C9F780AC07A2EC)
+00:00:01.581 : [hashfs] dlc_flags_pl.scs: Unmounted.
+00:00:01.587 : [hashfs] dlc_flags_pt.scs: Mounted and validated, 893 entries (A4F644903B0D4EE139AD14F8F0E3E61E7585764C4B096D51A84C6847DC131500)
+00:00:01.587 : [hashfs] dlc_flags_pt.scs: Unmounted.
+00:00:01.591 : [hashfs] dlc_flags_ro.scs: Mounted and validated, 527 entries (41C2B81F300BE100EFB266736B87C4B172E46B130B2FD1F79AC37F6A16A52EDC)
+00:00:01.591 : [hashfs] dlc_flags_ro.scs: Unmounted.
+00:00:01.596 : [hashfs] dlc_flags_ru.scs: Mounted and validated, 626 entries (98F13A5BCF1294B496D3AF04DE4A2721CC8A3EAE2AA48F845201DEAD55176D3D)
+00:00:01.596 : [hashfs] dlc_flags_ru.scs: Unmounted.
+00:00:01.601 : [hashfs] dlc_flags_s.scs: Mounted and validated, 556 entries (7D4E68F5D77C3F13107B225400F4E1E9A8E996D0B88513E2EA765998F485F180)
+00:00:01.602 : [hashfs] dlc_flags_s.scs: Unmounted.
+00:00:01.608 : [hashfs] dlc_flags_sc.scs: Mounted and validated, 593 entries (97C724CA44B54BEB3E7A10B63D288CADE3C81C2F96C5DBE362F7D185BD569878)
+00:00:01.608 : [hashfs] dlc_flags_sc.scs: Unmounted.
+00:00:01.613 : [hashfs] dlc_flags_sk.scs: Mounted and validated, 458 entries (2BE7084FCBC77A0FE89358F8CA165BFFC6214799E0FBC4FA854A2FF4509437D2)
+00:00:01.614 : [hashfs] dlc_flags_sk.scs: Unmounted.
+00:00:01.619 : [hashfs] dlc_flags_tr.scs: Mounted and validated, 542 entries (A1350F1415E75A16EC1C772D1E5DC8763A591F677AE531C6E18E356C02B44DF1)
+00:00:01.619 : [hashfs] dlc_flags_tr.scs: Unmounted.
+00:00:01.625 : [hashfs] dlc_flags_uk.scs: Mounted and validated, 507 entries (172125F47F2FCDBC52E7683ABE77E4978C1279EB11F566898B06E54B5A7C3735)
+00:00:01.626 : [hashfs] dlc_flags_uk.scs: Unmounted.
+00:00:01.632 : [hashfs] dlc_flags_us.scs: Mounted and validated, 624 entries (6EE7BADDAE47295BFA8FD4939AB2F244ABB1CB6A130EAFF7647034B73E41A170)
+00:00:01.632 : [hashfs] dlc_flags_us.scs: Unmounted.
+00:00:01.927 : [hashfs] dlc_fr.scs: Mounted and validated, 3598 entries (AA4199E50FFB87B8A2BA38AB911E4E2D1BBDF1D2630B775C12F7F2DBC7A2998B)
+00:00:01.927 : [hashfs] dlc_fr.scs: Unmounted.
+00:00:01.944 : [hashfs] dlc_halloween.scs: Mounted and validated, 1198 entries (7F487105678874EE8C284FD9A4044793B11F84D50A1D62FF225DA5E767A70AE6)
+00:00:01.944 : [hashfs] dlc_halloween.scs: Unmounted.
+00:00:02.009 : [hashfs] dlc_heavy_cargo.scs: Mounted and validated, 820 entries (55237D8EA1785120F68AE4FA227C9D0B507404F2761D7C9917906F3A1784ACA6)
+00:00:02.009 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+00:00:02.391 : [hashfs] dlc_it.scs: Mounted and validated, 5034 entries (A3AFC2BA659E61EFE579550F00282F410EC3225ABE8CF7E3F6027E4390CB0B85)
+00:00:02.391 : [hashfs] dlc_it.scs: Unmounted.
+00:00:02.578 : [hashfs] dlc_krone.scs: Mounted and validated, 3244 entries (D5BC658EB6978B62AF203F4D7812CA34AEDD22A883C6609BB81ED4162C11C6A7)
+00:00:02.579 : [hashfs] dlc_krone.scs: Unmounted.
+00:00:02.583 : [hashfs] dlc_metallics.scs: Mounted and validated, 459 entries (CC5D10267FBF464478B78E47C97B719212A6FDBA5064F3E73A98C7F734CF81F1)
+00:00:02.583 : [hashfs] dlc_metallics.scs: Unmounted.
+00:00:02.589 : [hashfs] dlc_metallics2.scs: Mounted and validated, 520 entries (B275B6415240CAD6578D78874C1A0A1DD721EE347EC73C8F6A44AE50059D0197)
+00:00:02.589 : [hashfs] dlc_metallics2.scs: Unmounted.
+00:00:02.599 : [hashfs] dlc_michelin.scs: Mounted and validated, 845 entries (BA833C89FAA77935F578F1DB3230FBB6622467F14D2F8230C4D2BC307AA54853)
+00:00:02.599 : [hashfs] dlc_michelin.scs: Unmounted.
+00:00:02.673 : [hashfs] dlc_mighty_griffin.scs: Mounted and validated, 2955 entries (37778A7C224DEB65D867E2EDF9C98E333A098ECBA7D51D5EC43F55A84DC5A0D0)
+00:00:02.673 : [hashfs] dlc_mighty_griffin.scs: Unmounted.
+00:00:02.681 : [hashfs] dlc_nature.scs: Mounted and validated, 1095 entries (231382C25CB7C2526BFD88254A3ED72FFEAAFCC00962700B36C2987D220B0DC1)
+00:00:02.681 : [hashfs] dlc_nature.scs: Unmounted.
+00:00:03.066 : [hashfs] dlc_north.scs: Mounted and validated, 5498 entries (40A2468E256D2AC675513CBA581F4DCB0AFF946C78B6EACEF724A4BCADA5BE37)
+00:00:03.066 : [hashfs] dlc_north.scs: Unmounted.
+00:00:03.164 : [hashfs] dlc_oversize.scs: Mounted and validated, 816 entries (3FA5019FA26CF32220D7EA502CEF9275EC80890A78D6547757BE2135D5C36F61)
+00:00:03.164 : [hashfs] dlc_oversize.scs: Unmounted.
+00:00:03.166 : [hashfs] dlc_pcg.scs: Mounted and validated, 161 entries (F18F9117CB5A4DE6B0C1D03718518B27E34A2BA323563CE0EA6CA87587277D04)
+00:00:03.166 : [hashfs] dlc_pcg.scs: Unmounted.
+00:00:03.293 : [hashfs] dlc_phys_flags.scs: Mounted and validated, 10032 entries (33C4240FE983DDD93CC08122D46C4B456D4707F56D718CA9F4F62DFD416A22E3)
+00:00:03.293 : [hashfs] dlc_phys_flags.scs: Unmounted.
+00:00:03.303 : [hashfs] dlc_pirates.scs: Mounted and validated, 1241 entries (4DF196C8E949FAC19FE9251F8EDE67D025C2EB8FCE63F7755AE641BC34DC187C)
+00:00:03.303 : [hashfs] dlc_pirates.scs: Unmounted.
+00:00:03.311 : [hashfs] dlc_prehistoric.scs: Mounted and validated, 1065 entries (C2E671488A8FC6B4E9F73082913450F90E33F2DF38DD8B274BB2EAC9610241B7)
+00:00:03.311 : [hashfs] dlc_prehistoric.scs: Unmounted.
+00:00:03.324 : [hashfs] dlc_raven.scs: Mounted and validated, 936 entries (9FAE7AD23E3FA9B2AAF6AA0BA7D619188ADE8B68AE31FA955AB36880C29B0929)
+00:00:03.324 : [hashfs] dlc_raven.scs: Unmounted.
+00:00:03.351 : [hashfs] dlc_rims.scs: Mounted and validated, 740 entries (0A4265C76700C2B2BC24BCC42604785A98A6E1E965FCDB16848591D71094A23F)
+00:00:03.351 : [hashfs] dlc_rims.scs: Unmounted.
+00:00:03.353 : [hashfs] dlc_rocket_league.scs: Mounted and validated, 138 entries (5797CFE5ED202ED54D16A2601340A6D7BF77A43E1016D8FEC00EE89FC007DABB)
+00:00:03.353 : [hashfs] dlc_rocket_league.scs: Unmounted.
+00:00:03.422 : [hashfs] dlc_schwarzmuller.scs: Mounted and validated, 782 entries (DE5DFE5A7285F52275404A67B7F5C57AC930E559D8B3F796B884A9C73BA23DAF)
+00:00:03.422 : [hashfs] dlc_schwarzmuller.scs: Unmounted.
+00:00:03.434 : [hashfs] dlc_space.scs: Mounted and validated, 1531 entries (FD60365706E22026B7D65D4F26C985D25E49B6A4544939A5AF31A63DB0F25ECA)
+00:00:03.434 : [hashfs] dlc_space.scs: Unmounted.
+00:00:03.451 : [hashfs] dlc_toys.scs: Mounted and validated, 1300 entries (FB0522188A0A15C21DEC0D546D169D7F72FA6CBC37D1DBB340FD3149C84E73DD)
+00:00:03.451 : [hashfs] dlc_toys.scs: Unmounted.
+00:00:03.511 : [hashfs] dlc_trailers.scs: Mounted and validated, 1706 entries (BBB423A3802CF4DEF7D43790A59D39A499F98B44BA5E4EF8C8A56FB6BE87FEC0)
+00:00:03.511 : [hashfs] dlc_trailers.scs: Unmounted.
+00:00:03.518 : [hashfs] dlc_valentine.scs: Mounted and validated, 903 entries (66185E751484213F2C2F8524DBF860410E663B2CCF7A5E15B31513BB3A814438)
+00:00:03.518 : [hashfs] dlc_valentine.scs: Unmounted.
+00:00:03.524 : [hashfs] dlc_vikings.scs: Mounted and validated, 832 entries (C4F5FBDC0F0B658FA3A21812A61497A412CE2BE1EA25341382737DE5C6416B1E)
+00:00:03.525 : [hashfs] dlc_vikings.scs: Unmounted.
+00:00:03.535 : [hashfs] dlc_winter.scs: Mounted and validated, 1286 entries (5B74ECBB7ACF25406911727245371602D822632376C1C7F8D75AE2C8A6E8782A)
+00:00:03.535 : [hashfs] dlc_winter.scs: Unmounted.
+00:00:03.536 : [zipfs] ets2_speed_limit_120_valera_t.scs: Mounted, 2 entries [0]
+00:00:03.536 : <WARNING> [mod] Mod package 'ets2_speed_limit_120_valera_t' does not contain a manifest file 'manifest.sii', creating default information set.
+00:00:03.536 : [zipfs] ets2_speed_limit_120_valera_t.scs: Unmounted
+00:00:03.536 : [zipfs] PM227_RM_v131_roadconnection.scs: Mounted, 206 entries [0x7912d596]
+00:00:03.536 : [zipfs] PM227_RM_v131_roadconnection.scs: Unmounted
+00:00:03.537 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Mounted, 67 entries [0x2ac95b49]
+00:00:03.537 : <WARNING> [mods] Unknown category '' defined for Polskie_nazwy_miast_-_RusMap. Ignoring.
+00:00:03.537 : <WARNING> [mods] No valid categories defined for Polskie_nazwy_miast_-_RusMap. Setting defaults.
+00:00:03.537 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Unmounted
+00:00:03.538 : [hashfs] promods-assets-v240.scs: Mounted, 41032 entries
+00:00:03.538 : [hashfs] promods-assets-v240.scs: Unmounted.
+00:00:03.540 : [zipfs] promods-def-st-v240.scs: Mounted, 2213 entries [0x38f8ca9e]
+00:00:03.540 : [zipfs] promods-def-st-v240.scs: Unmounted
+00:00:03.553 : [zipfs] promods-map-v240.scs: Mounted, 27686 entries [0xbbb9953c]
+00:00:03.553 : [zipfs] promods-map-v240.scs: Unmounted
+00:00:03.554 : [hashfs] promods-media-v240.scs: Mounted, 151 entries
+00:00:03.554 : [hashfs] promods-media-v240.scs: Unmounted.
+00:00:03.555 : [hashfs] promods-model1-v240.scs: Mounted, 15482 entries
+00:00:03.555 : [hashfs] promods-model1-v240.scs: Unmounted.
+00:00:03.555 : [hashfs] promods-model2-v240.scs: Mounted, 24882 entries
+00:00:03.555 : [hashfs] promods-model2-v240.scs: Unmounted.
+00:00:03.556 : [hashfs] promods-model3-v240.scs: Mounted, 8319 entries
+00:00:03.556 : [hashfs] promods-model3-v240.scs: Unmounted.
+00:00:03.556 : [hashfs] promods-tcp-companies-v122.scs: Mounted, 890 entries
+00:00:03.556 : [hashfs] promods-tcp-companies-v122.scs: Unmounted.
+00:00:03.557 : [zipfs] promods-tcp-def-companies-v122.scs: Mounted, 55 entries [0x1cedb801]
+00:00:03.557 : [zipfs] promods-tcp-def-companies-v122.scs: Unmounted
+00:00:03.558 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Mounted, 397 entries [0xfdbedcd6]
+00:00:03.558 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Unmounted
+00:00:03.559 : [zipfs] promods-tcp-def-trailers-replacement-v122.scs: Mounted, 121 entries [0x74b91656]
+00:00:03.559 : [zipfs] promods-tcp-def-trailers-replacement-v122.scs: Unmounted
+00:00:03.559 : [zipfs] promods-tcp-def-trailers-standalone-v122.scs: Mounted, 71 entries [0xc7f8d322]
+00:00:03.559 : [zipfs] promods-tcp-def-trailers-standalone-v122.scs: Unmounted
+00:00:03.560 : [hashfs] promods-tcp-trailers-v122.scs: Mounted, 1409 entries
+00:00:03.560 : [hashfs] promods-tcp-trailers-v122.scs: Unmounted.
+00:00:03.563 : [zipfs] RusMap-def_v1.8.1.scs: Mounted, 6606 entries [0xf2e41683]
+00:00:03.563 : [zipfs] RusMap-def_v1.8.1.scs: Unmounted
+00:00:03.564 : [zipfs] RusMap-map_v1.8.1.scs: Mounted, 817 entries [0x926b8df2]
+00:00:03.564 : [zipfs] RusMap-map_v1.8.1.scs: Unmounted
+00:00:03.566 : [zipfs] RusMap-model2_v1.8.1.scs: Mounted, 6966 entries [0xe4f4fc1c]
+00:00:03.567 : [zipfs] RusMap-model2_v1.8.1.scs: Unmounted
+00:00:03.576 : [zipfs] RusMap-model_v1.8.1.scs: Mounted, 19909 entries [0x24242424]
+00:00:03.576 : [zipfs] RusMap-model_v1.8.1.scs: Unmounted
+00:00:03.576 : [zipfs] RusMap_Police_Fix.scs: Mounted, 8 entries [0x38072088]
+00:00:03.577 : [zipfs] RusMap_Police_Fix.scs: Unmounted
+00:00:03.577 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-def.scs: Mounted, 76 entries [0x7e51f071]
+00:00:03.577 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-def.scs: Unmounted
+00:00:03.578 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-map.scs: Mounted, 108 entries [0xdfdb61f6]
+00:00:03.578 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-map.scs: Unmounted
+00:00:03.578 : [mod_package_manager] Requesting Steam Workshop content..
+00:00:03.578 : exec /home/config.cfg
+00:00:03.578 : [sys] Executing /home/config.cfg ...
+00:00:03.578 : uset r_full_resolution_corrections "0"
+00:00:03.579 : uset g_mm_help_shown "1"
+00:00:03.579 : uset g_save_indicator "1"
+00:00:03.579 : uset g_game_version "1.34.0.17"
+00:00:03.579 : uset g_force_online_lscrs "0"
+00:00:03.579 : uset g_frame_image_fmt "jpg"
+00:00:03.579 : uset g_frames_path ""
+00:00:03.579 : uset g_hw_info "1"
+00:00:03.579 : uset g_glass_debugging_level "0"
+00:00:03.579 : uset g_line_sort "0"
+00:00:03.579 : uset g_cargo_sort "0"
+00:00:03.579 : uset g_tooltip_delay "0.4"
+00:00:03.579 : uset g_bloom_standard_deviation "0.5"
+00:00:03.579 : uset g_bloom_filter_radius "6"
+00:00:03.579 : uset g_bloom_resizing_steps "3"
+00:00:03.579 : uset g_bloom_override "0"
+00:00:03.579 : uset g_bloom "1.0"
+00:00:03.579 : uset g_global_force_load_selector "0"
+00:00:03.579 : uset g_desktop_fadeout "60"
+00:00:03.579 : uset inst_flags "0"
+00:00:03.579 : uset g_disable_hud_activation "0"
+00:00:03.579 : uset r_wireframe "0"
+00:00:03.579 : uset g_interior_camera_zero_pitch "0"
+00:00:03.579 : uset r_multimon_exterior_in_aux "0"
+00:00:03.579 : uset r_multimon_interior_in_main "1"
+00:00:03.579 : uset r_multimon_rotation_aux "0"
+00:00:03.579 : uset r_multimon_rotation_right "0"
+00:00:03.579 : uset r_multimon_rotation_left "0"
+00:00:03.579 : uset r_multimon_rotation_center "0"
+00:00:03.579 : uset r_multimon_vert_offset_right "0"
+00:00:03.579 : uset r_multimon_vert_offset_left "0"
+00:00:03.579 : uset r_multimon_border_fov_right "0"
+00:00:03.579 : uset r_multimon_border_fov_left "0"
+00:00:03.579 : uset r_multimon_fov_vertical "0"
+00:00:03.579 : uset r_multimon_fov_horizontal "50"
+00:00:03.579 : uset r_multimon_mode "0"
+00:00:03.579 : uset r_use_depth_bounds "1"
+00:00:03.579 : uset r_show_light_pixel_coverage "0"
+00:00:03.579 : uset r_buffer_page_size "10"
+00:00:03.579 : uset r_deferred_debug "0"
+00:00:03.579 : uset r_mirror_scale_y "1"
+00:00:03.579 : uset r_mirror_scale_x "1"
+00:00:03.579 : uset r_scale_y "1.25"
+00:00:03.579 : uset r_scale_x "1"
+00:00:03.579 : uset r_normal_maps "1"
+00:00:03.579 : uset r_sunshafts "1"
+00:00:03.579 : uset r_color_saturation "1.0"
+00:00:03.579 : uset r_color_yellow_blue "0.0"
+00:00:03.579 : uset r_color_magenta_green "0.0"
+00:00:03.579 : uset r_color_cyan_red "0.0"
+00:00:03.579 : uset r_color_correction "1"
+00:00:03.579 : uset r_cloud_shadows "1"
+00:00:03.579 : uset r_dof_filter_size "0.5"
+00:00:03.579 : uset r_dof_transition "400.0"
+00:00:03.579 : uset r_dof_start "200.0"
+00:00:03.579 : uset r_dof "1"
+00:00:03.579 : uset r_mlaa_threshold "1.0"
+00:00:03.579 : uset r_mlaa "0"
+00:00:03.579 : uset r_hdr "1"
+00:00:03.579 : uset r_fake_shadows "2"
+00:00:03.579 : uset r_sun_shadow_texture_size "2048"
+00:00:03.579 : uset r_sun_shadow_quality "2"
+00:00:03.579 : uset r_mirror_group "3"
+00:00:03.580 : uset r_mirror_view_distance "80"
+00:00:03.580 : uset r_deferred_mirrors "1"
+00:00:03.580 : uset r_deferred "1"
+00:00:03.580 : uset r_nowmi "0"
+00:00:03.580 : uset r_startup_progress "0"
+00:00:03.580 : uset r_setup_done "1"
+00:00:03.580 : uset r_gamma "1"
+00:00:03.580 : uset r_manual_stereo_buffer_scale "1.0"
+00:00:03.580 : uset r_manual_stereo_ui_fov_game "100"
+00:00:03.580 : uset r_manual_stereo_ui_fov "80"
+00:00:03.580 : uset r_manual_stereo_ui_dist_game "0.5"
+00:00:03.580 : uset r_manual_stereo_ui_dist "0.8"
+00:00:03.580 : uset r_manual_stereo_in_menu "1"
+00:00:03.580 : uset r_nv_stereo_mode "2"
+00:00:03.580 : uset r_minimal_unfinished_frames "0"
+00:00:03.580 : uset r_no_frame_tracking "0"
+00:00:03.580 : uset r_msaa "0"
+00:00:03.580 : uset r_fullscreen "1"
+00:00:03.580 : uset r_mode_refresh "0"
+00:00:03.580 : uset r_mode_height "1080"
+00:00:03.580 : uset r_mode_width "1920"
+00:00:03.580 : uset r_path ""
+00:00:03.580 : uset r_device "dx9"
+00:00:03.580 : uset i_virtual_cursor_speed "500.0"
+00:00:03.580 : uset g_trackir "1"
+00:00:03.580 : uset g_lod_factor_pedestrian "1.0"
+00:00:03.580 : uset g_pedestrian "1"
+00:00:03.580 : uset g_light_span_factor "0.5"
+00:00:03.580 : uset g_light_distance_factor "0.5"
+00:00:03.580 : uset g_vehicle_flare_lights "1"
+00:00:03.580 : uset g_auto_traffic_headlights "1"
+00:00:03.580 : uset g_lod_factor_parked "1.0"
+00:00:03.580 : uset g_lod_factor_traffic "1.0"
+00:00:03.580 : uset g_traffic "1.0"
+00:00:03.580 : uset g_kdop_preview "0"
+00:00:03.580 : uset g_screenshot_on_bug_quality "100"
+00:00:03.580 : uset g_screenshot_on_bug "0"
+00:00:03.580 : uset g_shoulder_block_coloring "0"
+00:00:03.580 : uset g_debug_map_limits "0"
+00:00:03.580 : uset g_city_name_move "0"
+00:00:03.580 : uset g_developer "0"
+00:00:03.580 : uset g_steam_rich_presence "1"
+00:00:03.580 : uset g_steam_browser "1"
+00:00:03.580 : uset g_steam_screenshots "2"
+00:00:03.580 : uset g_artist_id "0"
+00:00:03.580 : uset g_save_format "0"
+00:00:03.580 : uset g_trailer_cables_mode "2"
+00:00:03.580 : uset g_spec_trans_refill_tank "1"
+00:00:03.580 : uset g_flyspeed "100.0"
+00:00:03.580 : uset g_online_loading_screens "1"
+00:00:03.580 : uset g_news "1"
+00:00:03.580 : uset g_colbox "0"
+00:00:03.580 : uset g_radio_mode "1"
+00:00:03.580 : uset g_ignore_low_fps "0"
+00:00:03.580 : uset g_truck_light_quality "1"
+00:00:03.580 : uset g_truck_light_specular "1"
+00:00:03.580 : uset g_gfx_all_scales "0"
+00:00:03.580 : uset g_gfx_advanced "0"
+00:00:03.580 : uset g_gfx_quality "2"
+00:00:03.580 : uset g_hq_3d_scale "0.0"
+00:00:03.580 : uset g_hq_3d_screenshot "0"
+00:00:03.580 : uset g_menu_aa_limit "8"
+00:00:03.580 : uset g_additional_water_fov "20.0f"
+00:00:03.580 : uset g_rain_reflect_hookups "1"
+00:00:03.580 : uset g_rain_reflect_actor "1"
+00:00:03.580 : uset g_rain_reflect_traffic "1"
+00:00:03.580 : uset g_rain_reflect_cache "0"
+00:00:03.580 : uset g_rain_reflection "3"
+00:00:03.581 : uset g_reflection "1"
+00:00:03.581 : uset g_grass_density "1"
+00:00:03.581 : uset g_veg_detail "1"
+00:00:03.581 : uset g_minicon "0"
+00:00:03.581 : uset g_console "0"
+00:00:03.581 : uset g_texture_usage_stats "0"
+00:00:03.581 : uset g_fps "0"
+00:00:03.581 : uset g_stream_exts ".ogg;.mp3"
+00:00:03.581 : uset r_vsync "1"
+00:00:03.581 : uset r_anisotropy_factor "0.5"
+00:00:03.581 : uset r_texture_detail "0"
+00:00:03.581 : uset t_locked_fps "0"
+00:00:03.581 : uset t_averaging_window_length "20"
+00:00:03.596 : [lang] Language autodetection: 415
+00:00:03.604 : Selected language: pl_pl
+00:00:03.604 : Euro Truck Simulator 2 init ver.1.34.0.17s (rev. 681a4ae447f4)
+00:00:03.614 : [net]  LOG INFO: Started
+00:00:03.618 : Setting UI reference mode to: 1440x900...
+00:00:03.618 : [gfx] Selected rendering device: dx9
+00:00:03.621 : [dx9] NVAPI not detected. (-2)
+00:00:03.621 : [dx9] Direct3D9Ex detected.
+00:00:03.622 : [dx9] Number of adapters found: 1
+00:00:03.651 : [dx9] Adapter #0: Intel(R) UHD Graphics 620 / 128 (1024) MB (igdumdim64.dll, 23.20.16.4973, 20180228)
+00:00:03.652 : [dx9] Using adapter #0.
+00:00:03.654 : [dx9] Using SM3X rendering path
+00:00:03.658 : [gfx] Trying to set 1920x1080 60Hz (fullscreen)
+00:00:03.693 : [dx9] D3D9 device sucessfully created.
+00:00:03.782 : [al] device: OpenAL Soft
+00:00:03.782 : [al] context extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_DEDICATED ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_loopback
+00:00:04.798 : [al] vendor: OpenAL Community
+00:00:04.798 : [al] version: 1.1 ALSOFT 1.14
+00:00:04.798 : [al] renderer: OpenAL Soft
+00:00:04.798 : [al] extensions: AL_EXT_ALAW AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_LOKI_quadriphonic AL_SOFT_buffer_samples AL_SOFT_buffer_sub_data AL_SOFTX_deferred_updates AL_SOFT_direct_channels AL_SOFT_loop_points
+00:00:04.799 : [snd] Started sound update thread
+00:00:04.805 : [di8] Initializing device '@@keyboard@@' as 'keyboard'
+00:00:04.808 : [di8] Initializing device '@@i_mouse@@' as 'mouse'
+00:00:04.846 : [mod_package_manager] Received list of the steam workshop subscribed mods. (received 0 mods total, 0 loaded, 0 scheduled for download)
+00:00:04.846 : dispatch
+00:00:04.846 : exit
+00:00:04.907 : [bullet] Starting physics server: Bullet
+00:00:06.244 : [ui] Controller setup start
+00:00:06.246 : [inp] Classifying devices
+00:00:06.246 : [ui] Controller setup done
+00:00:06.343 : mm_flush_repeatedly
+00:00:07.351 : [hashfs] dlc_balt.scs: Mounted and validated, 13689 entries (843B45851A3F2B3F0340952E0E0E7BA141D059413A4FAE64A3593C18CC85355A)
+00:00:07.368 : [hashfs] dlc_christmas.scs: Mounted and validated, 1588 entries (5642A52DA88D1FAC23D3D3B31E96C6E4DB432457C6B67FB8B357D8313F7E2DB2)
+00:00:07.414 : [hashfs] dlc_daf_tuning_pack.scs: Mounted and validated, 2061 entries (B9299DF925B54A68684F5774F9C0315D047772BB295FB92C711EB87A7B6C522C)
+00:00:07.419 : [hashfs] dlc_dragon.scs: Mounted and validated, 405 entries (35018E91874FDBEB2DF1EBF1F27F9ED01CD1EB5737F15F1810A7AA5FEB2EFAAB)
+00:00:07.524 : [hashfs] dlc_east.scs: Mounted and validated, 925 entries (BF7D9F3E9C880A4F374E49A6EB4DA805D413B54455CE63587BC4BB63DD260DA9)
+00:00:07.530 : [hashfs] dlc_fantasy.scs: Mounted and validated, 852 entries (8285D641AD87FC839958F39EDDDD80BF1CD666C4065660B00EB605C1FA75B74E)
+00:00:07.534 : [hashfs] dlc_flags_at.scs: Mounted and validated, 578 entries (E507A14DD63956F1866BCBAA089FCEFD9768CAE0D8F47741D34551E1EB1021BE)
+00:00:07.538 : [hashfs] dlc_flags_aus.scs: Mounted and validated, 632 entries (AEC8CB4E7FD21BFACF9D1DA3494647EC1A1206E326274D8D952D0C9813971F03)
+00:00:07.543 : [hashfs] dlc_flags_be.scs: Mounted and validated, 683 entries (E6B434E6DE1F23CEB383909DA94D3CB56B520C55B5768AB30BC765A7C9247ADD)
+00:00:07.547 : [hashfs] dlc_flags_bz.scs: Mounted and validated, 575 entries (89AAF0DC81D182B48E8BB375BEF9333BFC59FABBBBCB00A18127E59A5CB0B3D0)
+00:00:07.551 : [hashfs] dlc_flags_ca.scs: Mounted and validated, 623 entries (E1C940CF3DE2873E85508DA8A5FACF93F88B4C01D20D244BBC82721EDB546FD1)
+00:00:07.560 : [hashfs] dlc_flags_ch.scs: Mounted and validated, 475 entries (8E3ACC9A455486E44B295E33F4B4D2ABA41059EAC7CAC6936B0C9BE4A9F062D1)
+00:00:07.567 : [hashfs] dlc_flags_cn.scs: Mounted and validated, 1112 entries (CA02086F847B4316AB38DF368804C27BD7ADBB84309259929AD0618AF6187E40)
+00:00:07.571 : [hashfs] dlc_flags_cz.scs: Mounted and validated, 536 entries (B2520FF0416E82846CA707B03E4D499E4C1D81E9C54E6029871DFACD74AF5733)
+00:00:07.576 : [hashfs] dlc_flags_de.scs: Mounted and validated, 586 entries (6CCAF8B3C771A4A6BE0BD958A7CB75EBB385B1F36839F8FC3E8F25D92FCF2E45)
+00:00:07.580 : [hashfs] dlc_flags_dk.scs: Mounted and validated, 540 entries (65E20E1CF2B73D2983AFDBD6C094428BFC9CF935CC1CFAD27B8A4D2D568DF544)
+00:00:07.586 : [hashfs] dlc_flags_ee.scs: Mounted and validated, 890 entries (686CF8C4FC0FE83302EB89354E693C9E81887A28EFF660F8A2984E95FE558B90)
+00:00:07.590 : [hashfs] dlc_flags_es.scs: Mounted and validated, 571 entries (7E3CDB63BA83B2571F28FBB2BC13236F84104AB9F7B595924F48CAC4B8848064)
+00:00:07.594 : [hashfs] dlc_flags_fi.scs: Mounted and validated, 474 entries (77F9272445BBC985053BA3CDA382634E464983D4D32BAA6AD43AD00E1C644CF6)
+00:00:07.598 : [hashfs] dlc_flags_fr.scs: Mounted and validated, 584 entries (9A813B4F8F90C84EF83A7EB07D639F6372EB61B6BFFC2ED85C3AC1DDC1988081)
+00:00:07.603 : [hashfs] dlc_flags_hu.scs: Mounted and validated, 668 entries (B242D757DE48413D6D341D2CCFC4EFAB13F8C6474A1CB5A09D047879E4C42A4F)
+00:00:07.608 : [hashfs] dlc_flags_ie.scs: Mounted and validated, 625 entries (CF8E7DB35500144B6E660B477B26AAB2BE051F5DA999077CFA82DD2E842AE78A)
+00:00:07.612 : [hashfs] dlc_flags_it.scs: Mounted and validated, 547 entries (FE1865B2FB92FE6DC69FBAAF634F2E21B84201D1CA6BEB58238370B80EE34BA8)
+00:00:07.615 : [hashfs] dlc_flags_jp.scs: Mounted and validated, 562 entries (C6751CEF556739E2FE7DC06C8A488F441FFD9EEB523E8B78908949850E896773)
+00:00:07.620 : [hashfs] dlc_flags_kr.scs: Mounted and validated, 632 entries (4E44F9E39714D331B385D8666473943B026DA759D438DA42173627C3AA250940)
+00:00:07.627 : [hashfs] dlc_flags_lt.scs: Mounted and validated, 910 entries (170F0CCE6C918DE16809C93F8A8063BEC33117A86E1EB9DCD8B6D3EE75A05DD4)
+00:00:07.633 : [hashfs] dlc_flags_lv.scs: Mounted and validated, 847 entries (F9735AF5A08593B3E9FDC4508CCC998E8487DF85FB2AA642F9A454AEA47243EB)
+00:00:07.637 : [hashfs] dlc_flags_n.scs: Mounted and validated, 534 entries (FA7084B9AC20E20673FF95D607AA80A66A1F75EFB7F88B28887E8708CDA1A3CB)
+00:00:07.643 : [hashfs] dlc_flags_nl.scs: Mounted and validated, 892 entries (1A63A1E0A5EF4A765401DFE65F0DA117CA2836C4040DBE400AF0F73C131F080B)
+00:00:07.647 : [hashfs] dlc_flags_pl.scs: Mounted and validated, 461 entries (1C5B05DEB2F264DBEFD8AB90E1DBEB82D6A8CCAC5F5D063B13C9F780AC07A2EC)
+00:00:07.653 : [hashfs] dlc_flags_pt.scs: Mounted and validated, 893 entries (A4F644903B0D4EE139AD14F8F0E3E61E7585764C4B096D51A84C6847DC131500)
+00:00:07.657 : [hashfs] dlc_flags_ro.scs: Mounted and validated, 527 entries (41C2B81F300BE100EFB266736B87C4B172E46B130B2FD1F79AC37F6A16A52EDC)
+00:00:07.661 : [hashfs] dlc_flags_ru.scs: Mounted and validated, 626 entries (98F13A5BCF1294B496D3AF04DE4A2721CC8A3EAE2AA48F845201DEAD55176D3D)
+00:00:07.665 : [hashfs] dlc_flags_s.scs: Mounted and validated, 556 entries (7D4E68F5D77C3F13107B225400F4E1E9A8E996D0B88513E2EA765998F485F180)
+00:00:07.669 : [hashfs] dlc_flags_sc.scs: Mounted and validated, 593 entries (97C724CA44B54BEB3E7A10B63D288CADE3C81C2F96C5DBE362F7D185BD569878)
+00:00:07.673 : [hashfs] dlc_flags_sk.scs: Mounted and validated, 458 entries (2BE7084FCBC77A0FE89358F8CA165BFFC6214799E0FBC4FA854A2FF4509437D2)
+00:00:07.677 : [hashfs] dlc_flags_tr.scs: Mounted and validated, 542 entries (A1350F1415E75A16EC1C772D1E5DC8763A591F677AE531C6E18E356C02B44DF1)
+00:00:07.681 : [hashfs] dlc_flags_uk.scs: Mounted and validated, 507 entries (172125F47F2FCDBC52E7683ABE77E4978C1279EB11F566898B06E54B5A7C3735)
+00:00:07.686 : [hashfs] dlc_flags_us.scs: Mounted and validated, 624 entries (6EE7BADDAE47295BFA8FD4939AB2F244ABB1CB6A130EAFF7647034B73E41A170)
+00:00:07.975 : [hashfs] dlc_fr.scs: Mounted and validated, 3598 entries (AA4199E50FFB87B8A2BA38AB911E4E2D1BBDF1D2630B775C12F7F2DBC7A2998B)
+00:00:07.991 : [hashfs] dlc_halloween.scs: Mounted and validated, 1198 entries (7F487105678874EE8C284FD9A4044793B11F84D50A1D62FF225DA5E767A70AE6)
+00:00:08.053 : [hashfs] dlc_heavy_cargo.scs: Mounted and validated, 820 entries (55237D8EA1785120F68AE4FA227C9D0B507404F2761D7C9917906F3A1784ACA6)
+00:00:08.426 : [hashfs] dlc_it.scs: Mounted and validated, 5034 entries (A3AFC2BA659E61EFE579550F00282F410EC3225ABE8CF7E3F6027E4390CB0B85)
+00:00:08.606 : [hashfs] dlc_krone.scs: Mounted and validated, 3244 entries (D5BC658EB6978B62AF203F4D7812CA34AEDD22A883C6609BB81ED4162C11C6A7)
+00:00:08.611 : [hashfs] dlc_metallics.scs: Mounted and validated, 459 entries (CC5D10267FBF464478B78E47C97B719212A6FDBA5064F3E73A98C7F734CF81F1)
+00:00:08.616 : [hashfs] dlc_metallics2.scs: Mounted and validated, 520 entries (B275B6415240CAD6578D78874C1A0A1DD721EE347EC73C8F6A44AE50059D0197)
+00:00:08.626 : [hashfs] dlc_michelin.scs: Mounted and validated, 845 entries (BA833C89FAA77935F578F1DB3230FBB6622467F14D2F8230C4D2BC307AA54853)
+00:00:08.691 : [hashfs] dlc_mighty_griffin.scs: Mounted and validated, 2955 entries (37778A7C224DEB65D867E2EDF9C98E333A098ECBA7D51D5EC43F55A84DC5A0D0)
+00:00:08.699 : [hashfs] dlc_nature.scs: Mounted and validated, 1095 entries (231382C25CB7C2526BFD88254A3ED72FFEAAFCC00962700B36C2987D220B0DC1)
+00:00:09.088 : [hashfs] dlc_north.scs: Mounted and validated, 5498 entries (40A2468E256D2AC675513CBA581F4DCB0AFF946C78B6EACEF724A4BCADA5BE37)
+00:00:09.180 : [hashfs] dlc_oversize.scs: Mounted and validated, 816 entries (3FA5019FA26CF32220D7EA502CEF9275EC80890A78D6547757BE2135D5C36F61)
+00:00:09.182 : [hashfs] dlc_pcg.scs: Mounted and validated, 161 entries (F18F9117CB5A4DE6B0C1D03718518B27E34A2BA323563CE0EA6CA87587277D04)
+00:00:09.306 : [hashfs] dlc_phys_flags.scs: Mounted and validated, 10032 entries (33C4240FE983DDD93CC08122D46C4B456D4707F56D718CA9F4F62DFD416A22E3)
+00:00:09.317 : [hashfs] dlc_pirates.scs: Mounted and validated, 1241 entries (4DF196C8E949FAC19FE9251F8EDE67D025C2EB8FCE63F7755AE641BC34DC187C)
+00:00:09.324 : [hashfs] dlc_prehistoric.scs: Mounted and validated, 1065 entries (C2E671488A8FC6B4E9F73082913450F90E33F2DF38DD8B274BB2EAC9610241B7)
+00:00:09.337 : [hashfs] dlc_raven.scs: Mounted and validated, 936 entries (9FAE7AD23E3FA9B2AAF6AA0BA7D619188ADE8B68AE31FA955AB36880C29B0929)
+00:00:09.367 : [hashfs] dlc_rims.scs: Mounted and validated, 740 entries (0A4265C76700C2B2BC24BCC42604785A98A6E1E965FCDB16848591D71094A23F)
+00:00:09.369 : [hashfs] dlc_rocket_league.scs: Mounted and validated, 138 entries (5797CFE5ED202ED54D16A2601340A6D7BF77A43E1016D8FEC00EE89FC007DABB)
+00:00:09.438 : [hashfs] dlc_schwarzmuller.scs: Mounted and validated, 782 entries (DE5DFE5A7285F52275404A67B7F5C57AC930E559D8B3F796B884A9C73BA23DAF)
+00:00:09.449 : [hashfs] dlc_space.scs: Mounted and validated, 1531 entries (FD60365706E22026B7D65D4F26C985D25E49B6A4544939A5AF31A63DB0F25ECA)
+00:00:09.464 : [hashfs] dlc_toys.scs: Mounted and validated, 1300 entries (FB0522188A0A15C21DEC0D546D169D7F72FA6CBC37D1DBB340FD3149C84E73DD)
+00:00:09.517 : [hashfs] dlc_trailers.scs: Mounted and validated, 1706 entries (BBB423A3802CF4DEF7D43790A59D39A499F98B44BA5E4EF8C8A56FB6BE87FEC0)
+00:00:09.524 : [hashfs] dlc_valentine.scs: Mounted and validated, 903 entries (66185E751484213F2C2F8524DBF860410E663B2CCF7A5E15B31513BB3A814438)
+00:00:09.530 : [hashfs] dlc_vikings.scs: Mounted and validated, 832 entries (C4F5FBDC0F0B658FA3A21812A61497A412CE2BE1EA25341382737DE5C6416B1E)
+00:00:09.540 : [hashfs] dlc_winter.scs: Mounted and validated, 1286 entries (5B74ECBB7ACF25406911727245371602D822632376C1C7F8D75AE2C8A6E8782A)
+00:00:09.541 : uset s_sfx_volume "1.0"
+00:00:09.541 : uset s_radio_volume "1.0"
+00:00:09.541 : uset s_music_volume "0.8"
+00:00:09.541 : uset s_master_volume "1.0"
+00:00:09.541 : uset s_reverse_stereo "0"
+00:00:09.541 : uset g_force_economy_reset "0"
+00:00:09.541 : uset g_input_configured "1"
+00:00:09.541 : uset i_oculus_eye_protrusion "0.09"
+00:00:09.541 : uset i_oculus_eye_height "0.15"
+00:00:09.541 : uset i_hmd_max_prediction "0.1"
+00:00:09.541 : uset i_hmd_min_prediction "0.0"
+00:00:09.541 : uset r_interior "1"
+00:00:09.541 : uset r_steering_wheel "1"
+00:00:09.541 : uset g_toy_physics "1"
+00:00:09.541 : uset g_cam_steering_reverse "1.0"
+00:00:09.541 : uset g_cam_steering_value "1.0"
+00:00:09.541 : uset g_cam_steering "0"
+00:00:09.541 : uset g_pedal_clutch_range "1.0"
+00:00:09.541 : uset g_brake_intensity "1.0"
+00:00:09.541 : uset g_steer_autocenter "1"
+00:00:09.541 : uset g_hshifter_synchronized "1"
+00:00:09.541 : uset g_hshifter_split "3"
+00:00:09.541 : uset g_hshifter_layout_shifting "1"
+00:00:09.541 : uset g_hshifter_layout "splitter"
+00:00:09.541 : uset g_baked_vehicle "1"
+00:00:09.542 : uset s_sfx_enabled "1"
+00:00:09.542 : uset s_music_enabled "1"
+00:00:09.542 : uset g_cargo_load_require_park_brake "0"
+00:00:09.542 : uset g_cargo_load_require_engine_off "1"
+00:00:09.542 : uset g_last_wotr_event_id "0"
+00:00:09.542 : uset g_force_load_selector "0"
+00:00:09.542 : uset g_autoload_ignore_autosave "0"
+00:00:09.542 : uset g_start_in_truck "0"
+00:00:09.542 : uset g_park_brake_init "0"
+00:00:09.542 : uset g_trailer_advanced_coupling "0"
+00:00:09.542 : uset g_parking_difficulty "0"
+00:00:09.542 : uset g_simple_parking_doubles "1"
+00:00:09.542 : uset g_job_distance "1.0"
+00:00:09.542 : uset g_job_distance_limit "-1.0"
+00:00:09.542 : uset g_income_factor "1.0"
+00:00:09.542 : uset g_currency "0"
+00:00:09.542 : uset g_bad_weather_factor "0.07"
+00:00:09.542 : uset g_truck_analysis_fold "0"
+00:00:09.542 : uset g_desktop_rnd "0"
+00:00:09.542 : uset g_desktop_bcg "config"
+00:00:09.542 : uset g_save_idx "1"
+00:00:09.542 : uset g_ui_map_align "1"
+00:00:09.542 : uset g_gps_routing_mode "0"
+00:00:09.542 : uset g_gps_navigation "3"
+00:00:09.542 : uset g_heavy_cargo_popup "1"
+00:00:09.542 : uset g_adviser_auto_parking "1"
+00:00:09.542 : uset g_adviser_keep_hidden "0"
+00:00:09.542 : uset g_adviser "1"
+00:00:09.542 : uset g_desktop_tutorial "0"
+00:00:09.542 : uset g_tutorial "0"
+00:00:09.542 : uset g_fatigue "1"
+00:00:09.542 : uset g_time_zones "0"
+00:00:09.542 : uset g_police "1"
+00:00:09.542 : uset g_subtitles "0"
+00:00:09.542 : uset g_clock_24 "1"
+00:00:09.542 : uset g_disable_beacons "0"
+00:00:09.542 : uset g_show_game_elements "1"
+00:00:09.542 : uset g_hmd_no_3d_background "0"
+00:00:09.542 : uset g_hmd_no_special_menu "0"
+00:00:09.542 : uset g_hmd_reduced_cabin_movement "1"
+00:00:09.542 : uset g_hmd_no_artifical_movement "0"
+00:00:09.542 : uset s_interior_volume "1.0"
+00:00:09.542 : uset s_wheel_noise "1.0"
+00:00:09.542 : uset s_air_noise "1.0"
+00:00:09.542 : uset s_rumble_enabled "1"
+00:00:09.542 : uset s_reverse_enabled "1"
+00:00:09.542 : uset g_cam_blinker "0"
+00:00:09.542 : uset g_cam_physics_value "1.0"
+00:00:09.542 : uset g_cam_physics "1"
+00:00:09.542 : uset g_blinker_auto_off "1"
+00:00:09.542 : uset g_cruise_control_smart "5.0"
+00:00:09.542 : uset g_cruise_control_grid "5.0"
+00:00:09.542 : uset g_adaptive_shift "0.0"
+00:00:09.542 : uset g_fuel_simulation "0"
+00:00:09.542 : uset g_hardcore_simulation "0"
+00:00:09.542 : uset g_reg_setting "reg_setting.europe"
+00:00:09.542 : uset g_brake_light_all "0"
+00:00:09.542 : uset g_use_speed_limiter "1"
+00:00:09.542 : uset g_hud_speed_warning "0"
+00:00:09.542 : uset g_hud_speed_limit "1"
+00:00:09.542 : uset g_axle_drop_auto "1"
+00:00:09.543 : uset g_engine_start_auto "1"
+00:00:09.543 : uset g_motor_brake_auto "0"
+00:00:09.543 : uset g_retarder_auto "0"
+00:00:09.543 : uset g_suspension_stiffness "1.0"
+00:00:09.543 : uset g_trailer_stability "0.5"
+00:00:09.543 : uset g_truck_stability "0.5"
+00:00:09.543 : uset g_mpg "0"
+00:00:09.543 : uset g_gallon "0"
+00:00:09.543 : uset g_fahrenheit "0"
+00:00:09.543 : uset g_pounds "kg"
+00:00:09.543 : uset g_mph "0"
+00:00:09.543 : uset g_trans "0"
+00:00:09.543 : uset g_road_events "1.0"
+00:00:09.543 : uset g_detours "1.0"
+00:00:09.543 : uset g_name_localization "1"
+00:00:09.543 : uset g_lang_set "1"
+00:00:09.543 : uset g_lang "pl_pl"
+00:00:09.543 : uset g_cutscenes "1"
+00:00:09.543 : uset g_phys_mirrors "0"
+00:00:10.106 : <ERROR> Failed to get count of the inventory items from the result.
+00:00:13.260 : [zipfs] ets2_speed_limit_120_valera_t.scs: Mounted, 2 entries [0]
+00:00:13.260 : <WARNING> [mod] Mod package 'ets2_speed_limit_120_valera_t' does not contain a manifest file 'manifest.sii', creating default information set.
+00:00:13.261 : [zipfs] ets2_speed_limit_120_valera_t.scs: Unmounted
+00:00:13.262 : [zipfs] PM227_RM_v131_roadconnection.scs: Mounted, 206 entries [0x7912d596]
+00:00:13.262 : [zipfs] PM227_RM_v131_roadconnection.scs: Unmounted
+00:00:13.263 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Mounted, 67 entries [0x2ac95b49]
+00:00:13.264 : <WARNING> [mods] Unknown category '' defined for Polskie_nazwy_miast_-_RusMap. Ignoring.
+00:00:13.264 : <WARNING> [mods] No valid categories defined for Polskie_nazwy_miast_-_RusMap. Setting defaults.
+00:00:13.264 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Unmounted
+00:00:13.265 : [hashfs] promods-assets-v240.scs: Mounted, 41032 entries
+00:00:13.266 : [hashfs] promods-assets-v240.scs: Unmounted.
+00:00:13.269 : [zipfs] promods-def-st-v240.scs: Mounted, 2213 entries [0x38f8ca9e]
+00:00:13.269 : [zipfs] promods-def-st-v240.scs: Unmounted
+00:00:13.285 : [zipfs] promods-map-v240.scs: Mounted, 27686 entries [0xbbb9953c]
+00:00:13.285 : [zipfs] promods-map-v240.scs: Unmounted
+00:00:13.285 : [hashfs] promods-media-v240.scs: Mounted, 151 entries
+00:00:13.285 : [hashfs] promods-media-v240.scs: Unmounted.
+00:00:13.286 : [hashfs] promods-model1-v240.scs: Mounted, 15482 entries
+00:00:13.286 : [hashfs] promods-model1-v240.scs: Unmounted.
+00:00:13.286 : [hashfs] promods-model2-v240.scs: Mounted, 24882 entries
+00:00:13.286 : [hashfs] promods-model2-v240.scs: Unmounted.
+00:00:13.287 : [hashfs] promods-model3-v240.scs: Mounted, 8319 entries
+00:00:13.287 : [hashfs] promods-model3-v240.scs: Unmounted.
+00:00:13.287 : [hashfs] promods-tcp-companies-v122.scs: Mounted, 890 entries
+00:00:13.287 : [hashfs] promods-tcp-companies-v122.scs: Unmounted.
+00:00:13.287 : [zipfs] promods-tcp-def-companies-v122.scs: Mounted, 55 entries [0x1cedb801]
+00:00:13.287 : [zipfs] promods-tcp-def-companies-v122.scs: Unmounted
+00:00:13.289 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Mounted, 397 entries [0xfdbedcd6]
+00:00:13.289 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Unmounted
+00:00:13.289 : [zipfs] promods-tcp-def-trailers-replacement-v122.scs: Mounted, 121 entries [0x74b91656]
+00:00:13.289 : [zipfs] promods-tcp-def-trailers-replacement-v122.scs: Unmounted
+00:00:13.290 : [zipfs] promods-tcp-def-trailers-standalone-v122.scs: Mounted, 71 entries [0xc7f8d322]
+00:00:13.290 : [zipfs] promods-tcp-def-trailers-standalone-v122.scs: Unmounted
+00:00:13.290 : [hashfs] promods-tcp-trailers-v122.scs: Mounted, 1409 entries
+00:00:13.290 : [hashfs] promods-tcp-trailers-v122.scs: Unmounted.
+00:00:13.293 : [zipfs] RusMap-def_v1.8.1.scs: Mounted, 6606 entries [0xf2e41683]
+00:00:13.293 : [zipfs] RusMap-def_v1.8.1.scs: Unmounted
+00:00:13.293 : [zipfs] RusMap-map_v1.8.1.scs: Mounted, 817 entries [0x926b8df2]
+00:00:13.293 : [zipfs] RusMap-map_v1.8.1.scs: Unmounted
+00:00:13.296 : [zipfs] RusMap-model2_v1.8.1.scs: Mounted, 6966 entries [0xe4f4fc1c]
+00:00:13.296 : [zipfs] RusMap-model2_v1.8.1.scs: Unmounted
+00:00:13.304 : [zipfs] RusMap-model_v1.8.1.scs: Mounted, 19909 entries [0x24242424]
+00:00:13.304 : [zipfs] RusMap-model_v1.8.1.scs: Unmounted
+00:00:13.305 : [zipfs] RusMap_Police_Fix.scs: Mounted, 8 entries [0x38072088]
+00:00:13.305 : [zipfs] RusMap_Police_Fix.scs: Unmounted
+00:00:13.305 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-def.scs: Mounted, 76 entries [0x7e51f071]
+00:00:13.305 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-def.scs: Unmounted
+00:00:13.306 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-map.scs: Mounted, 108 entries [0xdfdb61f6]
+00:00:13.306 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-map.scs: Unmounted
+00:00:13.640 : [zipfs] PM227_RM_v131_roadconnection.scs: Mounted, 206 entries [0x7912d596]
+00:00:13.640 : [mod_package_manager] Mod "ProMods 2.27 + RusMap 1.8.1 Road Connection" has been mounted. (package_name: PM227_RM_v131_roadconnection, version: ETS2 1.31, source: User mods)
+00:00:13.641 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Mounted, 67 entries [0x2ac95b49]
+00:00:13.641 : [mod_package_manager] Mod "Polskie nazwy miast - RusMap" has been mounted. (package_name: Polskie_nazwy_miast_-_RusMap, version: , source: User mods)
+00:00:13.643 : [hashfs] promods-assets-v240.scs: Mounted, 41032 entries
+00:00:13.643 : [mod_package_manager] Mod "ProMods Assets Package" has been mounted. (package_name: promods-assets-v240, version: 2.40, source: User mods)
+00:00:13.648 : [zipfs] promods-def-st-v240.scs: Mounted, 2213 entries [0x38f8ca9e]
+00:00:13.648 : [mod_package_manager] Mod "ProMods Definition Package" has been mounted. (package_name: promods-def-st-v240, version: 2.40, source: User mods)
+00:00:13.666 : [zipfs] promods-map-v240.scs: Mounted, 27686 entries [0xbbb9953c]
+00:00:13.666 : [mod_package_manager] Mod "ProMods Map Package" has been mounted. (package_name: promods-map-v240, version: 2.40, source: User mods)
+00:00:13.667 : [hashfs] promods-media-v240.scs: Mounted, 151 entries
+00:00:13.667 : [mod_package_manager] Mod "ProMods Media Package" has been mounted. (package_name: promods-media-v240, version: 2.40, source: User mods)
+00:00:13.667 : [hashfs] promods-model1-v240.scs: Mounted, 15482 entries
+00:00:13.667 : [mod_package_manager] Mod "ProMods Models Package 1" has been mounted. (package_name: promods-model1-v240, version: 2.40, source: User mods)
+00:00:13.668 : [hashfs] promods-model2-v240.scs: Mounted, 24882 entries
+00:00:13.668 : [mod_package_manager] Mod "ProMods Models Package 2" has been mounted. (package_name: promods-model2-v240, version: 2.40, source: User mods)
+00:00:13.668 : [hashfs] promods-model3-v240.scs: Mounted, 8319 entries
+00:00:13.668 : [mod_package_manager] Mod "ProMods Models Package 3" has been mounted. (package_name: promods-model3-v240, version: 2.40, source: User mods)
+00:00:13.668 : [hashfs] promods-tcp-companies-v122.scs: Mounted, 890 entries
+00:00:13.668 : [mod_package_manager] Mod "ProMods Trailer and Company Pack (Company Package)" has been mounted. (package_name: promods-tcp-companies-v122, version: 1.22, source: User mods)
+00:00:13.677 : [zipfs] PM227_RM_v131_roadconnection.scs: Unmounted
+00:00:13.677 : [hashfs] promods-tcp-companies-v122.scs: Unmounted.
+00:00:13.677 : [hashfs] promods-model3-v240.scs: Unmounted.
+00:00:13.677 : [hashfs] promods-model2-v240.scs: Unmounted.
+00:00:13.678 : [hashfs] promods-model1-v240.scs: Unmounted.
+00:00:13.678 : [hashfs] promods-media-v240.scs: Unmounted.
+00:00:13.678 : [zipfs] promods-map-v240.scs: Unmounted
+00:00:13.679 : [zipfs] promods-def-st-v240.scs: Unmounted
+00:00:13.680 : [hashfs] promods-assets-v240.scs: Unmounted.
+00:00:13.680 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Unmounted
+00:00:13.681 : [zipfs] promods-tcp-def-companies-v122.scs: Mounted, 55 entries [0x1cedb801]
+00:00:13.681 : [mod_package_manager] Mod "ProMods Trailer and Company Pack (Company Definition)" has been mounted. (package_name: promods-tcp-def-companies-v122, version: 1.22, source: User mods)
+00:00:13.683 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Mounted, 397 entries [0xfdbedcd6]
+00:00:13.683 : [mod_package_manager] Mod "ProMods Trailer and Company Pack (Main Trailer Definition)" has been mounted. (package_name: promods-tcp-def-trailers-main-v122, version: 1.22, source: User mods)
+00:00:13.688 : [zipfs] promods-tcp-def-companies-v122.scs: Unmounted
+00:00:13.688 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Unmounted
+00:00:19.625 : mm_flush_repeatedly
+00:00:19.646 : uset s_sfx_volume "1.0"
+00:00:19.646 : uset s_radio_volume "1.0"
+00:00:19.646 : uset s_music_volume "0.8"
+00:00:19.646 : uset s_master_volume "1.0"
+00:00:19.646 : uset s_reverse_stereo "0"
+00:00:19.646 : uset g_force_economy_reset "0"
+00:00:19.646 : uset g_input_configured "1"
+00:00:19.646 : uset i_oculus_eye_protrusion "0.09"
+00:00:19.646 : uset i_oculus_eye_height "0.15"
+00:00:19.646 : uset i_hmd_max_prediction "0.1"
+00:00:19.646 : uset i_hmd_min_prediction "0.0"
+00:00:19.646 : uset r_interior "1"
+00:00:19.646 : uset r_steering_wheel "1"
+00:00:19.646 : uset g_toy_physics "1"
+00:00:19.646 : uset g_cam_steering_reverse "1.0"
+00:00:19.647 : uset g_cam_steering_value "1.0"
+00:00:19.647 : uset g_cam_steering "0"
+00:00:19.647 : uset g_pedal_clutch_range "1.0"
+00:00:19.647 : uset g_brake_intensity "1.0"
+00:00:19.647 : uset g_steer_autocenter "1"
+00:00:19.647 : uset g_hshifter_synchronized "1"
+00:00:19.647 : uset g_hshifter_split "3"
+00:00:19.647 : uset g_hshifter_layout_shifting "1"
+00:00:19.647 : uset g_hshifter_layout "splitter"
+00:00:19.647 : uset g_baked_vehicle "1"
+00:00:19.647 : uset s_sfx_enabled "1"
+00:00:19.647 : uset s_music_enabled "1"
+00:00:19.648 : uset g_cargo_load_require_park_brake "0"
+00:00:19.648 : uset g_cargo_load_require_engine_off "1"
+00:00:19.648 : uset g_last_wotr_event_id "0"
+00:00:19.648 : uset g_force_load_selector "0"
+00:00:19.648 : uset g_autoload_ignore_autosave "0"
+00:00:19.648 : uset g_start_in_truck "0"
+00:00:19.648 : uset g_park_brake_init "0"
+00:00:19.649 : uset g_trailer_advanced_coupling "0"
+00:00:19.649 : uset g_parking_difficulty "0"
+00:00:19.649 : uset g_simple_parking_doubles "1"
+00:00:19.649 : uset g_job_distance "1.0"
+00:00:19.649 : uset g_job_distance_limit "-1.0"
+00:00:19.650 : uset g_income_factor "1.0"
+00:00:19.650 : uset g_currency "0"
+00:00:19.650 : uset g_bad_weather_factor "0.07"
+00:00:19.650 : uset g_truck_analysis_fold "0"
+00:00:19.650 : uset g_desktop_rnd "0"
+00:00:19.650 : uset g_desktop_bcg "config"
+00:00:19.650 : uset g_save_idx "1"
+00:00:19.650 : uset g_ui_map_align "1"
+00:00:19.650 : uset g_gps_routing_mode "0"
+00:00:19.650 : uset g_gps_navigation "3"
+00:00:19.651 : uset g_heavy_cargo_popup "1"
+00:00:19.651 : uset g_adviser_auto_parking "1"
+00:00:19.651 : uset g_adviser_keep_hidden "0"
+00:00:19.651 : uset g_adviser "1"
+00:00:19.651 : uset g_desktop_tutorial "0"
+00:00:19.651 : uset g_tutorial "0"
+00:00:19.651 : uset g_fatigue "1"
+00:00:19.651 : uset g_time_zones "0"
+00:00:19.651 : uset g_police "1"
+00:00:19.651 : uset g_subtitles "0"
+00:00:19.651 : uset g_clock_24 "1"
+00:00:19.651 : uset g_disable_beacons "0"
+00:00:19.651 : uset g_show_game_elements "1"
+00:00:19.651 : uset g_hmd_no_3d_background "0"
+00:00:19.651 : uset g_hmd_no_special_menu "0"
+00:00:19.651 : uset g_hmd_reduced_cabin_movement "1"
+00:00:19.651 : uset g_hmd_no_artifical_movement "0"
+00:00:19.651 : uset s_interior_volume "1.0"
+00:00:19.651 : uset s_wheel_noise "1.0"
+00:00:19.651 : uset s_air_noise "1.0"
+00:00:19.651 : uset s_rumble_enabled "1"
+00:00:19.651 : uset s_reverse_enabled "1"
+00:00:19.651 : uset g_cam_blinker "0"
+00:00:19.651 : uset g_cam_physics_value "1.0"
+00:00:19.651 : uset g_cam_physics "1"
+00:00:19.651 : uset g_blinker_auto_off "1"
+00:00:19.651 : uset g_cruise_control_smart "5.0"
+00:00:19.651 : uset g_cruise_control_grid "5.0"
+00:00:19.651 : uset g_adaptive_shift "0.0"
+00:00:19.651 : uset g_fuel_simulation "0"
+00:00:19.651 : uset g_hardcore_simulation "0"
+00:00:19.651 : uset g_reg_setting "reg_setting.europe"
+00:00:19.651 : uset g_brake_light_all "0"
+00:00:19.651 : uset g_use_speed_limiter "1"
+00:00:19.651 : uset g_hud_speed_warning "0"
+00:00:19.651 : uset g_hud_speed_limit "1"
+00:00:19.651 : uset g_axle_drop_auto "1"
+00:00:19.651 : uset g_engine_start_auto "1"
+00:00:19.651 : uset g_motor_brake_auto "0"
+00:00:19.651 : uset g_retarder_auto "0"
+00:00:19.651 : uset g_suspension_stiffness "1.0"
+00:00:19.652 : uset g_trailer_stability "0.5"
+00:00:19.652 : uset g_truck_stability "0.5"
+00:00:19.652 : uset g_mpg "0"
+00:00:19.652 : uset g_gallon "0"
+00:00:19.652 : uset g_fahrenheit "0"
+00:00:19.652 : uset g_pounds "kg"
+00:00:19.652 : uset g_mph "0"
+00:00:19.652 : uset g_trans "0"
+00:00:19.652 : uset g_road_events "1.0"
+00:00:19.652 : uset g_detours "1.0"
+00:00:19.652 : uset g_name_localization "1"
+00:00:19.652 : uset g_lang_set "1"
+00:00:19.652 : uset g_lang "pl_pl"
+00:00:19.652 : uset g_cutscenes "1"
+00:00:19.652 : uset g_phys_mirrors "0"
+00:00:20.204 : <ERROR> Failed to get count of the inventory items from the result.
+00:00:22.925 : uset s_sfx_volume "1.0"
+00:00:22.925 : uset s_radio_volume "1.0"
+00:00:22.925 : uset s_music_volume "0.8"
+00:00:22.925 : uset s_master_volume "1.0"
+00:00:22.925 : uset s_reverse_stereo "0"
+00:00:22.925 : uset g_force_economy_reset "0"
+00:00:22.925 : uset g_input_configured "1"
+00:00:22.925 : uset i_oculus_eye_protrusion "0.09"
+00:00:22.925 : uset i_oculus_eye_height "0.15"
+00:00:22.925 : uset i_hmd_max_prediction "0.1"
+00:00:22.925 : uset i_hmd_min_prediction "0.0"
+00:00:22.926 : uset r_interior "1"
+00:00:22.926 : uset r_steering_wheel "1"
+00:00:22.926 : uset g_toy_physics "1"
+00:00:22.926 : uset g_cam_steering_reverse "1.0"
+00:00:22.926 : uset g_cam_steering_value "1.0"
+00:00:22.926 : uset g_cam_steering "0"
+00:00:22.926 : uset g_pedal_clutch_range "1.0"
+00:00:22.926 : uset g_brake_intensity "1.0"
+00:00:22.926 : uset g_steer_autocenter "1"
+00:00:22.926 : uset g_hshifter_synchronized "1"
+00:00:22.926 : uset g_hshifter_split "3"
+00:00:22.926 : uset g_hshifter_layout_shifting "1"
+00:00:22.926 : uset g_hshifter_layout "splitter"
+00:00:22.926 : uset g_baked_vehicle "1"
+00:00:22.926 : uset s_sfx_enabled "1"
+00:00:22.926 : uset s_music_enabled "1"
+00:00:22.926 : uset g_cargo_load_require_park_brake "0"
+00:00:22.926 : uset g_cargo_load_require_engine_off "1"
+00:00:22.926 : uset g_last_wotr_event_id "0"
+00:00:22.926 : uset g_force_load_selector "0"
+00:00:22.926 : uset g_autoload_ignore_autosave "0"
+00:00:22.926 : uset g_start_in_truck "0"
+00:00:22.926 : uset g_park_brake_init "0"
+00:00:22.926 : uset g_trailer_advanced_coupling "0"
+00:00:22.926 : uset g_parking_difficulty "0"
+00:00:22.926 : uset g_simple_parking_doubles "1"
+00:00:22.926 : uset g_job_distance "1.0"
+00:00:22.926 : uset g_job_distance_limit "-1.0"
+00:00:22.926 : uset g_income_factor "1.0"
+00:00:22.926 : uset g_currency "0"
+00:00:22.926 : uset g_bad_weather_factor "0.07"
+00:00:22.926 : uset g_truck_analysis_fold "0"
+00:00:22.927 : uset g_desktop_rnd "0"
+00:00:22.927 : uset g_desktop_bcg "config"
+00:00:22.927 : uset g_save_idx "1"
+00:00:22.927 : uset g_ui_map_align "1"
+00:00:22.927 : uset g_gps_routing_mode "0"
+00:00:22.927 : uset g_gps_navigation "3"
+00:00:22.927 : uset g_heavy_cargo_popup "1"
+00:00:22.927 : uset g_adviser_auto_parking "1"
+00:00:22.927 : uset g_adviser_keep_hidden "0"
+00:00:22.927 : uset g_adviser "1"
+00:00:22.927 : uset g_desktop_tutorial "0"
+00:00:22.927 : uset g_tutorial "0"
+00:00:22.927 : uset g_fatigue "1"
+00:00:22.927 : uset g_time_zones "0"
+00:00:22.927 : uset g_police "1"
+00:00:22.927 : uset g_subtitles "0"
+00:00:22.927 : uset g_clock_24 "1"
+00:00:22.927 : uset g_disable_beacons "0"
+00:00:22.927 : uset g_show_game_elements "1"
+00:00:22.927 : uset g_hmd_no_3d_background "0"
+00:00:22.927 : uset g_hmd_no_special_menu "0"
+00:00:22.927 : uset g_hmd_reduced_cabin_movement "1"
+00:00:22.928 : uset g_hmd_no_artifical_movement "0"
+00:00:22.928 : uset s_interior_volume "1.0"
+00:00:22.928 : uset s_wheel_noise "1.0"
+00:00:22.928 : uset s_air_noise "1.0"
+00:00:22.928 : uset s_rumble_enabled "1"
+00:00:22.928 : uset s_reverse_enabled "1"
+00:00:22.928 : uset g_cam_blinker "0"
+00:00:22.928 : uset g_cam_physics_value "1.0"
+00:00:22.928 : uset g_cam_physics "1"
+00:00:22.928 : uset g_blinker_auto_off "1"
+00:00:22.928 : uset g_cruise_control_smart "5.0"
+00:00:22.928 : uset g_cruise_control_grid "5.0"
+00:00:22.928 : uset g_adaptive_shift "0.0"
+00:00:22.928 : uset g_fuel_simulation "0"
+00:00:22.928 : uset g_hardcore_simulation "0"
+00:00:22.928 : uset g_reg_setting "reg_setting.europe"
+00:00:22.928 : uset g_brake_light_all "0"
+00:00:22.928 : uset g_use_speed_limiter "1"
+00:00:22.928 : uset g_hud_speed_warning "0"
+00:00:22.928 : uset g_hud_speed_limit "1"
+00:00:22.928 : uset g_axle_drop_auto "1"
+00:00:22.928 : uset g_engine_start_auto "1"
+00:00:22.928 : uset g_motor_brake_auto "0"
+00:00:22.928 : uset g_retarder_auto "0"
+00:00:22.928 : uset g_suspension_stiffness "1.0"
+00:00:22.928 : uset g_trailer_stability "0.5"
+00:00:22.928 : uset g_truck_stability "0.5"
+00:00:22.928 : uset g_mpg "0"
+00:00:22.928 : uset g_gallon "0"
+00:00:22.929 : uset g_fahrenheit "0"
+00:00:22.929 : uset g_pounds "kg"
+00:00:22.929 : uset g_mph "0"
+00:00:22.929 : uset g_trans "0"
+00:00:22.929 : uset g_road_events "1.0"
+00:00:22.929 : uset g_detours "1.0"
+00:00:22.929 : uset g_name_localization "1"
+00:00:22.929 : uset g_lang_set "1"
+00:00:22.929 : uset g_lang "pl_pl"
+00:00:22.929 : uset g_cutscenes "1"
+00:00:22.929 : uset g_phys_mirrors "0"
+00:00:22.947 : New profile selected: 'lukasz'
+00:00:22.948 : [zipfs] ets2_speed_limit_120_valera_t.scs: Mounted, 2 entries [0x148261ea]
+00:00:22.948 : [mod_package_manager] Mod "ets2_speed_limit_120_valera_t" has been mounted. (package_name: ets2_speed_limit_120_valera_t, version: , source: User mods)
+00:00:23.370 : game
+00:00:23.473 : [bullet] Starting physics server: Bullet
+00:00:23.554 : Loaded trailers: 120
+00:00:23.564 : Loaded traffic vehicles of type 'car': 85
+00:00:23.565 : Loaded traffic vehicles of type 'car_city': 1
+00:00:23.570 : Loaded traffic vehicles of type 'truck': 32
+00:00:23.571 : Loaded traffic vehicles of type 'truck_city': 3
+00:00:23.572 : Loaded traffic vehicles of type 'bus': 3
+00:00:23.573 : Loaded traffic vehicles of type 'slow': 2
+00:00:23.577 : Loaded traffic vehicles of type 'police': 28
+00:00:23.578 : Loaded traffic vehicles of type 'train': 8
+00:00:23.580 : Loaded traffic vehicles of type 'train_fast': 10
+00:00:23.581 : Loaded traffic vehicles of type 'tram': 9
+00:00:23.582 : Loaded traffic vehicles of type 'escort_front': 1
+00:00:23.583 : Loaded traffic vehicles of type 'escort_back': 1
+00:00:23.586 : Loaded traffic vehicles of type 'event': 35
+00:00:23.587 : Loaded traffic vehicles of type 'parked': 3
+00:00:23.590 : Loaded traffic vehicles of type 'emergency': 29
+00:00:23.598 : Loaded traffic trailers of type 'semi_trailer': 22
+00:00:23.600 : Loaded traffic trailers of type 'train_car': 34
+00:00:23.602 : Loaded traffic trailers of type 'tram_car': 29
+00:00:23.603 : Loaded traffic trailers of type 'simple': 6
+00:00:23.605 : Loaded traffic trailers of type 'parked': 12
+00:00:23.609 : Loaded addon hookups: 120
+00:00:23.610 : Loading resource server data ....
+00:00:23.610 : Loading vegetation data ....
+00:00:23.619 : Loading traffic rule data ....
+00:00:23.621 : Loading traffic semaphore data ....
+00:00:23.625 : Loading road data ....
+00:00:23.633 : Loading terrain data ....
+00:00:23.637 : Loading railing data ....
+00:00:23.654 : Loading building data ....
+00:00:23.670 : Loading model data ....
+00:00:23.692 : Loading prefab data ....
+00:00:23.779 : Loading sign data ....
+00:00:23.808 : Loading sign template data ....
+00:00:23.813 : Loading city data ....
+00:00:23.830 : Loading country data ....
+00:00:23.843 : Linking cities with countries ....
+00:00:23.844 : Loading stamp data ....
+00:00:23.853 : Loading sound item data ....
+00:00:23.854 : Loading live stream data ....
+00:00:23.855 : Loading movers data ....
+00:00:23.866 : Loading ferry data ....
+00:00:23.874 : Loading hinges data ....
+00:00:23.875 : Loading game condition data ....
+00:00:23.876 : Loading trigger action data ....
+00:00:23.876 : Loading cutscene data ....
+00:00:23.879 : Loading routes data ....
+00:00:23.887 : Loading overrides ....
+00:00:23.904 : Loading cargo data ....
+00:00:23.935 : Loading company cargo data ....
+00:00:24.296 : Loading unlock data ....
+00:00:24.306 : <WARNING> Ignoring obsolete attribute 'road_color' of unit '.game.data' (of type 'game_data').
+00:00:24.306 : <WARNING> Ignoring obsolete attribute 'discovered_color' of unit '.game.data' (of type 'game_data').
+00:00:24.306 : <WARNING> Ignoring obsolete attribute 'job_road_color' of unit '.game.data' (of type 'game_data').
+00:00:24.306 : <WARNING> Ignoring obsolete attribute 'job_discovered_color' of unit '.game.data' (of type 'game_data').
+00:00:24.306 : <WARNING> Ignoring obsolete attribute 'world_road_color' of unit '.game.data' (of type 'game_data').
+00:00:24.306 : <WARNING> Ignoring obsolete attribute 'world_discovered_color' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'zoom_uplift' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'zoom_uplift' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'zoom_uplift' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'zoom_uplift' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'zoom_uplift' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'zoom_uplift' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'zoom_uplift' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'zoom_uplift' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'player_size' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'player_size' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'player_size' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'player_size' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'player_size' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'player_size' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'player_size' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'player_size' of unit '.game.data' (of type 'game_data').
+00:00:24.307 : <WARNING> Ignoring obsolete attribute 'road_size_factor' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'road_size_factor' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'road_size_factor' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'road_size_factor' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'road_size_factor' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'road_size_factor' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'road_size_factor' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'road_size_factor' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'full_detail' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'full_detail' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'full_detail' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'full_detail' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'full_detail' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'full_detail' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'full_detail' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'full_detail' of unit '.game.data' (of type 'game_data').
+00:00:24.308 : <WARNING> Ignoring obsolete attribute 'icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'company_icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'company_icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'company_icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'company_icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'company_icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'company_icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'company_icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'company_icon_size' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_min' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_min' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_min' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_min' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_min' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_min' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_min' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_min' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_max' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_max' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_max' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_max' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_max' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_max' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_max' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'camera_limits_max' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_items_flags' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_items_flags' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_items_flags' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_items_flags' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_items_flags' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_items_flags' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_items_flags' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_items_flags' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'map_3d_camera_pitch' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'truck_dealer_exterior' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'truck_dealer_interior' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'tiny_garage' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'small_garage' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'large_garage' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'truck_damage_coef' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'trailer_damage_coef' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'truck_to_trailer_dmg' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'truck_tex_normal_bcg' of unit '.game.data' (of type 'game_data').
+00:00:24.309 : <WARNING> Ignoring obsolete attribute 'truck_tex_selected_bcg' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'world_to_ui_off' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'world_to_ui_coef' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_name' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_name' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_name' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_name' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_name' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_name' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_values' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_values' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_values' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_values' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_values' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <WARNING> Ignoring obsolete attribute 'blur_effect_values' of unit '.game.data' (of type 'game_data').
+00:00:24.310 : <ERROR> Definition for tiny garages is missing!
+00:00:24.310 : <ERROR> [unit] The unit '_nameless.1c3.01da.5df0' of type 'game_data' failed in its post-load hook.
+00:00:24.310 : <ERROR> load_unit_tree() - Failed to load unit tree from file (/def/game_data.sii)
+00:00:24.320 : exit load_error
+00:00:24.450 : [ui] Controller setup start
+00:00:24.452 : [inp] Classifying devices
+00:00:24.452 : [ui] Controller setup done
+00:00:24.452 : [bullet] Starting physics server: Bullet
+00:00:46.237 : mm_flush_repeatedly
+00:00:46.239 : [zipfs] ets2_speed_limit_120_valera_t.scs: Unmounted
+00:00:46.258 : uset s_sfx_volume "1.0"
+00:00:46.258 : uset s_radio_volume "1.0"
+00:00:46.258 : uset s_music_volume "0.8"
+00:00:46.258 : uset s_master_volume "1.0"
+00:00:46.258 : uset s_reverse_stereo "0"
+00:00:46.259 : uset g_force_economy_reset "0"
+00:00:46.259 : uset g_input_configured "1"
+00:00:46.259 : uset i_oculus_eye_protrusion "0.09"
+00:00:46.259 : uset i_oculus_eye_height "0.15"
+00:00:46.259 : uset i_hmd_max_prediction "0.1"
+00:00:46.259 : uset i_hmd_min_prediction "0.0"
+00:00:46.259 : uset r_interior "1"
+00:00:46.259 : uset r_steering_wheel "1"
+00:00:46.260 : uset g_toy_physics "1"
+00:00:46.260 : uset g_cam_steering_reverse "1.0"
+00:00:46.260 : uset g_cam_steering_value "1.0"
+00:00:46.260 : uset g_cam_steering "0"
+00:00:46.260 : uset g_pedal_clutch_range "1.0"
+00:00:46.260 : uset g_brake_intensity "1.0"
+00:00:46.260 : uset g_steer_autocenter "1"
+00:00:46.260 : uset g_hshifter_synchronized "1"
+00:00:46.260 : uset g_hshifter_split "3"
+00:00:46.260 : uset g_hshifter_layout_shifting "1"
+00:00:46.260 : uset g_hshifter_layout "splitter"
+00:00:46.260 : uset g_baked_vehicle "1"
+00:00:46.261 : uset s_sfx_enabled "1"
+00:00:46.261 : uset s_music_enabled "1"
+00:00:46.261 : uset g_cargo_load_require_park_brake "0"
+00:00:46.261 : uset g_cargo_load_require_engine_off "1"
+00:00:46.261 : uset g_last_wotr_event_id "0"
+00:00:46.261 : uset g_force_load_selector "0"
+00:00:46.261 : uset g_autoload_ignore_autosave "0"
+00:00:46.261 : uset g_start_in_truck "0"
+00:00:46.261 : uset g_park_brake_init "0"
+00:00:46.261 : uset g_trailer_advanced_coupling "0"
+00:00:46.261 : uset g_parking_difficulty "0"
+00:00:46.261 : uset g_simple_parking_doubles "1"
+00:00:46.261 : uset g_job_distance "1.0"
+00:00:46.261 : uset g_job_distance_limit "-1.0"
+00:00:46.261 : uset g_income_factor "1.0"
+00:00:46.261 : uset g_currency "0"
+00:00:46.261 : uset g_bad_weather_factor "0.07"
+00:00:46.261 : uset g_truck_analysis_fold "0"
+00:00:46.261 : uset g_desktop_rnd "0"
+00:00:46.261 : uset g_desktop_bcg "config"
+00:00:46.261 : uset g_save_idx "1"
+00:00:46.261 : uset g_ui_map_align "1"
+00:00:46.261 : uset g_gps_routing_mode "0"
+00:00:46.261 : uset g_gps_navigation "3"
+00:00:46.261 : uset g_heavy_cargo_popup "1"
+00:00:46.261 : uset g_adviser_auto_parking "1"
+00:00:46.261 : uset g_adviser_keep_hidden "0"
+00:00:46.261 : uset g_adviser "1"
+00:00:46.261 : uset g_desktop_tutorial "0"
+00:00:46.261 : uset g_tutorial "0"
+00:00:46.261 : uset g_fatigue "1"
+00:00:46.261 : uset g_time_zones "0"
+00:00:46.261 : uset g_police "1"
+00:00:46.261 : uset g_subtitles "0"
+00:00:46.261 : uset g_clock_24 "1"
+00:00:46.261 : uset g_disable_beacons "0"
+00:00:46.261 : uset g_show_game_elements "1"
+00:00:46.261 : uset g_hmd_no_3d_background "0"
+00:00:46.261 : uset g_hmd_no_special_menu "0"
+00:00:46.261 : uset g_hmd_reduced_cabin_movement "1"
+00:00:46.261 : uset g_hmd_no_artifical_movement "0"
+00:00:46.261 : uset s_interior_volume "1.0"
+00:00:46.261 : uset s_wheel_noise "1.0"
+00:00:46.261 : uset s_air_noise "1.0"
+00:00:46.261 : uset s_rumble_enabled "1"
+00:00:46.261 : uset s_reverse_enabled "1"
+00:00:46.261 : uset g_cam_blinker "0"
+00:00:46.261 : uset g_cam_physics_value "1.0"
+00:00:46.261 : uset g_cam_physics "1"
+00:00:46.261 : uset g_blinker_auto_off "1"
+00:00:46.262 : uset g_cruise_control_smart "5.0"
+00:00:46.262 : uset g_cruise_control_grid "5.0"
+00:00:46.262 : uset g_adaptive_shift "0.0"
+00:00:46.262 : uset g_fuel_simulation "0"
+00:00:46.262 : uset g_hardcore_simulation "0"
+00:00:46.262 : uset g_reg_setting "reg_setting.europe"
+00:00:46.262 : uset g_brake_light_all "0"
+00:00:46.262 : uset g_use_speed_limiter "1"
+00:00:46.262 : uset g_hud_speed_warning "0"
+00:00:46.262 : uset g_hud_speed_limit "1"
+00:00:46.262 : uset g_axle_drop_auto "1"
+00:00:46.262 : uset g_engine_start_auto "1"
+00:00:46.262 : uset g_motor_brake_auto "0"
+00:00:46.262 : uset g_retarder_auto "0"
+00:00:46.262 : uset g_suspension_stiffness "1.0"
+00:00:46.262 : uset g_trailer_stability "0.5"
+00:00:46.262 : uset g_truck_stability "0.5"
+00:00:46.262 : uset g_mpg "0"
+00:00:46.262 : uset g_gallon "0"
+00:00:46.262 : uset g_fahrenheit "0"
+00:00:46.262 : uset g_pounds "kg"
+00:00:46.262 : uset g_mph "0"
+00:00:46.262 : uset g_trans "0"
+00:00:46.262 : uset g_road_events "1.0"
+00:00:46.262 : uset g_detours "1.0"
+00:00:46.262 : uset g_name_localization "1"
+00:00:46.262 : uset g_lang_set "1"
+00:00:46.262 : uset g_lang "pl_pl"
+00:00:46.262 : uset g_cutscenes "1"
+00:00:46.262 : uset g_phys_mirrors "0"
+00:00:46.834 : <ERROR> Failed to get count of the inventory items from the result.
+00:00:50.155 : [zipfs] ets2_speed_limit_120_valera_t.scs: Mounted, 2 entries [0]
+00:00:50.155 : <WARNING> [mod] Mod package 'ets2_speed_limit_120_valera_t' does not contain a manifest file 'manifest.sii', creating default information set.
+00:00:50.155 : [zipfs] ets2_speed_limit_120_valera_t.scs: Unmounted
+00:00:50.156 : [zipfs] PM227_RM_v131_roadconnection.scs: Mounted, 206 entries [0x7912d596]
+00:00:50.157 : [zipfs] PM227_RM_v131_roadconnection.scs: Unmounted
+00:00:50.158 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Mounted, 67 entries [0x2ac95b49]
+00:00:50.158 : <WARNING> [mods] Unknown category '' defined for Polskie_nazwy_miast_-_RusMap. Ignoring.
+00:00:50.158 : <WARNING> [mods] No valid categories defined for Polskie_nazwy_miast_-_RusMap. Setting defaults.
+00:00:50.158 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Unmounted
+00:00:50.160 : [hashfs] promods-assets-v240.scs: Mounted, 41032 entries
+00:00:50.161 : [hashfs] promods-assets-v240.scs: Unmounted.
+00:00:50.165 : [zipfs] promods-def-st-v240.scs: Mounted, 2213 entries [0x38f8ca9e]
+00:00:50.165 : [zipfs] promods-def-st-v240.scs: Unmounted
+00:00:50.183 : [zipfs] promods-map-v240.scs: Mounted, 27686 entries [0xbbb9953c]
+00:00:50.183 : [zipfs] promods-map-v240.scs: Unmounted
+00:00:50.184 : [hashfs] promods-media-v240.scs: Mounted, 151 entries
+00:00:50.184 : [hashfs] promods-media-v240.scs: Unmounted.
+00:00:50.185 : [hashfs] promods-model1-v240.scs: Mounted, 15482 entries
+00:00:50.185 : [hashfs] promods-model1-v240.scs: Unmounted.
+00:00:50.185 : [hashfs] promods-model2-v240.scs: Mounted, 24882 entries
+00:00:50.185 : [hashfs] promods-model2-v240.scs: Unmounted.
+00:00:50.186 : [hashfs] promods-model3-v240.scs: Mounted, 8319 entries
+00:00:50.186 : [hashfs] promods-model3-v240.scs: Unmounted.
+00:00:50.186 : [hashfs] promods-tcp-companies-v122.scs: Mounted, 890 entries
+00:00:50.186 : [hashfs] promods-tcp-companies-v122.scs: Unmounted.
+00:00:50.187 : [zipfs] promods-tcp-def-companies-v122.scs: Mounted, 55 entries [0x1cedb801]
+00:00:50.187 : [zipfs] promods-tcp-def-companies-v122.scs: Unmounted
+00:00:50.188 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Mounted, 397 entries [0xfdbedcd6]
+00:00:50.189 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Unmounted
+00:00:50.189 : [zipfs] promods-tcp-def-trailers-replacement-v122.scs: Mounted, 121 entries [0x74b91656]
+00:00:50.189 : [zipfs] promods-tcp-def-trailers-replacement-v122.scs: Unmounted
+00:00:50.190 : [zipfs] promods-tcp-def-trailers-standalone-v122.scs: Mounted, 71 entries [0xc7f8d322]
+00:00:50.190 : [zipfs] promods-tcp-def-trailers-standalone-v122.scs: Unmounted
+00:00:50.190 : [hashfs] promods-tcp-trailers-v122.scs: Mounted, 1409 entries
+00:00:50.190 : [hashfs] promods-tcp-trailers-v122.scs: Unmounted.
+00:00:50.195 : [zipfs] RusMap-def_v1.8.1.scs: Mounted, 6606 entries [0xf2e41683]
+00:00:50.195 : [zipfs] RusMap-def_v1.8.1.scs: Unmounted
+00:00:50.196 : [zipfs] RusMap-map_v1.8.1.scs: Mounted, 817 entries [0x926b8df2]
+00:00:50.196 : [zipfs] RusMap-map_v1.8.1.scs: Unmounted
+00:00:50.200 : [zipfs] RusMap-model2_v1.8.1.scs: Mounted, 6966 entries [0xe4f4fc1c]
+00:00:50.201 : [zipfs] RusMap-model2_v1.8.1.scs: Unmounted
+00:00:50.212 : [zipfs] RusMap-model_v1.8.1.scs: Mounted, 19909 entries [0x24242424]
+00:00:50.212 : [zipfs] RusMap-model_v1.8.1.scs: Unmounted
+00:00:50.213 : [zipfs] RusMap_Police_Fix.scs: Mounted, 8 entries [0x38072088]
+00:00:50.213 : [zipfs] RusMap_Police_Fix.scs: Unmounted
+00:00:50.213 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-def.scs: Mounted, 76 entries [0x7e51f071]
+00:00:50.213 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-def.scs: Unmounted
+00:00:50.214 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-map.scs: Mounted, 108 entries [0xdfdb61f6]
+00:00:50.214 : [zipfs] zzz.ScandinaviaMod_PM_Expansion-map.scs: Unmounted
+00:00:50.552 : [zipfs] PM227_RM_v131_roadconnection.scs: Mounted, 206 entries [0x7912d596]
+00:00:50.552 : [mod_package_manager] Mod "ProMods 2.27 + RusMap 1.8.1 Road Connection" has been mounted. (package_name: PM227_RM_v131_roadconnection, version: ETS2 1.31, source: User mods)
+00:00:50.553 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Mounted, 67 entries [0x2ac95b49]
+00:00:50.553 : [mod_package_manager] Mod "Polskie nazwy miast - RusMap" has been mounted. (package_name: Polskie_nazwy_miast_-_RusMap, version: , source: User mods)
+00:00:50.555 : [hashfs] promods-assets-v240.scs: Mounted, 41032 entries
+00:00:50.555 : [mod_package_manager] Mod "ProMods Assets Package" has been mounted. (package_name: promods-assets-v240, version: 2.40, source: User mods)
+00:00:50.559 : [zipfs] promods-def-st-v240.scs: Mounted, 2213 entries [0x38f8ca9e]
+00:00:50.560 : [mod_package_manager] Mod "ProMods Definition Package" has been mounted. (package_name: promods-def-st-v240, version: 2.40, source: User mods)
+00:00:50.580 : [zipfs] promods-map-v240.scs: Mounted, 27686 entries [0xbbb9953c]
+00:00:50.580 : [mod_package_manager] Mod "ProMods Map Package" has been mounted. (package_name: promods-map-v240, version: 2.40, source: User mods)
+00:00:50.581 : [hashfs] promods-media-v240.scs: Mounted, 151 entries
+00:00:50.581 : [mod_package_manager] Mod "ProMods Media Package" has been mounted. (package_name: promods-media-v240, version: 2.40, source: User mods)
+00:00:50.581 : [hashfs] promods-model1-v240.scs: Mounted, 15482 entries
+00:00:50.581 : [mod_package_manager] Mod "ProMods Models Package 1" has been mounted. (package_name: promods-model1-v240, version: 2.40, source: User mods)
+00:00:50.582 : [hashfs] promods-model2-v240.scs: Mounted, 24882 entries
+00:00:50.582 : [mod_package_manager] Mod "ProMods Models Package 2" has been mounted. (package_name: promods-model2-v240, version: 2.40, source: User mods)
+00:00:50.584 : [hashfs] promods-model3-v240.scs: Mounted, 8319 entries
+00:00:50.584 : [mod_package_manager] Mod "ProMods Models Package 3" has been mounted. (package_name: promods-model3-v240, version: 2.40, source: User mods)
+00:00:50.584 : [hashfs] promods-tcp-companies-v122.scs: Mounted, 890 entries
+00:00:50.584 : [mod_package_manager] Mod "ProMods Trailer and Company Pack (Company Package)" has been mounted. (package_name: promods-tcp-companies-v122, version: 1.22, source: User mods)
+00:00:50.594 : [zipfs] PM227_RM_v131_roadconnection.scs: Unmounted
+00:00:50.594 : [hashfs] promods-tcp-companies-v122.scs: Unmounted.
+00:00:50.594 : [hashfs] promods-model3-v240.scs: Unmounted.
+00:00:50.594 : [hashfs] promods-model2-v240.scs: Unmounted.
+00:00:50.595 : [hashfs] promods-model1-v240.scs: Unmounted.
+00:00:50.595 : [hashfs] promods-media-v240.scs: Unmounted.
+00:00:50.595 : [zipfs] promods-map-v240.scs: Unmounted
+00:00:50.596 : [zipfs] promods-def-st-v240.scs: Unmounted
+00:00:50.596 : [hashfs] promods-assets-v240.scs: Unmounted.
+00:00:50.596 : [zipfs] Polskie_nazwy_miast_-_RusMap.scs: Unmounted
+00:00:50.598 : [zipfs] promods-tcp-def-companies-v122.scs: Mounted, 55 entries [0x1cedb801]
+00:00:50.598 : [mod_package_manager] Mod "ProMods Trailer and Company Pack (Company Definition)" has been mounted. (package_name: promods-tcp-def-companies-v122, version: 1.22, source: User mods)
+00:00:50.601 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Mounted, 397 entries [0xfdbedcd6]
+00:00:50.602 : [mod_package_manager] Mod "ProMods Trailer and Company Pack (Main Trailer Definition)" has been mounted. (package_name: promods-tcp-def-trailers-main-v122, version: 1.22, source: User mods)
+00:00:50.620 : [zipfs] promods-tcp-def-companies-v122.scs: Unmounted
+00:00:50.620 : [zipfs] promods-tcp-def-trailers-main-v122.scs: Unmounted
+00:00:59.703 : mm_flush_repeatedly
+00:00:59.725 : uset s_sfx_volume "1.0"
+00:00:59.726 : uset s_radio_volume "1.0"
+00:00:59.726 : uset s_music_volume "0.8"
+00:00:59.726 : uset s_master_volume "1.0"
+00:00:59.726 : uset s_reverse_stereo "0"
+00:00:59.726 : uset g_force_economy_reset "0"
+00:00:59.726 : uset g_input_configured "1"
+00:00:59.726 : uset i_oculus_eye_protrusion "0.09"
+00:00:59.726 : uset i_oculus_eye_height "0.15"
+00:00:59.727 : uset i_hmd_max_prediction "0.1"
+00:00:59.727 : uset i_hmd_min_prediction "0.0"
+00:00:59.727 : uset r_interior "1"
+00:00:59.727 : uset r_steering_wheel "1"
+00:00:59.727 : uset g_toy_physics "1"
+00:00:59.727 : uset g_cam_steering_reverse "1.0"
+00:00:59.727 : uset g_cam_steering_value "1.0"
+00:00:59.727 : uset g_cam_steering "0"
+00:00:59.728 : uset g_pedal_clutch_range "1.0"
+00:00:59.728 : uset g_brake_intensity "1.0"
+00:00:59.728 : uset g_steer_autocenter "1"
+00:00:59.728 : uset g_hshifter_synchronized "1"
+00:00:59.728 : uset g_hshifter_split "3"
+00:00:59.728 : uset g_hshifter_layout_shifting "1"
+00:00:59.728 : uset g_hshifter_layout "splitter"
+00:00:59.728 : uset g_baked_vehicle "1"
+00:00:59.728 : uset s_sfx_enabled "1"
+00:00:59.728 : uset s_music_enabled "1"
+00:00:59.729 : uset g_cargo_load_require_park_brake "0"
+00:00:59.729 : uset g_cargo_load_require_engine_off "1"
+00:00:59.729 : uset g_last_wotr_event_id "0"
+00:00:59.729 : uset g_force_load_selector "0"
+00:00:59.729 : uset g_autoload_ignore_autosave "0"
+00:00:59.729 : uset g_start_in_truck "0"
+00:00:59.729 : uset g_park_brake_init "0"
+00:00:59.729 : uset g_trailer_advanced_coupling "0"
+00:00:59.729 : uset g_parking_difficulty "0"
+00:00:59.729 : uset g_simple_parking_doubles "1"
+00:00:59.729 : uset g_job_distance "1.0"
+00:00:59.729 : uset g_job_distance_limit "-1.0"
+00:00:59.729 : uset g_income_factor "1.0"
+00:00:59.729 : uset g_currency "0"
+00:00:59.729 : uset g_bad_weather_factor "0.07"
+00:00:59.729 : uset g_truck_analysis_fold "0"
+00:00:59.729 : uset g_desktop_rnd "0"
+00:00:59.729 : uset g_desktop_bcg "config"
+00:00:59.729 : uset g_save_idx "1"
+00:00:59.729 : uset g_ui_map_align "1"
+00:00:59.729 : uset g_gps_routing_mode "0"
+00:00:59.729 : uset g_gps_navigation "3"
+00:00:59.729 : uset g_heavy_cargo_popup "1"
+00:00:59.729 : uset g_adviser_auto_parking "1"
+00:00:59.729 : uset g_adviser_keep_hidden "0"
+00:00:59.729 : uset g_adviser "1"
+00:00:59.729 : uset g_desktop_tutorial "0"
+00:00:59.729 : uset g_tutorial "0"
+00:00:59.729 : uset g_fatigue "1"
+00:00:59.729 : uset g_time_zones "0"
+00:00:59.729 : uset g_police "1"
+00:00:59.729 : uset g_subtitles "0"
+00:00:59.729 : uset g_clock_24 "1"
+00:00:59.729 : uset g_disable_beacons "0"
+00:00:59.729 : uset g_show_game_elements "1"
+00:00:59.729 : uset g_hmd_no_3d_background "0"
+00:00:59.729 : uset g_hmd_no_special_menu "0"
+00:00:59.729 : uset g_hmd_reduced_cabin_movement "1"
+00:00:59.729 : uset g_hmd_no_artifical_movement "0"
+00:00:59.729 : uset s_interior_volume "1.0"
+00:00:59.729 : uset s_wheel_noise "1.0"
+00:00:59.729 : uset s_air_noise "1.0"
+00:00:59.729 : uset s_rumble_enabled "1"
+00:00:59.729 : uset s_reverse_enabled "1"
+00:00:59.729 : uset g_cam_blinker "0"
+00:00:59.729 : uset g_cam_physics_value "1.0"
+00:00:59.729 : uset g_cam_physics "1"
+00:00:59.729 : uset g_blinker_auto_off "1"
+00:00:59.729 : uset g_cruise_control_smart "5.0"
+00:00:59.729 : uset g_cruise_control_grid "5.0"
+00:00:59.729 : uset g_adaptive_shift "0.0"
+00:00:59.729 : uset g_fuel_simulation "0"
+00:00:59.729 : uset g_hardcore_simulation "0"
+00:00:59.730 : uset g_reg_setting "reg_setting.europe"
+00:00:59.730 : uset g_brake_light_all "0"
+00:00:59.730 : uset g_use_speed_limiter "1"
+00:00:59.730 : uset g_hud_speed_warning "0"
+00:00:59.730 : uset g_hud_speed_limit "1"
+00:00:59.730 : uset g_axle_drop_auto "1"
+00:00:59.730 : uset g_engine_start_auto "1"
+00:00:59.730 : uset g_motor_brake_auto "0"
+00:00:59.730 : uset g_retarder_auto "0"
+00:00:59.730 : uset g_suspension_stiffness "1.0"
+00:00:59.730 : uset g_trailer_stability "0.5"
+00:00:59.730 : uset g_truck_stability "0.5"
+00:00:59.730 : uset g_mpg "0"
+00:00:59.730 : uset g_gallon "0"
+00:00:59.730 : uset g_fahrenheit "0"
+00:00:59.730 : uset g_pounds "kg"
+00:00:59.730 : uset g_mph "0"
+00:00:59.730 : uset g_trans "0"
+00:00:59.730 : uset g_road_events "1.0"
+00:00:59.730 : uset g_detours "1.0"
+00:00:59.730 : uset g_name_localization "1"
+00:00:59.730 : uset g_lang_set "1"
+00:00:59.730 : uset g_lang "pl_pl"
+00:00:59.730 : uset g_cutscenes "1"
+00:00:59.730 : uset g_phys_mirrors "0"
+00:01:00.299 : <ERROR> Failed to get count of the inventory items from the result.
+00:01:02.986 : uset s_sfx_volume "1.0"
+00:01:02.986 : uset s_radio_volume "1.0"
+00:01:02.987 : uset s_music_volume "0.8"
+00:01:02.987 : uset s_master_volume "1.0"
+00:01:02.987 : uset s_reverse_stereo "0"
+00:01:02.987 : uset g_force_economy_reset "0"
+00:01:02.987 : uset g_input_configured "1"
+00:01:02.987 : uset i_oculus_eye_protrusion "0.09"
+00:01:02.987 : uset i_oculus_eye_height "0.15"
+00:01:02.987 : uset i_hmd_max_prediction "0.1"
+00:01:02.987 : uset i_hmd_min_prediction "0.0"
+00:01:02.987 : uset r_interior "1"
+00:01:02.987 : uset r_steering_wheel "1"
+00:01:02.988 : uset g_toy_physics "1"
+00:01:02.988 : uset g_cam_steering_reverse "1.0"
+00:01:02.988 : uset g_cam_steering_value "1.0"
+00:01:02.988 : uset g_cam_steering "0"
+00:01:02.988 : uset g_pedal_clutch_range "1.0"
+00:01:02.988 : uset g_brake_intensity "1.0"
+00:01:02.988 : uset g_steer_autocenter "1"
+00:01:02.988 : uset g_hshifter_synchronized "1"
+00:01:02.988 : uset g_hshifter_split "3"
+00:01:02.989 : uset g_hshifter_layout_shifting "1"
+00:01:02.989 : uset g_hshifter_layout "splitter"
+00:01:02.989 : uset g_baked_vehicle "1"
+00:01:02.989 : uset s_sfx_enabled "1"
+00:01:02.989 : uset s_music_enabled "1"
+00:01:02.989 : uset g_cargo_load_require_park_brake "0"
+00:01:02.989 : uset g_cargo_load_require_engine_off "1"
+00:01:02.990 : uset g_last_wotr_event_id "0"
+00:01:02.990 : uset g_force_load_selector "0"
+00:01:02.990 : uset g_autoload_ignore_autosave "0"
+00:01:02.990 : uset g_start_in_truck "0"
+00:01:02.990 : uset g_park_brake_init "0"
+00:01:02.990 : uset g_trailer_advanced_coupling "0"
+00:01:02.990 : uset g_parking_difficulty "0"
+00:01:02.990 : uset g_simple_parking_doubles "1"
+00:01:02.990 : uset g_job_distance "1.0"
+00:01:02.990 : uset g_job_distance_limit "-1.0"
+00:01:02.990 : uset g_income_factor "1.0"
+00:01:02.990 : uset g_currency "0"
+00:01:02.990 : uset g_bad_weather_factor "0.07"
+00:01:02.990 : uset g_truck_analysis_fold "0"
+00:01:02.990 : uset g_desktop_rnd "0"
+00:01:02.990 : uset g_desktop_bcg "config"
+00:01:02.990 : uset g_save_idx "1"
+00:01:02.990 : uset g_ui_map_align "1"
+00:01:02.990 : uset g_gps_routing_mode "0"
+00:01:02.990 : uset g_gps_navigation "3"
+00:01:02.990 : uset g_heavy_cargo_popup "1"
+00:01:02.990 : uset g_adviser_auto_parking "1"
+00:01:02.990 : uset g_adviser_keep_hidden "0"
+00:01:02.990 : uset g_adviser "1"
+00:01:02.990 : uset g_desktop_tutorial "0"
+00:01:02.990 : uset g_tutorial "0"
+00:01:02.990 : uset g_fatigue "1"
+00:01:02.990 : uset g_time_zones "0"
+00:01:02.990 : uset g_police "1"
+00:01:02.990 : uset g_subtitles "0"
+00:01:02.990 : uset g_clock_24 "1"
+00:01:02.990 : uset g_disable_beacons "0"
+00:01:02.990 : uset g_show_game_elements "1"
+00:01:02.990 : uset g_hmd_no_3d_background "0"
+00:01:02.990 : uset g_hmd_no_special_menu "0"
+00:01:02.990 : uset g_hmd_reduced_cabin_movement "1"
+00:01:02.990 : uset g_hmd_no_artifical_movement "0"
+00:01:02.990 : uset s_interior_volume "1.0"
+00:01:02.990 : uset s_wheel_noise "1.0"
+00:01:02.990 : uset s_air_noise "1.0"
+00:01:02.990 : uset s_rumble_enabled "1"
+00:01:02.990 : uset s_reverse_enabled "1"
+00:01:02.990 : uset g_cam_blinker "0"
+00:01:02.990 : uset g_cam_physics_value "1.0"
+00:01:02.990 : uset g_cam_physics "1"
+00:01:02.990 : uset g_blinker_auto_off "1"
+00:01:02.990 : uset g_cruise_control_smart "5.0"
+00:01:02.990 : uset g_cruise_control_grid "5.0"
+00:01:02.990 : uset g_adaptive_shift "0.0"
+00:01:02.990 : uset g_fuel_simulation "0"
+00:01:02.990 : uset g_hardcore_simulation "0"
+00:01:02.990 : uset g_reg_setting "reg_setting.europe"
+00:01:02.991 : uset g_brake_light_all "0"
+00:01:02.991 : uset g_use_speed_limiter "1"
+00:01:02.991 : uset g_hud_speed_warning "0"
+00:01:02.991 : uset g_hud_speed_limit "1"
+00:01:02.991 : uset g_axle_drop_auto "1"
+00:01:02.991 : uset g_engine_start_auto "1"
+00:01:02.991 : uset g_motor_brake_auto "0"
+00:01:02.991 : uset g_retarder_auto "0"
+00:01:02.991 : uset g_suspension_stiffness "1.0"
+00:01:02.991 : uset g_trailer_stability "0.5"
+00:01:02.991 : uset g_truck_stability "0.5"
+00:01:02.991 : uset g_mpg "0"
+00:01:02.991 : uset g_gallon "0"
+00:01:02.991 : uset g_fahrenheit "0"
+00:01:02.991 : uset g_pounds "kg"
+00:01:02.991 : uset g_mph "0"
+00:01:02.991 : uset g_trans "0"
+00:01:02.991 : uset g_road_events "1.0"
+00:01:02.991 : uset g_detours "1.0"
+00:01:02.991 : uset g_name_localization "1"
+00:01:02.991 : uset g_lang_set "1"
+00:01:02.991 : uset g_lang "pl_pl"
+00:01:02.991 : uset g_cutscenes "1"
+00:01:02.991 : uset g_phys_mirrors "0"
+00:01:03.002 : New profile selected: 'lukasz'
+00:01:03.433 : game
+00:01:03.545 : [bullet] Starting physics server: Bullet
+00:01:03.625 : Loaded trailers: 120
+00:01:03.635 : Loaded traffic vehicles of type 'car': 85
+00:01:03.636 : Loaded traffic vehicles of type 'car_city': 1
+00:01:03.641 : Loaded traffic vehicles of type 'truck': 32
+00:01:03.642 : Loaded traffic vehicles of type 'truck_city': 3
+00:01:03.643 : Loaded traffic vehicles of type 'bus': 3
+00:01:03.644 : Loaded traffic vehicles of type 'slow': 2
+00:01:03.647 : Loaded traffic vehicles of type 'police': 28
+00:01:03.649 : Loaded traffic vehicles of type 'train': 8
+00:01:03.650 : Loaded traffic vehicles of type 'train_fast': 10
+00:01:03.652 : Loaded traffic vehicles of type 'tram': 9
+00:01:03.653 : Loaded traffic vehicles of type 'escort_front': 1
+00:01:03.654 : Loaded traffic vehicles of type 'escort_back': 1
+00:01:03.656 : Loaded traffic vehicles of type 'event': 35
+00:01:03.657 : Loaded traffic vehicles of type 'parked': 3
+00:01:03.660 : Loaded traffic vehicles of type 'emergency': 29
+00:01:03.667 : Loaded traffic trailers of type 'semi_trailer': 22
+00:01:03.669 : Loaded traffic trailers of type 'train_car': 34
+00:01:03.671 : Loaded traffic trailers of type 'tram_car': 29
+00:01:03.672 : Loaded traffic trailers of type 'simple': 6
+00:01:03.673 : Loaded traffic trailers of type 'parked': 12
+00:01:03.678 : Loaded addon hookups: 120
+00:01:03.678 : Loading resource server data ....
+00:01:03.679 : Loading vegetation data ....
+00:01:03.687 : Loading traffic rule data ....
+00:01:03.689 : Loading traffic semaphore data ....
+00:01:03.693 : Loading road data ....
+00:01:03.698 : Loading terrain data ....
+00:01:03.715 : Loading railing data ....
+00:01:03.732 : Loading building data ....
+00:01:03.749 : Loading model data ....
+00:01:03.769 : Loading prefab data ....
+00:01:03.851 : Loading sign data ....
+00:01:03.879 : Loading sign template data ....
+00:01:03.884 : Loading city data ....
+00:01:03.898 : Loading country data ....
+00:01:03.911 : Linking cities with countries ....
+00:01:03.912 : Loading stamp data ....
+00:01:03.918 : Loading sound item data ....
+00:01:03.919 : Loading live stream data ....
+00:01:03.920 : Loading movers data ....
+00:01:03.932 : Loading ferry data ....
+00:01:03.948 : Loading hinges data ....
+00:01:03.951 : Loading game condition data ....
+00:01:03.955 : Loading trigger action data ....
+00:01:03.956 : Loading cutscene data ....
+00:01:03.958 : Loading routes data ....
+00:01:03.965 : Loading overrides ....
+00:01:03.982 : Loading cargo data ....
+00:01:04.017 : Loading company cargo data ....
+00:01:04.375 : Loading unlock data ....
+00:01:04.532 : Map '/map/europe.mbd' loading started ....
+00:01:05.233 : Map base sectors successfully loaded.
+00:01:05.247 : Map loaded
+00:01:05.263 : Loading save '/home/profiles/6C756B61737A/save/autosave/game.sii'
+00:01:05.327 : Building routing graph.
+00:01:05.581 : Route data generation started.
+00:01:05.694 : Route data generation finished.
+00:01:05.701 : Road network navigation caching started.
+00:01:05.932 : Cached navigation loaded
+00:01:05.932 : Road network navigation caching finished.
+00:01:05.950 : Garage update started.
+00:01:06.121 : Garage update finished.
+00:01:11.375 : quit
+00:01:11.394 : Creating save-game file (/home/profiles/6C756B61737A/save/autosave/game.sii) ...
+00:01:11.407 : Game has been auto-saved.
+00:01:11.449 : quit
+00:01:11.452 : [hashfs] dlc_balt.scs: Unmounted.
+00:01:11.452 : [hashfs] dlc_winter.scs: Unmounted.
+00:01:11.452 : [hashfs] dlc_vikings.scs: Unmounted.
+00:01:11.452 : [hashfs] dlc_valentine.scs: Unmounted.
+00:01:11.452 : [hashfs] dlc_trailers.scs: Unmounted.
+00:01:11.452 : [hashfs] dlc_toys.scs: Unmounted.
+00:01:11.453 : [hashfs] dlc_space.scs: Unmounted.
+00:01:11.453 : [hashfs] dlc_schwarzmuller.scs: Unmounted.
+00:01:11.453 : [hashfs] dlc_rocket_league.scs: Unmounted.
+00:01:11.453 : [hashfs] dlc_rims.scs: Unmounted.
+00:01:11.453 : [hashfs] dlc_raven.scs: Unmounted.
+00:01:11.453 : [hashfs] dlc_prehistoric.scs: Unmounted.
+00:01:11.453 : [hashfs] dlc_pirates.scs: Unmounted.
+00:01:11.454 : [hashfs] dlc_phys_flags.scs: Unmounted.
+00:01:11.454 : [hashfs] dlc_pcg.scs: Unmounted.
+00:01:11.454 : [hashfs] dlc_oversize.scs: Unmounted.
+00:01:11.454 : [hashfs] dlc_north.scs: Unmounted.
+00:01:11.454 : [hashfs] dlc_nature.scs: Unmounted.
+00:01:11.454 : [hashfs] dlc_mighty_griffin.scs: Unmounted.
+00:01:11.454 : [hashfs] dlc_michelin.scs: Unmounted.
+00:01:11.454 : [hashfs] dlc_metallics2.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_metallics.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_krone.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_it.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_halloween.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_fr.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_flags_us.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_flags_uk.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_flags_tr.scs: Unmounted.
+00:01:11.455 : [hashfs] dlc_flags_sk.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_sc.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_s.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_ru.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_ro.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_pt.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_pl.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_nl.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_n.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_lv.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_lt.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_kr.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_jp.scs: Unmounted.
+00:01:11.456 : [hashfs] dlc_flags_it.scs: Unmounted.
+00:01:11.457 : [hashfs] dlc_flags_ie.scs: Unmounted.
+00:01:11.457 : [hashfs] dlc_flags_hu.scs: Unmounted.
+00:01:11.457 : [hashfs] dlc_flags_fr.scs: Unmounted.
+00:01:11.457 : [hashfs] dlc_flags_fi.scs: Unmounted.
+00:01:11.457 : [hashfs] dlc_flags_es.scs: Unmounted.
+00:01:11.457 : [hashfs] dlc_flags_ee.scs: Unmounted.
+00:01:11.458 : [hashfs] dlc_flags_dk.scs: Unmounted.
+00:01:11.458 : [hashfs] dlc_flags_de.scs: Unmounted.
+00:01:11.458 : [hashfs] dlc_flags_cz.scs: Unmounted.
+00:01:11.458 : [hashfs] dlc_flags_cn.scs: Unmounted.
+00:01:11.458 : [hashfs] dlc_flags_ch.scs: Unmounted.
+00:01:11.458 : [hashfs] dlc_flags_ca.scs: Unmounted.
+00:01:11.458 : [hashfs] dlc_flags_bz.scs: Unmounted.
+00:01:11.459 : [hashfs] dlc_flags_be.scs: Unmounted.
+00:01:11.459 : [hashfs] dlc_flags_aus.scs: Unmounted.
+00:01:11.459 : [hashfs] dlc_flags_at.scs: Unmounted.
+00:01:11.459 : [hashfs] dlc_fantasy.scs: Unmounted.
+00:01:11.459 : [hashfs] dlc_east.scs: Unmounted.
+00:01:11.459 : [hashfs] dlc_dragon.scs: Unmounted.
+00:01:11.459 : [hashfs] dlc_daf_tuning_pack.scs: Unmounted.
+00:01:11.460 : [hashfs] dlc_christmas.scs: Unmounted.
+00:01:11.647 : [net]  LOG INFO: Stopped
+00:01:11.652 : [hashfs] core.scs: Unmounted.
+00:01:11.653 : [hashfs] def.scs: Unmounted.
+00:01:11.653 : [hashfs] locale.scs: Unmounted.
+00:01:11.653 : [hashfs] base_cfg.scs: Unmounted.
+00:01:11.653 : [hashfs] base.scs: Unmounted.
+00:01:11.653 : [hashfs] effect.scs: Unmounted.
+00:01:11.708 : [sys] Process manager shutdown.
